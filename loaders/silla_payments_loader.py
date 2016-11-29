@@ -4,7 +4,7 @@ import datetime
 from budget_app.loaders import PaymentsLoader
 from budget_app.models import Budget
 
-class EntidadPaymentsLoader(PaymentsLoader):
+class SillaPaymentsLoader(PaymentsLoader):
 
     # Parse an input line into fields
     def parse_item(self, budget, line):

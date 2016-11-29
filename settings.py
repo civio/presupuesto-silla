@@ -3,10 +3,10 @@
 from django.conf.urls import patterns, url
 
 MAIN_ENTITY_LEVEL = 'municipio'
-MAIN_ENTITY_NAME = 'Entidad'
+MAIN_ENTITY_NAME = 'Silla'
 
-BUDGET_LOADER = 'EntidadBudgetLoader'
-PAYMENTS_LOADER = 'EntidadPaymentsLoader'
+BUDGET_LOADER = 'SillaBudgetLoader'
+PAYMENTS_LOADER = 'SillaPaymentsLoader'
 
 FEATURED_PROGRAMMES = ['1300', '1500', '1600', '1700', '2300', '3300', '3400']
 
@@ -26,7 +26,7 @@ OVERVIEW_INCOME_NODES = [
                             'label': 'Impuesto sobre incremento del valor de terrenos',
                             'link_id': '11'
                           },
-                          '13', '29', '42', '45'
+                          '13', '29', '42', '45',
                         ]
 
 OVERVIEW_EXPENSE_NODES = ['13', '16', '22', '31', '44', '60', '91']
@@ -71,6 +71,7 @@ SEARCH_ENTITIES = False
 
 # Supported languages. Default: ('es', 'Castellano')
 LANGUAGES = (
+  ('ca', 'Valenci&agrave;'),
   ('es', 'Castellano'),
 )
 
@@ -79,7 +80,7 @@ LANGUAGES = (
 # FACEBOOK_ID             = '1234567898765432'
 
 # Setup Data Source Budget link
-DATA_SOURCE_BUDGET      = 'http://www.entidad.sample/presupuestos'
+DATA_SOURCE_BUDGET      = 'http://www.silla.es/serveis-municipals/serveis-economics/pressupost-municipal'
 
 # Setup Data Source Population link
 DATA_SOURCE_POPULATION  = 'http://www.ine.es/dynt3/inebase/index.htm?padre=517'
@@ -88,13 +89,13 @@ DATA_SOURCE_POPULATION  = 'http://www.ine.es/dynt3/inebase/index.htm?padre=517'
 DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=10019&L=0'
 
 # Setup Main Entity Web Url
-MAIN_ENTITY_WEB_URL     = 'http://www.entidad.sample/'
+MAIN_ENTITY_WEB_URL     = 'http://www.silla.es/'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
-# MAIN_ENTITY_LEGAL_URL   = 'http://www.entidad.sample/legal'
+MAIN_ENTITY_LEGAL_URL   = 'http://www.silla.es/avis-legal'
 
 # External URL for Cookies Policy (if empty we use out template page/cookies.html)
-# COOKIES_URL             = 'http://www.entidad.sample/politica-cookies'
+COOKIES_URL             = ''
 
 # Allow overriding of default treemap color scheme
 COLOR_SCALE = [ '#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#e7969c', '#bcbd22', '#17becf' ]

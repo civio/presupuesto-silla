@@ -1,2 +1,2 @@
-from entidad_budget_loader import EntidadBudgetLoader
-from entidad_payments_loader import EntidadPaymentsLoader
+from silla_budget_loader import SillaBudgetLoader
+from silla_payments_loader import SillaPaymentsLoader

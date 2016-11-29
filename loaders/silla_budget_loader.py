@@ -6,7 +6,7 @@ import csv
 import os
 import re
 
-class EntidadBudgetLoader(SimpleBudgetLoader):
+class SillaBudgetLoader(SimpleBudgetLoader):
 
     def parse_item(self, filename, line):
         # Programme codes have changed in 2015, due to new laws. Since the application expects a code-programme
