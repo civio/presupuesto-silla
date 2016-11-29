@@ -1,0 +1,77 @@
+#Aplicación presupuestaria,Económico,Desc. capítulo,Desc. económico,Previsión inicial,Modificaciones,Previsión definitiva,DR neto
+2013.0.0.0.0.11200,11200,Impuestos directos,I.B.I. Rústica,40387.15,,40387.15,39587.22
+2013.0.0.0.0.11300,11300,Impuestos directos,I.B.I. Urbana,4274707.24,,4274707.24,4900624.95
+2013.0.0.0.0.11400,11400,Impuestos directos,I.B.I. carac. Especials,30000.0,,30000.0,29209.14
+2013.0.0.0.0.11500,11500,Impuestos directos,Imp. Vehic. trac. mecànic,1100000.0,,1100000.0,978329.67
+2013.0.0.0.0.11600,11600,Impuestos directos,I.I.V.T.N. Urbana,170000.0,,170000.0,196270.65
+2013.0.0.0.0.13000,13000,Impuestos directos,I.A.E. Activi. Empresaria,1033560.26,,1033560.26,899095.11
+2013.0.0.0.0.29000,29000,Impuestos indirectos,I.C.I.O,100000.0,,100000.0,162816.88
+2013.0.0.0.0.30200,30200,"Tasas, precios públicos y otros ingresos",Taxa Recollid. residus ur,80364.48,,80364.48,78373.36
+2013.0.0.0.0.30900,30900,"Tasas, precios públicos y otros ingresos",Taxa Servei Cementeri,5150.0,,5150.0,4485.68
+2013.0.0.0.0.31300,31300,"Tasas, precios públicos y otros ingresos",Taxa utilitz. poliesport.,41200.0,,41200.0,23980.5
+2013.0.0.0.0.31301,31301,"Tasas, precios públicos y otros ingresos",Taxa utili. Piscina Estiu,61800.0,,61800.0,32942.65
+2013.0.0.0.0.31302,31302,"Tasas, precios públicos y otros ingresos",Taxa utili. Piscina Cober,210000.0,,210000.0,-153.65
+2013.0.0.0.0.31900,31900,"Tasas, precios públicos y otros ingresos",Taxa Captura Gossos,760.0,,760.0,150.0
+2013.0.0.0.0.31901,31901,"Tasas, precios públicos y otros ingresos",Taxa utilit. locals Públi,2000.0,,2000.0,3336.5
+2013.0.0.0.0.32100,32100,"Tasas, precios públicos y otros ingresos",Taxa Llicències urbanísti,20500.0,,20500.0,12346.41
+2013.0.0.0.0.32200,32200,"Tasas, precios públicos y otros ingresos",Llicènc. prim. ocup habit,15000.0,,15000.0,40761.05
+2013.0.0.0.0.32500,32500,"Tasas, precios públicos y otros ingresos",Taxa exped. docum. admin.,2500.0,,2500.0,2998.21
+2013.0.0.0.0.32600,32600,"Tasas, precios públicos y otros ingresos",Taxa serv.retir. vehicles,70000.0,,70000.0,34783.8
+2013.0.0.0.0.32900,32900,"Tasas, precios públicos y otros ingresos",Taxa Llicèn. obert. estab,61800.0,,61800.0,55693.28
+2013.0.0.0.0.33100,33100,"Tasas, precios públicos y otros ingresos",Taxa Entr. Vehi Voreres,104990.95,,104990.95,98807.09
+2013.0.0.0.0.33200,33200,"Tasas, precios públicos y otros ingresos",Taxa Emp. Expl. Suministr,264109.0,,264109.0,203825.02
+2013.0.0.0.0.33300,33300,"Tasas, precios públicos y otros ingresos",Taxa Emp. Expl.Serv.Telec,65000.0,,65000.0,
+2013.0.0.0.0.33400,33400,"Tasas, precios públicos y otros ingresos",Taxa Ocup. Vies Obres,2000.0,,2000.0,3930.91
+2013.0.0.0.0.33500,33500,"Tasas, precios públicos y otros ingresos",Taxa Ocup.Vies Taules i C,25000.0,,25000.0,38660.79
+2013.0.0.0.0.33800,33800,"Tasas, precios públicos y otros ingresos",Taxa Comp.Telef.Expaña SA,44512.9,,44512.9,26015.22
+2013.0.0.0.0.33900,33900,"Tasas, precios públicos y otros ingresos",Taxa Ocu.Vies Mercat Fest,53000.0,,53000.0,49830.42
+2013.0.0.0.0.33901,33901,"Tasas, precios públicos y otros ingresos",Taxa Ocup Vies Fira S.Seb,32575.0,,32575.0,17600.0
+2013.0.0.0.0.34200,34200,"Tasas, precios públicos y otros ingresos",P.P.A.E. cursos EPA,14327.3,,14327.3,13509.0
+2013.0.0.0.0.34201,34201,"Tasas, precios públicos y otros ingresos",P.P.A.E.C. Escoles N/P/E,16862.0,,16862.0,-164.0
+2013.0.0.0.0.34202,34202,"Tasas, precios públicos y otros ingresos",P.P.A.E.C.Campament Estiu,6155.0,,6155.0,5728.0
+2013.0.0.0.0.34203,34203,"Tasas, precios públicos y otros ingresos",P.P.A.E.C.Escola Matinera,10000.0,,10000.0,827.4
+2013.0.0.0.0.34204,34204,"Tasas, precios públicos y otros ingresos",p.p. escoleta infantil,12000.0,,12000.0,
+2013.0.0.0.0.34400,34400,"Tasas, precios públicos y otros ingresos",P.P.A.E.C. Teatre,2948.0,,2948.0,5366.0
+2013.0.0.0.0.34401,34401,"Tasas, precios públicos y otros ingresos",p.p. escola teatre,9750.0,,9750.0,1310.0
+2013.0.0.0.0.35000,35000,"Tasas, precios públicos y otros ingresos",Contribucions Especials,1.0,,1.0,
+2013.0.0.0.0.38900,38900,"Tasas, precios públicos y otros ingresos",Reint. PPTO. tancats  O.C,1.0,,1.0,3374.32
+2013.0.0.0.0.38901,38901,"Tasas, precios públicos y otros ingresos",Reinteg. Estat i S.S.,1.0,11718.55,11719.55,42014.26
+2013.0.0.0.0.38903,38903,"Tasas, precios públicos y otros ingresos",Reinteg.Pom.Vivendes VPO,1.0,,1.0,
+2013.0.0.0.0.38904,38904,"Tasas, precios públicos y otros ingresos",reint. menjador escolar,,,,382.68
+2013.0.0.0.0.39120,39120,"Tasas, precios públicos y otros ingresos",Multes Ordenança Circulac,100000.0,,100000.0,146138.76
+2013.0.0.0.0.39190,39190,"Tasas, precios públicos y otros ingresos",Altres Multes i Sancions,3500.0,,3500.0,41076.34
+2013.0.0.0.0.39200,39200,"Tasas, precios públicos y otros ingresos",Recarrecs Sense Requerime,42600.0,,42600.0,5380.61
+2013.0.0.0.0.39210,39210,"Tasas, precios públicos y otros ingresos",Recarrec Executiu,17000.0,,17000.0,601.97
+2013.0.0.0.0.39211,39211,"Tasas, precios públicos y otros ingresos",Recarrec d'Apremi,46000.0,,46000.0,124528.05
+2013.0.0.0.0.39301,39301,"Tasas, precios públicos y otros ingresos",Interessos de Demora,26000.0,,26000.0,72075.77
+2013.0.0.0.0.39600,39600,"Tasas, precios públicos y otros ingresos",Cannon d'urbanització,1.0,,1.0,
+2013.0.0.0.0.39610,39610,"Tasas, precios públicos y otros ingresos",Quotes d'Urbanització,1.0,,1.0,
+2013.0.0.0.0.39900,39900,"Tasas, precios públicos y otros ingresos",Altres Ing. Paper Cartro,42008.0,,42008.0,43229.49
+2013.0.0.0.0.39901,39901,"Tasas, precios públicos y otros ingresos",Altres Ing. Edictes Contr,3300.0,,3300.0,9302.84
+2013.0.0.0.0.39902,39902,"Tasas, precios públicos y otros ingresos",Altres Ing. Conces. Aigua,33156.24,,33156.24,27355.8
+2013.0.0.0.0.39903,39903,"Tasas, precios públicos y otros ingresos",Altr.Ing.Con.Piscin.Estiu,15000.0,,15000.0,
+2013.0.0.0.0.39905,39905,"Tasas, precios públicos y otros ingresos",Altr.Ingr.Exec.Subsidiari,1.0,9689.3,9690.3,35946.92
+2013.0.0.0.0.39906,39906,"Tasas, precios públicos y otros ingresos",Altr.Ing.Retir.Vehi.Aband,2143.4,,2143.4,
+2013.0.0.0.0.39907,39907,"Tasas, precios públicos y otros ingresos",gestió ecoparc Beniparrel,14602.82,,14602.82,
+2013.0.0.0.0.39908,39908,"Tasas, precios públicos y otros ingresos",Subhasta Vedat,21887.64,50746.51,72634.15,72634.15
+2013.0.0.0.0.39909,39909,"Tasas, precios públicos y otros ingresos",Altres Ingressos,5000.0,795.94,5795.94,328917.91
+2013.0.0.0.0.42000,42000,Transferencia corrientes,Particip. Tributs d'Estat,2707207.2,,2707207.2,3509697.96
+2013.0.0.0.0.42090,42090,Transferencia corrientes,Altres Transfer d'Estat,,3100.0,3100.0,5712.59
+2013.0.0.0.0.45080,45080,Transferencia corrientes,Subvencions Generalitat,305004.62,561316.8,866321.42,735621.91
+2013.0.0.0.0.46100,46100,Transferencia corrientes,Subvencions Diputació,16113.57,106500.0,122613.57,116479.0
+2013.0.0.0.0.46600,46600,Transferencia corrientes,Subvencions F.V.M.P.,64860.49,3866.42,68726.91,66816.85
+2013.0.0.0.0.49000,49000,Transferencia corrientes,Subvencions Fons Europeus,,,,845.3
+2013.0.0.0.0.49700,49700,Transferencia corrientes,Otras transferencias de la Unión Europea,,17438.15,17438.15,21322.04
+2013.0.0.0.0.52000,52000,Ingresos patrimoniales,Interessos Dipòsits E.B.,919.0,,919.0,7432.04
+2013.0.0.0.0.54100,54100,Ingresos patrimoniales,Renda de Bens Immobles,1916.1,,1916.1,
+2013.0.0.0.0.55000,55000,Ingresos patrimoniales,C.A. Terrenys antenes,10651.91,,10651.91,
+2013.0.0.0.0.55003,55003,Ingresos patrimoniales,C.A. Bar Pisicna Estiu,6481.97,,6481.97,7438.12
+2013.0.0.0.0.55004,55004,Ingresos patrimoniales,C.A. Parades Mercat,24557.84,,24557.84,30638.8
+2013.0.0.0.0.55006,55006,Ingresos patrimoniales,Escoleta infantil,,,,9926.48
+2013.0.0.0.0.55009,55009,Ingresos patrimoniales,Altres Concessions Admini,1.0,,1.0,6957.23
+2013.0.0.0.0.55100,55100,Ingresos patrimoniales,Cessió de Ninxols,37080.0,,37080.0,33757.0
+2013.0.0.0.0.72100,72100,Transferencias de capital,Subvencions S.P.E.E,,14894.36,14894.36,14723.48
+2013.0.0.0.0.75080,75080,Transferencias de capital,Subvencions Generalitat,,107487.47,107487.47,107487.47
+2013.0.0.0.0.76100,76100,Transferencias de capital,Subvencions Diputació,,842170.05,842170.05,844670.05
+2013.0.0.0.0.87010,87010,Activos financieros,Para gastos con financiación afectada,,1094415.96,1094415.96,
+#,,,,11529958.08,2824139.51,14354097.59,14433363.45

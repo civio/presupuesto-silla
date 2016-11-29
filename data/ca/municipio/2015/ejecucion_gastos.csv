@@ -1,0 +1,355 @@
+#Aplicación presupuestaria,Programa,Económico,Desc. programa,Descripción Económico,Proyecto,Desc. proyecto,Consig. inicial,Modificaciones,Consig. definit.,Obl. recon. (O)
+2015.0.0.0112.0.310,0112,310,Operacions financeres,Interessos prèstecs,,,410038.83,-112778.06,297260.77,291396.48
+2015.0.0.0112.0.913,0112,913,Operacions financeres,Amortitzacio prèstecs,,,1089686.15,-15000.0,1074686.15,1073820.91
+2015.0.0.1320.0.12009,1320,12009,Seguretat i orgre públic,Retribucions bàsiques,,,430781.84,-16015.26,414766.58,460162.67
+2015.0.0.1320.0.12103,1320,12103,Seguretat i orgre públic,Retribucions complementar,,,744380.55,23035.89,767416.44,720911.16
+2015.0.0.1320.0.150,1320,150,Seguretat i orgre públic,Complement Productivitat,,,35000.0,,35000.0,63400.72
+2015.0.0.1320.0.16000,1320,16000,Seguretat i orgre públic,Quotes socials,,,375150.34,10800.24,385950.58,358659.05
+2015.0.0.1320.0.204,1320,204,Seguretat i orgre públic,Arrendament vehicles,,,43836.76,,43836.76,33314.25
+2015.0.0.1320.0.213,1320,213,Seguretat i orgre públic,Rep.mment i cons.Maquinar,,,600.0,17339.13,17939.13,15402.56
+2015.0.0.1320.0.214,1320,214,Seguretat i orgre públic,Rep.mment i cons. vehicle,,,1530.0,348.74,1878.74,4689.52
+2015.0.0.1320.0.22100,1320,22100,Seguretat i orgre públic,Subministres,,,18000.0,6513.61,24513.61,29847.56
+2015.0.0.1320.1029.623,1320,623,Seguretat i orgre públic,"Maquinaria, instalaciones técnicas y utillaje",1029,Cameres Video PL [ZP2],,3563.0,3563.0,3563.0
+2015.0.0.1320.0.625,1320,625,Seguretat i orgre públic,Mobiliario,,,,41797.17,41797.17,41797.17
+2015.0.0.1320.1001.632,1320,632,Seguretat i orgre públic,Edificios y otras construcciones,1001,REHAB. CASSETES AGROCROS,,5444.05,5444.05,5444.05
+2015.1.0.1320.1001.632,1320,632,Seguretat i orgre públic,Edificios y otras construcciones,1001,REHAB. CASSETES AGROCROS,,4008.4,4008.4,
+2015.0.0.1330.0.219,1330,219,Control del trànsit,Rep.mment cons.altre Immo,,,10000.0,1960.82,11960.82,14127.31
+2015.0.0.1330.0.22100,1330,22100,Control del trànsit,Subministres,,,5000.0,,5000.0,1762.0
+2015.0.0.1331.0.202,1331,202,Recollida de vehicles,Arrendament edifici,,,3105.0,,3105.0,3000.0
+2015.0.0.1331.0.22799,1331,22799,Recollida de vehicles,Treb.real.altres empreses,,,50000.0,-9383.25,40616.75,33272.01
+2015.0.0.1510.0.12009,1510,12009,Urbanisme,Retribucions bàsiques,,,86479.14,3176.6,89655.74,71362.99
+2015.0.0.1510.0.12103,1510,12103,Urbanisme,Retribucions complementar,,,116896.36,-29192.14,87704.22,102388.12
+2015.0.0.1510.0.16000,1510,16000,Urbanisme,Quotes socials,,,63046.41,-15836.86,47209.55,50818.4
+2015.0.0.1510.0.21200,1510,21200,Urbanisme,Rehabilitació edifici Molí Forés. Execució Subsidiaria,,,,69290.71,69290.71,2625.7
+2015.0.0.1510.0.22699,1510,22699,Urbanisme,Despeses diverses,,,3000.0,-1773.18,1226.82,1226.82
+2015.0.0.1510.0.22799,1510,22799,Urbanisme,Treb.real.altres empreses,,,1500.0,-473.71,1026.29,
+2015.0.0.1510.0.626,1510,626,Urbanisme,Inv. nova Equips informat,,,,5480.85,5480.85,3679.17
+2015.0.0.1510.0.681,1510,681,Urbanisme,Terrenos y bienes naturales,,,,124510.0,124510.0,124509.57
+2015.0.0.1521.0.22699,1521,22699,Agencia de l'habitatge,Otros gastos diversos,,,,2054.58,2054.58,2054.58
+2015.0.0.1531.0.12009,1531,12009,Obres,Retribucions bàsiques,,,60390.84,-47436.49,12954.35,22616.77
+2015.0.0.1531.0.12103,1531,12103,Obres,Retribucions complementar,,,67697.88,-13449.46,54248.42,31319.45
+2015.0.0.1531.0.13002,1531,13002,Obres,Personal laboral fix,,,,,,20185.32
+2015.0.0.1531.0.131,1531,131,Obres,Personal Laboral eventual,,,19453.92,,19453.92,20647.21
+2015.0.0.1531.0.150,1531,150,Obres,Complement de productivitat. Obres,,,,,,450.0
+2015.0.0.1531.0.16000,1531,16000,Obres,Quotes socials,,,46127.29,-12599.04,33528.25,24944.65
+2015.0.0.1531.0.22100,1531,22100,Obres,Subministres,,,15300.0,5000.0,20300.0,17906.61
+2015.1.0.1531.1407.609,1531,609,Obres,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,1407,"CONDIC VEGA,ALERO.PAP278",,58000.0,58000.0,57999.99
+2015.0.0.1531.1532.619,1531,619,Obres,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,1532,Conveni Diputació connectivitat Rotondes Accés Polígons des de V-30 a AP-7,,798043.48,798043.48,
+2015.0.0.1532.0.12009,1532,12009,vies públiques,Retribucions bàsiques,,,9822.0,,9822.0,
+2015.0.0.1532.0.12103,1532,12103,vies públiques,Retribucions complementar,,,10825.08,359.29,11184.37,
+2015.0.0.1532.0.13002,1532,13002,vies públiques,Personal laboral fix,,,,,,21641.92
+2015.0.0.1532.0.16000,1532,16000,vies públiques,Quotes socials,,,6400.59,713.38,7113.97,2082.74
+2015.0.0.1532.0.210,1532,210,vies públiques,Rep mment.conser.Infrastr,,,1000.0,50950.67,51950.67,19784.55
+2015.1.0.1532.0.210,1532,210,vies públiques,Infraestructuras y bienes naturales,,,,2143.15,2143.15,
+2015.0.0.1532.0.213,1532,213,vies públiques,Rep.mment i cons.Maquinar,,,10000.0,47262.66,57262.66,58513.57
+2015.0.0.1532.0.214,1532,214,vies públiques,Rep.mment i cons. vehicle,,,3000.0,3172.23,6172.23,5787.19
+2015.0.0.1532.0.22699,1532,22699,vies públiques,Otros gastos diversos,,,,,,10011.59
+2015.0.0.1532.0.22799,1532,22799,vies públiques,Otros trabajos realizados por otras empresas y profesionales,,,,,,7260.0
+2015.0.0.1532.0.609,1532,609,vies públiques,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,,,,29020.34,29020.34,29020.34
+2015.0.0.1532.1504.609,1532,609,vies públiques,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,1504,ADQUIS. MOBILIARI URBÀ [PAMU 2015],,30701.8,30701.8,29510.18
+2015.1.0.1532.005.609,1532,609,vies públiques,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,005,Urbanit. Espioca [pluvial,,25519.68,25519.68,
+2015.1.0.1532.0238.609,1532,609,vies públiques,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,0238,Molí Magallo,,93156.88,93156.88,
+2015.1.0.1532.0415.609,1532,609,vies públiques,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,0415,Urbanitzacio Pla Bega,,125179.12,125179.12,
+2015.1.0.1532.0630.609,1532,609,vies públiques,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,0630,U.E. Maset,,2782.36,2782.36,
+2015.0.0.1532.1403.619,1532,619,vies públiques,Inv. rep infrastructures,1403,Mill.Espai pub.PPOS532/14,,130080.0,130080.0,130080.0
+2015.0.0.1532.1520.619,1532,619,vies públiques,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,1520,Remodelació plaça del Poble [Diputació IFS 2015],,147340.0,147340.0,
+2015.0.0.1532.1526.619,1532,619,vies públiques,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,1526,Remodelació carrer Sant Rafael i accessos Parc Estació [Diputació IFS 2015],,150000.0,150000.0,
+2015.1.0.1532.0006.619,1532,619,vies públiques,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,0006,Urb. Av. Xuquer [pluvials,,24582.75,24582.75,
+2015.1.0.1532.1005.619,1532,619,vies públiques,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,1005,MOBILIARI URBA I SENYALS,,7566.52,7566.52,
+2015.1.0.1532.1403.619,1532,619,vies públiques,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,1403,Mill.Espai pub.PPOS532/14,,80080.0,80080.0,80080.0
+2015.0.0.1532.0.623,1532,623,vies públiques,"Maquinaria, instalaciones técnicas y utillaje",,,,2436.7,2436.7,2436.7
+2015.1.0.1532.0917.623,1532,623,vies públiques,"Maquinaria, instalaciones técnicas y utillaje",0917,ADQUISICIO MATERIAL OBRES,,288.92,288.92,
+2015.1.0.1532.0.770,1532,770,vies públiques,A Empresses Pivades,,,,11680.91,11680.91,
+2015.0.0.1600.0.210,1600,210,Clavegueram i Vessam.Aigu,Rep mment.conser.Infrastr,,,1000.0,-888.86,111.14,111.14
+2015.0.0.1610.0.12009,1610,12009,Servei d'Aigua Potable,Retribucions bàsiques,,,22073.64,,22073.64,20517.3
+2015.0.0.1610.0.12103,1610,12103,Servei d'Aigua Potable,Retribucions complementar,,,27138.16,-2204.14,24934.02,25940.22
+2015.0.0.1610.0.16000,1610,16000,Servei d'Aigua Potable,Quotes socials,,,15255.66,,15255.66,14294.27
+2015.0.0.1611.1524.619,1611,619,Pluvials,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,1524,Automatització comporta pluvial Rambleta [Diputació IFS 2015],,3620.32,3620.32,
+2015.0.0.1621.0.22799,1621,22799,Recogida de residuos,Treb.real.altres empreses,,,720000.0,14615.52,734615.52,734615.52
+2015.0.0.1640.0.12009,1640,12009,Cementeri Municipal,Retribucions bàsiques,,,17507.94,,17507.94,20989.61
+2015.0.0.1640.0.12103,1640,12103,Cementeri Municipal,Retribucions complementar,,,23673.72,5437.29,29111.01,25661.28
+2015.0.0.1640.0.16000,1640,16000,Cementeri Municipal,Quotes socials,,,12766.31,655.69,13422.0,13209.59
+2015.0.0.1640.0.212,1640,212,Cementeri Municipal,Rep.mment.i cons.edificis,,,2000.0,11849.19,13849.19,14193.01
+2015.0.0.1640.0.22100,1640,22100,Cementeri Municipal,Subministres,,,2319.52,,2319.52,1899.71
+2015.1.0.1640.1402.609,1640,609,Cementeri Municipal,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,1402,NINXOLS PPOS 2014/531,,4902.24,4902.24,4665.34
+2015.1.0.1640.0708.619,1640,619,Cementeri Municipal,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,0708,Inversions Cementeri,,7835.91,7835.91,
+2015.0.0.1650.0.12009,1650,12009,Enllumenat Públic,Retribucions bàsiques,,,41069.8,,41069.8,30821.54
+2015.0.0.1650.0.12103,1650,12103,Enllumenat Públic,Retribucions complementar,,,62269.96,-21762.03,40507.93,45316.14
+2015.0.0.1650.0.16000,1650,16000,Enllumenat Públic,Quotes socials,,,32035.33,-2859.63,29175.7,21620.69
+2015.0.0.1650.0.210,1650,210,Enllumenat Públic,Rep mment.conser.Infrastr,,,5000.0,5050.2,10050.2,15802.79
+2015.0.0.1650.0.212,1650,212,Enllumenat Públic,Edificios y otras construcciones,,,,5900.86,5900.86,
+2015.0.0.1650.0.213,1650,213,Enllumenat Públic,Rep.mment i cons.Maquinar,,,10000.0,609.24,10609.24,1485.2
+2015.0.0.1650.0.22100,1650,22100,Enllumenat Públic,Subministres,,,200000.0,,200000.0,179309.0
+2015.0.0.1650.1506.619,1650,619,Enllumenat Públic,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,1506,CONVENI SUBSTITUCIO LLUMS ENLLUMENAT PUBLIC TECNOLOGIA LED,,200000.0,200000.0,
+2015.0.0.1700.0.12009,1700,12009,Medi ambient,Retribucions bàsiques,,,18628.26,,18628.26,20543.66
+2015.0.0.1700.0.12103,1700,12103,Medi ambient,Retribucions complementar,,,25164.3,1350.97,26515.27,25164.3
+2015.0.0.1700.0.16000,1700,16000,Medi ambient,Quotes socials,,,13575.69,739.39,14315.08,11185.92
+2015.0.0.1710.0.12009,1710,12009,Parcs i Jardins,Retribucions bàsiques,,,30244.12,,30244.12,20122.82
+2015.0.0.1710.0.12103,1710,12103,Parcs i Jardins,Retribucions complementar,,,35020.58,-32322.95,2697.63,20609.45
+2015.0.0.1710.0.16000,1710,16000,Parcs i Jardins,Quotes socials,,,20232.06,,20232.06,10318.75
+2015.0.0.1710.0.210,1710,210,Parcs i Jardins,Rep mment.conser.Infrastr,,,87292.04,36520.69,123812.73,115434.63
+2015.0.0.1710.0.22100,1710,22100,Parcs i Jardins,Subministres,,,2000.0,,2000.0,
+2015.0.0.1710.0.22699,1710,22699,Parcs i Jardins,Despeses diverses,,,8000.0,-3273.66,4726.34,5094.99
+2015.0.0.1710.1505.619,1710,619,Parcs i Jardins,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,1505,Remodelac. parcs i jardins i adquisició jocs infantils i tercera edat [PIPJ 231/2015],,31801.86,31801.86,31801.86
+2015.0.0.1710.1518.619,1710,619,Parcs i Jardins,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,1518,Remodelació jardins de la Bega [Diputació IFS 2015],,10000.0,10000.0,
+2015.0.0.1710.1519.619,1710,619,Parcs i Jardins,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,1519,Remodelació zona jocs infantils Hort del Satisfet [Diputacio IFS 2015],,23173.27,23173.27,
+2015.0.0.1710.1529.619,1710,619,Parcs i Jardins,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,1529,Remodelació Parc de l'Alteró [Diputació IFS 2015],,86922.73,86922.73,
+2015.0.0.1721.0.22699,1721,22699,Protecció i millora medi ambient,Despeses diverses,,,3000.0,2018.93,5018.93,5018.93
+2015.0.0.2210.0.16209,2210,16209,Personal actiu,Despes. soc.-Prev riscos,,,10596.99,2201.2,12798.19,12668.94
+2015.0.0.2211.0.16205,2211,16205,Segur. protec. i prom.soc,Despeses socials,,,6106.11,1360.0,7466.11,6180.89
+2015.0.0.2310.0.12009,2310,12009,Assitència Social,Retribucions bàsiques,,,56758.88,-7400.0,49358.88,57244.07
+2015.0.0.2310.0.12103,2310,12103,Assitència Social,Retribucions complementar,,,65608.97,17885.87,83494.84,59946.9
+2015.0.0.2310.0.13002,2310,13002,Assitència Social,Personal laboral fix,,,,,,20875.02
+2015.0.0.2310.0.16000,2310,16000,Assitència Social,Quotes socials,,,37934.03,16877.58,54811.61,49599.34
+2015.0.0.2310.0.22699,2310,22699,Assitència Social,Despeses diverses,,,1000.0,,1000.0,24.76
+2015.0.0.2311.0.480,2311,480,Acció Social,Ajudes indiv i atenc bene,,,40000.0,13400.0,53400.0,49184.0
+2015.0.0.2311.0.489,2311,489,Acció Social,Aportacions i subvencions,,,5000.0,1883.88,6883.88,6883.88
+2015.0.0.2312.0.22799,2312,22799,Assistència domiciliaria,Treb.real.altres empreses,,,18000.0,,18000.0,9584.76
+2015.0.0.2313.0.22699,2313,22699,Prevenció Drogodependenc.,Despeses diverses,,,3000.0,2000.0,5000.0,494.89
+2015.0.0.2314.0.22699,2314,22699,Entitats no lucratives,Despeses diverses,,,1000.0,,1000.0,523.89
+2015.0.0.2315.0.22699,2315,22699,Departament de la dona,Despeses diverses,,,1000.0,1453.55,2453.55,2453.49
+2015.0.0.2316.0.202,2316,202,Centre de dia per a menors,Arrendament edifici,,,8600.0,,8600.0,6217.92
+2015.0.0.2316.0.22699,2316,22699,Centre de dia per a menors,Despeses diverses,,,3000.0,89.94,3089.94,5472.02
+2015.0.0.2317.0.480,2317,480,Menjador social,Ajudes indiv i atenc bene,,,3600.0,6000.0,9600.0,9600.0
+2015.0.0.2318.0.12009,2318,12009,Educador de Carrer,Retribucions bàsiques,,,16182.1,-2204.77,13977.33,17389.21
+2015.0.0.2318.1513.12009,2318,12009,Educador de Carrer,Otras retribuciones básicas,1513,Conveni Fundació Ebro Foods- Itinerarios inserción socio laboral,,7425.52,7425.52,2142.14
+2015.0.0.2318.0.12103,2318,12103,Educador de Carrer,Retribucions complementar,,,17705.66,5165.42,22871.08,17991.41
+2015.0.0.2318.1513.12103,2318,12103,Educador de Carrer,Otros complementos,1513,Conveni Fundació Ebro Foods- Itinerarios inserción socio laboral,,4096.76,4096.76,864.26
+2015.0.0.2318.0.13002,2318,13002,Educador de Carrer,Personal laboral fix,,,18274.93,,18274.93,17020.11
+2015.0.0.2318.0.131,2318,131,Educador de Carrer,Personal Laboral eventual,,,58565.01,3037.1,61602.11,63249.35
+2015.0.0.2318.0.16000,2318,16000,Educador de Carrer,Quotes socials,,,35496.89,4171.5,39668.39,35218.91
+2015.0.0.2318.1513.16000,2318,16000,Educador de Carrer,Seguridad Social,1513,Conveni Fundació Ebro Foods- Itinerarios inserción socio laboral,,3579.13,3579.13,444.29
+2015.0.0.2318.0.22699,2318,22699,Educador de Carrer,Despeses diverses,,,2000.0,,2000.0,1233.73
+2015.0.0.2318.1513.22699,2318,22699,Educador de Carrer,Otros gastos diversos,1513,Conveni Fundació Ebro Foods- Itinerarios inserción socio laboral,,4190.59,4190.59,226.78
+2015.0.0.2319.0.12009,2319,12009,Ajuda a la dependència,Retribucions bàsiques,,,,,,13588.12
+2015.0.0.2319.0.12103,2319,12103,Ajuda a la dependència,Retribucions complementar,,,,1160.31,1160.31,12639.39
+2015.0.0.2319.0.131,2319,131,Ajuda a la dependència,Personal Laboral eventual,,,25067.26,,25067.26,
+2015.0.0.2319.0.16000,2319,16000,Ajuda a la dependència,Quotes socials,,,8272.09,,8272.09,6885.6
+2015.0.0.2410.1515.12009,2410,12009,Escoles Taller,Retribucions Bàsiques.  Subvenció Taller ocupació FOTAE/2015/64/46,1515,Taller Ocupació 'Mlillora Silla II' [FOTAE/2015/64/46,,36450.64,36450.64,36710.51
+2015.0.0.2410.1515.131,2410,131,Escoles Taller,Laboral temporal,1515,Taller Ocupació 'Mlillora Silla II' [FOTAE/2015/64/46,,78714.4,78714.4,65416.58
+2015.0.0.2410.1515.16000,2410,16000,Escoles Taller,Seguridad Social,1515,Taller Ocupació 'Mlillora Silla II' [FOTAE/2015/64/46,,16807.07,16807.07,15190.32
+2015.0.0.2410.0.22699,2410,22699,Escoles Taller,Despeses diverses,,,2000.0,,2000.0,
+2015.0.0.2410.1515.22699,2410,22699,Escoles Taller,Otros gastos diversos,1515,Taller Ocupació 'Mlillora Silla II' [FOTAE/2015/64/46,,34560.0,34560.0,10276.19
+2015.0.0.2411.1410.12009,2411,12009,Promoció de l'ocupació,Retribuciones básicas,1410,Taller d'ocupació FOTAE/2014/41/46,,70553.47,70553.47,70553.47
+2015.0.0.2411.1412.12009,2411,12009,Promoció de l'ocupació,Otras retribuciones básicas,1412,T-FIL FME99/2014/14/46,,,,4928.82
+2015.0.0.2411.1516.12009,2411,12009,Promoció de l'ocupació,Otras retribuciones básicas,1516,T-FIL FME99/2015/11/46,,2607.6,2607.6,2366.69
+2015.0.0.2411.1412.12103,2411,12103,Promoció de l'ocupació,Otros complementos,1412,T-FIL FME99/2014/14/46,,,,837.56
+2015.0.0.2411.1410.131,2411,131,Promoció de l'ocupació,Laboral temporal,1410,Taller d'ocupació FOTAE/2014/41/46,,133008.91,133008.91,133008.91
+2015.0.0.2411.1411.131,2411,131,Promoció de l'ocupació,Laboral temporal,1411,Salari jove ECORJV/2014/251/46,,21161.76,21161.76,20944.9
+2015.0.0.2411.1412.131,2411,131,Promoció de l'ocupació,Laboral temporal,1412,T-FIL FME99/2014/14/46,,5975.56,5975.56,
+2015.0.0.2411.1413.131,2411,131,Promoció de l'ocupació,Laboral temporal,1413,Salari Jove ECORJV/2014/90/46,,16937.31,16937.31,16737.27
+2015.0.0.2411.1509.131,2411,131,Promoció de l'ocupació,Laboral temporal,1509,Projecte Green Commerce - ECORJV/2015/284/46,,4707.06,4707.06,3124.98
+2015.0.0.2411.1510.131,2411,131,Promoció de l'ocupació,Laboral temporal,1510,Projecte Silla@activa - ECORJV/2015/465/46,,7414.24,7414.24,4246.5
+2015.0.0.2411.1511.131,2411,131,Promoció de l'ocupació,Laboral temporal,1511,Projecte Silla Turística - EMCORP/2015/141/46,,3138.66,3138.66,3099.29
+2015.0.0.2411.1410.16000,2411,16000,Promoció de l'ocupació,Cuotas sociales,1410,Taller d'ocupació FOTAE/2014/41/46,,28949.36,28949.36,28949.36
+2015.0.0.2411.1411.16000,2411,16000,Promoció de l'ocupació,Seguridad Social,1411,Salari jove ECORJV/2014/251/46,,6676.53,6676.53,6835.3
+2015.0.0.2411.1412.16000,2411,16000,Promoció de l'ocupació,Seguridad Social,1412,T-FIL FME99/2014/14/46,,1873.32,1873.32,1933.87
+2015.0.0.2411.1413.16000,2411,16000,Promoció de l'ocupació,Seguridad Social,1413,Salari Jove ECORJV/2014/90/46,,5343.63,5343.63,5084.05
+2015.0.0.2411.1509.16000,2411,16000,Promoció de l'ocupació,Seguridad Social,1509,Projecte Green Commerce - ECORJV/2015/284/46,,1459.19,1459.19,1012.71
+2015.0.0.2411.1510.16000,2411,16000,Promoció de l'ocupació,Seguridad Social,1510,Projecte Silla@activa - ECORJV/2015/465/46,,2298.41,2298.41,1552.57
+2015.0.0.2411.1511.16000,2411,16000,Promoció de l'ocupació,Seguridad Social,1511,Projecte Silla Turística - EMCORP/2015/141/46,,958.58,958.58,986.04
+2015.0.0.2411.1516.16000,2411,16000,Promoció de l'ocupació,Seguridad Social,1516,T-FIL FME99/2015/11/46,,817.49,817.49,741.96
+2015.0.0.2411.0.22699,2411,22699,Promoció de l'ocupació,Despeses diverses,,,3000.0,416.64,3416.64,2955.8
+2015.0.0.2411.1410.22699,2411,22699,Promoció de l'ocupació,Otros gastos diversos,1410,Taller d'ocupació FOTAE/2014/41/46,,28224.0,28224.0,27584.84
+2015.0.0.2411.1412.22699,2411,22699,Promoció de l'ocupació,Otros gastos diversos,1412,T-FIL FME99/2014/14/46,,4888.61,4888.61,4888.61
+2015.0.0.2411.1516.22699,2411,22699,Promoció de l'ocupació,Otros gastos diversos,1516,T-FIL FME99/2015/11/46,,3270.11,3270.11,3270.11
+2015.1.0.2411.0623.632,2411,632,Promoció de l'ocupació,Edificios y otras construcciones,0623,Escola Taller-centre form,,470.0,470.0,
+2015.0.0.2412.0.12009,2412,12009,Bossa d'ocupació,Retribucions bàsiques,,,,,,2230.89
+2015.0.0.2412.0.12103,2412,12103,Bossa d'ocupació,Retribucions complementaries,,,,,,645.57
+2015.0.0.2412.0.131,2412,131,Bossa d'ocupació,Personal Laboral eventual,,,6265.53,71370.92,77636.45,56940.66
+2015.0.0.2412.1514.131,2412,131,Bossa d'ocupació,Laboral temporal,1514,Pla Ocupació Conjunt AAPP 2015 [PEC 2015],,26571.98,26571.98,25425.99
+2015.1.0.2412.0.131,2412,131,Bossa d'ocupació,Laboral temporal,,,,970.02,970.02,970.02
+2015.0.0.2412.0.16000,2412,16000,Bossa d'ocupació,Quotes socials,,,2067.62,22111.88,24179.5,24136.82
+2015.0.0.2412.1514.16000,2412,16000,Bossa d'ocupació,Seguridad Social,1514,Pla Ocupació Conjunt AAPP 2015 [PEC 2015],,8702.36,8702.36,8392.71
+2015.0.0.3110.0.22100,3110,22100,Medicaments i prod sanita,Subministres,,,,256.06,256.06,256.06
+2015.0.0.3111.0.22799,3111,22799,Salut Pública,Treb.real.altres empreses,,,29200.0,30501.15,59701.15,58355.7
+2015.0.0.3112.0.22799,3112,22799,Desinfeccio i Desratitza.,Treb.real.altres empreses,,,10000.0,6542.0,16542.0,16542.0
+2015.0.0.3113.0.13002,3113,13002,Ciutats sanes,Personal laboral fix,,,14914.88,-1781.81,13133.07,14030.9
+2015.0.0.3113.0.16000,3113,16000,Ciutats sanes,Quotes socials,,,4623.61,650.33,5273.94,4376.11
+2015.0.0.3113.0.22699,3113,22699,Ciutats sanes,Despeses diverses,,,800.0,1400.0,2200.0,2059.51
+2015.0.0.3121.0.12009,3121,12009,Servei Mèdic,Retribucions bàsiques,,,35563.26,-5474.98,30088.28,39270.96
+2015.0.0.3121.0.12103,3121,12103,Servei Mèdic,Retribucions complementar,,,48033.02,2578.85,50611.87,48033.02
+2015.0.0.3121.0.16000,3121,16000,Servei Mèdic,Quotes socials,,,25914.85,1462.78,27377.63,20773.8
+2015.0.0.3200.1501.226,3200,226,Ponència d'educació,Gastos diversos,1501,ERASMUS + Hàbits del somni,,20000.0,20000.0,1800.89
+2015.0.0.3200.0.22699,3200,22699,Ponència d'educació,Despeses diverses,,,5000.0,-2927.24,2072.76,2072.76
+2015.0.0.3200.1501.22699,3200,22699,Ponència d'educació,Otros gastos diversos,1501,ERASMUS + Hàbits del somni,,27000.0,27000.0,10316.02
+2015.0.0.3200.1501.23020,3200,23020,Ponència d'educació,Del personal no directivo,1501,ERASMUS + Hàbits del somni,,,,97.3
+2015.0.0.3200.1501.23120,3200,23120,Ponència d'educació,Del personal no directivo,1501,ERASMUS + Hàbits del somni,,,,67.09
+2015.0.0.3230.0.482,3230,482,Ensenyament Preescolar,Guarderia xiquets 0-3 any,,,8000.0,-8000.0,,
+2015.0.0.3231.0.12009,3231,12009,Ensenyament Primari,Retribucions bàsiques,,,38488.73,,38488.73,47010.8
+2015.0.0.3231.0.12103,3231,12103,Ensenyament Primari,Retribucions complementar,,,40243.39,24489.49,64732.88,54576.41
+2015.0.0.3231.0.16000,3231,16000,Ensenyament Primari,Quotes socials,,,24406.96,-2957.69,21449.27,23083.67
+2015.0.0.3231.0.205,3231,205,Ensenyament Primari,Arrendamientos de mobiliario y enseres,,,,,,873.2
+2015.0.0.3231.0.212,3231,212,Ensenyament Primari,Rep.mment.i cons.edificis,,,5889.68,9950.25,15839.93,18046.28
+2015.0.0.3231.0.22100,3231,22100,Ensenyament Primari,Subministres,,,85930.0,,85930.0,81219.28
+2015.0.0.3261.0.13002,3261,13002,Escola Permanent d'Adults,Personal laboral fix,,,46070.68,-2243.06,43827.62,40721.37
+2015.0.0.3261.0.131,3261,131,Escola Permanent d'Adults,Personal Laboral eventual,,,,10495.69,10495.69,14387.9
+2015.0.0.3261.0.16000,3261,16000,Escola Permanent d'Adults,Quotes socials,,,14281.91,3737.6,18019.51,17233.55
+2015.0.0.3261.0.22699,3261,22699,Escola Permanent d'Adults,Despeses diverses,,,2500.0,,2500.0,1959.26
+2015.0.0.3261.0.626,3261,626,Escola Permanent d'Adults,Equipos para procesos de información,,,,3000.0,3000.0,2995.0
+2015.0.0.3262.0.131,3262,131,Beques estudis,Personal Laboral eventual,,,,29990.2,29990.2,30000.0
+2015.0.0.3262.0.16000,3262,16000,Beques estudis,Quotes socials,,,,2103.2,2103.2,2093.4
+2015.0.0.3262.0.481,3262,481,Beques estudis,Premis i Beques,,,97000.0,-30320.0,66680.0,64444.67
+2015.0.0.3262.1530.481,3262,481,Beques estudis,Premis i Beques,1530,Xarxa llibres,,185733.12,185733.12,130486.91
+2015.0.0.3263.0.481,3263,481,Beques Menjador,Premis i Beques,,,18000.0,-1237.07,16762.93,7407.4
+2015.0.0.3264.0.12009,3264,12009,Gabinet psicopedagògic,Retribucions bàsiques,,,54755.94,1124.08,55880.02,35524.85
+2015.0.0.3264.0.12103,3264,12103,Gabinet psicopedagògic,Retribucions complementar,,,55174.14,-42872.49,12301.65,42305.77
+2015.0.0.3264.0.16000,3264,16000,Gabinet psicopedagògic,Quotes socials,,,34078.32,-6604.15,27474.17,17825.22
+2015.0.0.3265.0.410,3265,410,OOAA Conservatori Música,OOAA Conservatori Música,,,223950.67,-77535.19,146415.48,146415.48
+2015.1.0.3265.1405.632,3265,632,OOAA Conservatori Música,Edificios y otras construcciones,1405,Acces.conservatori.PID,,53649.67,53649.67,53649.67
+2015.1.0.3265.0.780,3265,780,OOAA Conservatori Música,A instit. sense fi lucre,,,,6.01,6.01,
+2015.0.0.3300.0.12009,3300,12009,Animador Cultural,Retribucions bàsiques,,,36581.16,-3748.23,32832.93,39068.48
+2015.0.0.3300.0.12103,3300,12103,Animador Cultural,Retribucions complementar,,,41429.64,2899.59,44329.23,46584.59
+2015.0.0.3300.0.131,3300,131,Animador Cultural,Personal Laboral eventual,,,,4878.42,4878.42,
+2015.0.0.3300.0.150,3300,150,Animador Cultural,Productividad,,,,1172.18,1172.18,560.88
+2015.0.0.3300.0.16000,3300,16000,Animador Cultural,Quotes socials,,,24183.35,3088.66,27272.01,24270.82
+2015.0.0.3321.0.12009,3321,12009,Bibliotecas públicas,Retribucions bàsiques,,,42302.23,-7122.18,35180.05,48054.96
+2015.0.0.3321.0.12103,3321,12103,Bibliotecas públicas,Retribucions complementar,,,41542.62,14045.48,55588.1,46935.14
+2015.0.0.3321.0.16000,3321,16000,Bibliotecas públicas,Quotes socials,,,25991.9,1653.73,27645.63,23423.68
+2015.0.0.3321.0.212,3321,212,Bibliotecas públicas,Rep.mment.i cons.edificis,,,1000.0,565.54,1565.54,3077.22
+2015.0.0.3321.0.22699,3321,22699,Bibliotecas públicas,Despeses diverses,,,2500.0,63.51,2563.51,1051.83
+2015.0.0.3322.0.202,3322,202,Archivos,Arrendament edifici,,,18317.0,-6317.0,12000.0,12000.0
+2015.0.0.3330.0.13002,3330,13002,Escola de teatre,Personal laboral fix,,,5866.1,400.36,6266.46,5970.23
+2015.0.0.3330.0.16000,3330,16000,Escola de teatre,Quotes socials,,,1818.49,,1818.49,2114.72
+2015.0.0.3330.0.22699,3330,22699,Escola de teatre,Despeses diverses,,,1500.0,6497.7,7997.7,7297.7
+2015.0.0.3331.0.22699,3331,22699,Representacions teatrals,Despeses diverses,,,20000.0,-4750.0,15250.0,15197.64
+2015.0.0.3340.0.22699,3340,22699,Ponència de Cultura,Despeses diverses,,,28000.0,35377.63,63377.63,60586.16
+2015.1.0.3340.0.780,3340,780,Ponència de Cultura,A instit. sense fi lucre,,,,50.0,50.0,
+2015.0.0.3341.0.12009,3341,12009,Casa de la Cultura,Retribucions bàsiques,,,19141.1,-1262.9,17878.2,23034.67
+2015.0.0.3341.0.12103,3341,12103,Casa de la Cultura,Retribucions complementar,,,21400.82,1414.71,22815.53,24597.44
+2015.0.0.3341.0.16000,3341,16000,Casa de la Cultura,Quotes socials,,,12568.0,7434.9,20002.9,13064.52
+2015.0.0.3342.0.22699,3342,22699,Setmana lletres valencian,Despeses diverses,,,2500.0,,2500.0,1768.53
+2015.0.0.3343.0.22699,3343,22699,Campanya animació lectura,Despeses diverses,,,1000.0,,1000.0,449.88
+2015.1.0.3344.1408.22699,3344,22699,Projectes cultur. Europeu,Otros gastos diversos,1408,VIA EUROPA 20142ES02KA105,,9642.73,9642.73,8729.44
+2015.0.0.3344.0.481,3344,481,Projectes cultur. Europeu,Premis i Beques,,,,40.9,40.9,40.9
+2015.1.0.3344.1408.481,3344,481,Projectes cultur. Europeu,Premis i Beques,1408,VIA EUROPA 20142ES02KA105,,8320.1,8320.1,8283.34
+2015.0.0.3345.0.489,3345,489,Bandes de Música,Aportacions i subvencions,,,30000.0,-30000.0,,
+2015.0.0.3347.0.12009,3347,12009,Pomoció d'Ús Valencià,Retribucions bàsiques,,,17581.44,-2019.53,15561.91,20364.63
+2015.0.0.3347.0.12103,3347,12103,Pomoció d'Ús Valencià,Retribucions complementar,,,16672.88,1027.85,17700.73,15481.96
+2015.0.0.3347.0.16000,3347,16000,Pomoció d'Ús Valencià,Quotes socials,,,10618.84,739.39,11358.23,8774.28
+2015.0.0.3347.0.22000,3347,22000,Pomoció d'Ús Valencià,Material oficina,,,300.0,-300.0,,
+2015.0.0.3347.0.22699,3347,22699,Pomoció d'Ús Valencià,Despeses diverses,,,1500.0,332.7,1832.7,1124.77
+2015.0.0.3360.1523.619,3360,619,Arqueología y protección del Patrimonio Histórico-Artístico,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general,1523,Honoraris tècnics seguiment arqueològic plaça Poble [Diputació IFS 2015],,2660.0,2660.0,
+2015.0.0.3360.1502.627,3360,627,Arqueología y protección del Patrimonio Histórico-Artístico,Proyectos complejos,1502,Rest. mat. arqueològic a exposar al museu d'historia i arquología,,10000.0,10000.0,9999.23
+2015.0.0.3370.0.12009,3370,12009,Ponència de Joventut,Retribucions bàsiques,,,34884.34,-1731.45,33152.89,43026.27
+2015.0.0.3370.0.12103,3370,12103,Ponència de Joventut,Retribucions complementar,,,40734.54,10462.99,51197.53,43747.19
+2015.0.0.3370.0.131,3370,131,Ponència de Joventut,Personal Laboral eventual,,,3129.5,-3449.27,-319.77,2026.24
+2015.0.0.3370.0.16000,3370,16000,Ponència de Joventut,Quotes socials,,,24474.58,4586.11,29060.69,24291.64
+2015.0.0.3371.0.22699,3371,22699,Centre informacio juvenil,Despeses diverses,,,24118.85,3170.09,27288.94,27066.1
+2015.0.0.3371.1507.625,3371,625,Centre informacio juvenil,Mobiliario,1507,Equipament per  centres culturals SARC,,2559.15,2559.15,2559.15
+2015.0.0.3379.0.212,3379,212,Centre Tercera edat,Rep.mment.i cons.edificis,,,1842.24,,1842.24,7955.52
+2015.0.0.3379.0.22100,3379,22100,Centre Tercera edat,Subministres,,,27897.24,,27897.24,6395.24
+2015.0.0.3379.0.22699,3379,22699,Centre Tercera edat,Despeses diverses,,,1000.0,-1060.12,-60.12,811.7
+2015.0.0.3380.0.22699,3380,22699,Festes Populars,Despeses diverses,,,50000.0,42439.97,92439.97,91034.36
+2015.0.0.3410.0.22699,3410,22699,Ponència d'Esports,Despeses diverses,,,15000.0,779.48,15779.48,15426.62
+2015.0.0.3410.0.489,3410,489,Ponència d'Esports,Aportacions i subvencions,,,95000.0,,95000.0,95000.0
+2015.0.0.3420.0.12009,3420,12009,Piscina d'Estiu,Retribucions bàsiques,,,,2574.52,2574.52,9919.44
+2015.0.0.3420.0.12103,3420,12103,Piscina d'Estiu,Retribucions complementar,,,,,,3430.39
+2015.0.0.3420.0.13002,3420,13002,Piscina d'Estiu,Personal laboral fix,,,52822.81,1981.48,54804.29,37235.73
+2015.0.0.3420.0.16000,3420,16000,Piscina d'Estiu,Quotes socials,,,16375.07,-5213.52,11161.55,16728.89
+2015.0.0.3420.0.213,3420,213,Piscina d'Estiu,Rep.mment i cons.Maquinar,,,22000.0,11507.07,33507.07,22937.7
+2015.0.0.3420.0.22799,3420,22799,Piscina d'Estiu,Treb.real.altres empreses,,,12600.0,1929.6,14529.6,21498.49
+2015.0.0.3421.0.12009,3421,12009,Poliesportiu Municipal,Retribucions bàsiques,,,48064.0,6328.86,54392.86,50269.83
+2015.0.0.3421.0.12103,3421,12103,Poliesportiu Municipal,Retribucions complementar,,,77016.38,-12295.3,64721.08,73297.64
+2015.0.0.3421.0.16000,3421,16000,Poliesportiu Municipal,Quotes socials,,,38774.92,,38774.92,34321.39
+2015.0.0.3421.0.212,3421,212,Poliesportiu Municipal,Rep.mment.i cons.edificis,,,1000.0,954.97,1954.97,14736.24
+2015.0.0.3421.0.213,3421,213,Poliesportiu Municipal,Rep.mment i cons.Maquinar,,,5000.0,219.72,5219.72,3614.17
+2015.0.0.3421.0.22100,3421,22100,Poliesportiu Municipal,Subministres,,,67108.62,,67108.62,34878.29
+2015.1.0.3421.0611.622,3421,622,Poliesportiu Municipal,Edificios y otras construcciones,0611,Dot. esport. municipals,,41350.5,41350.5,
+2015.0.0.3421.0.623,3421,623,Poliesportiu Municipal,"Maquinaria, instalaciones técnicas y utillaje",,,,32000.0,32000.0,32000.0
+2015.0.0.3422.0.213,3422,213,Piscines municipals,Rep.mment i cons.Maquinar,,,,,,622.8
+2015.0.0.3422.0.22100,3422,22100,Piscines municipals,Subministres,,,132708.16,,132708.16,64910.1
+2015.0.0.3422.0.22699,3422,22699,Piscines municipals,Otros gastos diversos,,,,,,30969.99
+2015.0.0.3422.0.22799,3422,22799,Piscines municipals,Treb.real.altres empreses,,,,,,6096.07
+2015.1.0.3422.0501.600,3422,600,Piscines municipals,Inversiones en terrenos,0501,Honoraris i urb.Piscina,,169172.76,169172.76,
+2015.0.0.4100.0.12009,4100,12009,Consell Local Agrari,Retribucions bàsiques,,,45130.54,-3397.03,41733.51,52317.12
+2015.0.0.4100.0.12103,4100,12103,Consell Local Agrari,Retribucions complementar,,,62686.12,3846.87,66532.99,59612.46
+2015.0.0.4100.0.16000,4100,16000,Consell Local Agrari,Quotes socials,,,33423.16,1784.51,35207.67,24281.54
+2015.0.0.4100.0.22699,4100,22699,Consell Local Agrari,Despeses diverses,,,5000.0,1129.68,6129.68,5852.41
+2015.1.0.4121.1020.609,4121,609,Millora Medi Natural,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,1020,CASA FIGUERO,,100353.42,100353.42,
+2015.0.0.4190.0.12009,4190,12009,Vedat de caça,Retribucions bàsiques,,,9379.62,,9379.62,10403.19
+2015.0.0.4190.0.12103,4190,12103,Vedat de caça,Retribucions complementar,,,12508.02,617.68,13125.7,12481.14
+2015.0.0.4190.0.131,4190,131,Vedat de caça,Personal Laboral eventual,,,,1735.29,1735.29,233.08
+2015.1.0.4190.0.131,4190,131,Vedat de caça,Laboral temporal,,,,54185.51,54185.51,32029.01
+2015.0.0.4190.0.151,4190,151,Vedat de caça,Dotació gratificació per serveis de caracter extraordinari,,,,,,287.7
+2015.0.0.4190.0.16000,4190,16000,Vedat de caça,Quotes socials,,,6785.17,15103.85,21889.02,16174.23
+2015.1.0.4190.0.16000,4190,16000,Vedat de caça,Seguridad Social,,,,2528.2,2528.2,2528.2
+2015.0.0.4190.0.22699,4190,22699,Vedat de caça,Despeses diverses,,,,36117.09,36117.09,32026.54
+2015.1.0.4190.0.600,4190,600,Vedat de caça,Inversiones en terrenos,,,,832.5,832.5,
+2015.0.0.4300.0.22699,4300,22699,Promoció Econòmica,Despeses diverses,,,6850.0,2031.59,8881.59,8693.49
+2015.0.0.4311.0.22699,4311,22699,Fira Sant Sebastià,Despeses diverses,,,32575.0,32701.01,65276.01,65222.85
+2015.0.0.4312.0.212,4312,212,"Mercados, abastos y lonjas",Rep.mment.i cons.edificis,,,2204.0,2631.04,4835.04,4386.74
+2015.0.0.4312.0.22100,4312,22100,"Mercados, abastos y lonjas",Subministres,,,5000.0,,5000.0,3179.23
+2015.0.0.4330.0.489,4330,489,Promoció empresarial,Aportacions i subvencions,,,10000.0,,10000.0,
+2015.1.0.4500.1021.627,4500,627,Porjectes i direccio obr.,Proyectos complejos,1021,PROJ. DIREC. OBRES I LLIC,,5586.22,5586.22,
+2015.1.0.4520.0508.609,4520,609,Recursos Hidràulics,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,0508,Invers.xarxa aigües pluv.,,104705.75,104705.75,
+2015.0.0.4540.1508.609,4540,609,Camins rurals,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,1508,SPEE CAMINS RURALS,,19267.0,19267.0,17925.54
+2015.1.0.4540.1022.609,4540,609,Camins rurals,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,1022,CAMINS RURALS,,26672.99,26672.99,22765.37
+2015.0.0.4540.0.624,4540,624,Camins rurals,Elementos de transporte,,,,8789.35,8789.35,8789.35
+2015.0.0.4910.0.489,4910,489,Mitjans de comunicació,Aportacions i subvencions,,,10000.0,-3000.0,7000.0,
+2015.0.0.4911.0.11002,4911,11002,Gabinet de comunicacio,Retrib. personal eventual,,,35499.94,-14057.08,21442.86,25470.59
+2015.0.0.4911.0.16000,4911,16000,Gabinet de comunicacio,Quotes socials,,,2239.11,11714.98,13954.09,8341.29
+2015.0.0.4911.0.22799,4911,22799,Gabinet de comunicacio,Treb.real.altres empreses,,,1000.0,3000.0,4000.0,4000.0
+2015.0.0.4920.0.216,4920,216,Administració electrònica,Rep.mment i cons.E.inform,,,4948.8,4427.19,9375.99,18256.1
+2015.0.0.4920.0.22799,4920,22799,Administració electrònica,Treb.real.altres empreses,,,25000.0,9435.25,34435.25,25501.7
+2015.0.0.4920.0.626,4920,626,Administració electrònica,Equipos para procesos de información,,,,5376.1,5376.1,5376.0
+2015.0.0.4920.1521.626,4920,626,Administració electrònica,Equipos para procesos de información,1521,Informática-modernització implantació backoffice [Diputació IFS 2015],,85000.0,85000.0,
+2015.0.0.4930.0.12009,4930,12009,O.M.I.C.,Retribucions bàsiques,,,13135.46,,13135.46,13419.62
+2015.0.0.4930.0.12103,4930,12103,O.M.I.C.,Retribucions complementar,,,13457.08,906.11,14363.19,14440.2
+2015.0.0.4930.0.16000,4930,16000,O.M.I.C.,Quotes socials,,,8243.69,473.14,8716.83,7011.72
+2015.0.0.4930.0.22699,4930,22699,O.M.I.C.,Despeses diverses,,,800.0,4400.0,5200.0,2955.9
+2015.0.0.9120.0.10001,9120,10001,Òrgans de govern,Retribucions dedic. exclu,,,104154.84,,104154.84,109794.72
+2015.0.0.9120.0.16000,9120,16000,Òrgans de govern,Quotes socials,,,34371.1,8134.34,42505.44,35579.39
+2015.0.0.9120.0.22699,9120,22699,Òrgans de govern,Despeses diverses,,,3000.0,,3000.0,3139.09
+2015.0.0.9120.0.233,9120,233,Òrgans de govern,Assitències,,,108361.0,392.34,108753.34,108614.25
+2015.0.0.9121.0.489,9121,489,Grups Politics,Aportacions i subvencions,,,22000.0,9900.0,31900.0,31683.32
+2015.0.0.9200.0.22200,9200,22200,Serveis Generals,Servei de comunicacions,,,5000.0,-5000.0,,
+2015.0.0.9200.0.22699,9200,22699,Serveis Generals,Despeses diverses,,,500.0,,500.0,129.67
+2015.0.0.9200.0.23020,9200,23020,Serveis Generals,Dietes,,,1500.0,,1500.0,79.7
+2015.0.0.9200.0.23120,9200,23120,Serveis Generals,Despeses locomoció,,,2000.0,,2000.0,526.93
+2015.0.0.9201.0.12009,9201,12009,Secretaria,Retribucions bàsiques,,,166520.46,,166520.46,142414.68
+2015.0.0.9201.0.12103,9201,12103,Secretaria,Retribucions complementar,,,220461.36,-119036.41,101424.95,135564.31
+2015.0.0.9201.0.16000,9201,16000,Secretaria,Quotes socials,,,119964.36,-40265.78,79698.58,69665.0
+2015.0.0.9202.0.203,9202,203,Oficines Municipals,Arrendament maquinaria,,,12360.0,11892.66,24252.66,6551.57
+2015.0.0.9202.0.213,9202,213,Oficines Municipals,Rep.mment i cons.Maquinar,,,23000.0,2879.44,25879.44,18628.16
+2015.0.0.9202.0.22000,9202,22000,Oficines Municipals,Material oficina,,,50000.0,5326.16,55326.16,65208.27
+2015.0.0.9202.0.22100,9202,22100,Oficines Municipals,Subministres,,,80000.0,,80000.0,57361.01
+2015.0.0.9202.0.22200,9202,22200,Oficines Municipals,Servei de comunicacions,,,15000.0,,15000.0,40075.41
+2015.0.0.9202.0.223,9202,223,Oficines Municipals,Servei transport/missatge,,,1000.0,,1000.0,
+2015.0.0.9203.0.202,9203,202,Edificis Municipals,Arrendament edifici,,,20800.0,-9490.19,11309.81,11400.0
+2015.0.0.9203.0.212,9203,212,Edificis Municipals,Rep.mment.i cons.edificis,,,8000.0,68213.26,76213.26,70610.4
+2015.0.0.9203.0.22799,9203,22799,Edificis Municipals,Treb.real.altres empreses,,,345609.35,24950.72,370560.07,346507.3
+2015.0.0.9203.0.632,9203,632,Edificis Municipals,Inv. repos.Edificis i con,,,,13438.81,13438.81,11525.39
+2015.0.0.9203.1503.632,9203,632,Edificis Municipals,Edificios y otras construcciones,1503,SUBSTITUCIO LED EDIFICIS [PEEITL],,88245.21,88245.21,8292.71
+2015.0.0.9203.1512.632,9203,632,Edificis Municipals,Edificios y otras construcciones,1512,Restauracio Casa la Palma,,40000.0,40000.0,
+2015.0.0.9204.0.12009,9204,12009,Departament informàtica,Retribucions bàsiques,,,28677.0,-1589.54,27087.46,31387.27
+2015.0.0.9204.0.12103,9204,12103,Departament informàtica,Retribucions complementar,,,38438.12,2246.68,40684.8,38438.12
+2015.0.0.9204.0.16000,9204,16000,Departament informàtica,Quotes socials,,,20805.69,1086.14,21891.83,19838.7
+2015.0.0.9205.0.22799,9205,22799,Asses. i defensa lletrada,Treb.real.altres empreses,,,15000.0,47085.74,62085.74,61555.03
+2015.0.0.9206.0.224,9206,224,Bens Municipals,Contracte de segur,,,55000.0,-10923.19,44076.81,43711.61
+2015.0.0.9207.0.22699,9207,22699,Jutjat,Despeses diverses,,,10000.0,-846.33,9153.67,5322.76
+2015.0.0.9209.0.12009,9209,12009,Departament de Personal,Retribucions bàsiques,,,90675.6,,90675.6,86833.75
+2015.0.0.9209.0.12103,9209,12103,Departament de Personal,Retribucions complementar,,,115564.26,-38244.03,77320.23,82318.73
+2015.0.0.9209.0.16000,9209,16000,Departament de Personal,Quotes socials,,,63934.35,-12926.39,51007.96,49851.31
+2015.0.0.9240.0.22699,9240,22699,Participació ciutadana,Despeses diverses,,,1500.0,,1500.0,315.85
+2015.0.0.9250.0.12009,9250,12009,Atenció ciutada i U.Admin,Retribucions bàsiques,,,182908.14,11954.33,194862.47,188599.91
+2015.0.0.9250.0.12103,9250,12103,Atenció ciutada i U.Admin,Retribucions complementar,,,230512.96,-29076.06,201436.9,216101.88
+2015.0.0.9250.0.16000,9250,16000,Atenció ciutada i U.Admin,Quotes socials,,,128160.54,-4560.7,123599.84,115197.42
+2015.0.0.9291.0.270,9291,270,Indemnitzacions,Despeses imprevistes,,,42000.0,61033.17,103033.17,89532.96
+2015.0.0.9292.0.12009,9292,12009,Taller,Retribucions bàsiques,,,20884.02,5873.69,26757.71,17633.12
+2015.0.0.9292.0.12103,9292,12103,Taller,Retribucions complementar,,,26122.18,-19084.13,7038.05,19225.45
+2015.0.0.9292.0.16000,9292,16000,Taller,Quotes socials,,,14571.92,,14571.92,11196.89
+2015.0.0.9292.0.22699,9292,22699,Taller,Despeses diverses,,,2550.0,,2550.0,1748.22
+2015.0.0.9310.0.12009,9310,12009,Àrea Econòmica,Retribucions bàsiques,,,100123.26,3835.89,103959.15,88006.13
+2015.0.0.9310.0.12103,9310,12103,Àrea Econòmica,Retribucions complementar,,,157638.04,-52891.5,104746.54,127292.69
+2015.0.0.9310.0.16000,9310,16000,Àrea Econòmica,Quotes socials,,,79906.0,-15753.21,64152.79,57559.66
+2015.0.0.9320.0.22799,9320,22799,Recaptació Tributs,Treb.real.altres empreses,,,31000.0,15222.51,46222.51,43981.65
+2015.0.0.9330.1517.632,9330,632,Gestión del patrimonio,Edificios y otras construcciones,1517,Habilitació local parc Eres per biblioteca municipal [fase I] [Diputació IFS 2015],,120000.0,120000.0,
+2015.0.0.9330.1522.632,9330,632,Gestión del patrimonio,Edificios y otras construcciones,1522,Adaptació escala acces pisciana descoberta [Diputació IFS 2015],,3500.0,3500.0,
+2015.0.0.9330.1525.632,9330,632,Gestión del patrimonio,Edificios y otras construcciones,1525,Substitució tanca protecció piscina/frontenis [Diputació IFS 2015],,8000.0,8000.0,
+2015.0.0.9330.1527.632,9330,632,Gestión del patrimonio,Edificios y otras construcciones,1527,Substitució tanca zona infantil CP Sant Roc [Diputació IFS 2015],,19335.79,19335.79,
+2015.0.0.9330.1528.632,9330,632,Gestión del patrimonio,Edificios y otras construcciones,1528,Instal.lació barana protecció acces Piscina Coberta [Diputació IFS 2015],,9394.6,9394.6,
+2015.0.0.9340.0.359,9340,359,Entitas finançeres,Otros gastos financieros,,,500.0,,500.0,125.23
+2015.0.0.9420.0.466,9420,466,Transferencias a Entidades Locales territoriales,A altres Ent. agrup.munic,,,5100.0,300.0,5400.0,5341.46
+2015.0.0.9430.0.463,9430,463,Transf. altres Ent. Local,A Mancomunitats,,,27000.0,,27000.0,23388.21
+#,,,,,,,10948145.26,4340146.38,15288291.64,12159934.79

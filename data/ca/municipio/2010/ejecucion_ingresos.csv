@@ -1,0 +1,91 @@
+#Aplicación presupuestaria,Economico,Desc. capítulo,Desc. Economico,Suma Prev. inicial,Suma Modificaciones,Suma Prev. definitiva,Suma DR netos
+,11200,,I.B.I. Rústica,40445,0,40445,39498.13
+,11300,,I.B.I. Urbana,3880000,0,3880000,3971145.28
+,11400,,I.B.I. carac. Especials,30000,0,30000,0
+,11500,,Imp. Vehic. trac. mecànic,1200000,0,1200000,1071690.32
+,11600,,I.I.V.T.N. Urbana,275000,0,275000,122710.18
+,13000,,I.A.E. Activi. Empresaria,803000,0,803000,700824.09
+,29000,,I.C.I.O,550000,0,550000,372394
+,30000,,Taxa Servei Submin. Aigua,0,0,0,0
+,30100,,Taxa Servei Clavegueram,0,0,0,0
+,30200,,Taxa Recollid. residus ur,125000,0,125000,99475.03
+,30900,,Taxa Servei Cementeri,5000,0,5000,4721.08
+,31300,,Taxa utilitz. poliesport.,33000,0,33000,14308.99
+,31301,,Taxa utili. Piscina Estiu,75000,0,75000,57247.17
+,31302,,Taxa utili. Piscina Cober,260000,0,260000,211706.91
+,31901,,Taxa utilit. locals Públi,6000,0,6000,280
+,32100,,Taxa Llicències urbanísti,38000,0,38000,20311.52
+,32200,,Llicènc. prim. ocup habit,15000,0,15000,18756.75
+,32300,,Taxa Altres Serv. Urbanis,6000,0,6000,0
+,32500,,Taxa exped. docum. admin.,6000,0,6000,663.36
+,32600,,Taxa serv.retir. vehicles,105000,0,105000,69463.19
+,32900,,Taxa Llicèn. obert. estab,70000,0,70000,61730.55
+,33000,,Taxa EStac. Horari Limita,35000,0,35000,0
+,33100,,Taxa Entr. Vehi Voreres,115000,0,115000,96329.91
+,33200,,Taxa Emp. Expl. Suministr,220000,0,220000,251860.78
+,33300,,Taxa Emp. Expl.Serv.Telec,65000,0,65000,100830.32
+,33400,,Taxa Ocup. Vies Obres,14000,0,14000,983.71
+,33500,,Taxa Ocup.Vies Taules i C,35000,0,35000,22930.48
+,33800,,Taxa Comp.Telef.Expaña SA,70000,0,70000,44512.9
+,33900,,Taxa Ocu.Vies Mercat Fest,70000,0,70000,52907.16
+,33901,,Taxa Ocup Vies Fira S.Seb,60000,0,60000,23245
+,34200,,P.P.A.E. cursos EPA,30000,0,30000,24021
+,34201,,P.P.A.E.C. Escoles N/P/E,16000,0,16000,16862
+,34202,,P.P.A.E.C.Campament Estiu,7000,0,7000,4343.2
+,34203,,P.P.A.E.C.Escola Matinera,15000,0,15000,5414
+,34400,,P.P.A.E.C. Teatre,6000,0,6000,2948
+,35000,,Contribucions Especials,1,0,1,0
+,38900,,Reint. PPTO. tancats  O.C,1,0,1,7315.84
+,38901,,Reinteg. Estat i S.S.,1,20890.33,20891.33,68832.84
+,38903,,Reinteg.Pom.Vivendes VPO,1,0,1,0
+,39100,,Multes Infrac. Urbanistiq,2000,0,2000,0
+,39110,,Multes Infrac. Tributaria,2000,0,2000,0
+,39120,,Multes Ordenança Circulac,82000,0,82000,445770.61
+,39190,,Altres Multes i Sancions,4000,0,4000,3528.66
+,39200,,Recarrecs Sense Requerime,2000,0,2000,10532.81
+,39210,,Recarrec Executiu,25000,0,25000,16047.5
+,39211,,Recarrec d'Apremi,25000,0,25000,45601.12
+,39301,,Interessos de Demora,25000,0,25000,25839.58
+,39600,,Cannon d'urbanització,1,0,1,0
+,39610,,Quotes d'Urbanització,1,0,1,0
+,39700,,Canon por aprovechamiento,0,0,0,72859
+,39800,,Indemnizaciones de seguro,0,3699.25,3699.25,11038.28
+,39900,,Altres Ing. Paper Cartro,52000,0,52000,42007.91
+,39901,,Altres Ing. Edictes Contr,10000,0,10000,3281.5
+,39902,,Altres Ing. Conces. Aigua,35000,0,35000,28536.93
+,39903,,Altr.Ing.Con.Piscin.Estiu,15000,0,15000,15000
+,39904,,Altr.Ing. Beques Menjador,10000,0,10000,9364.14
+,39905,,Altr.Ingr.Exec.Subsidiari,1,0,1,150
+,39906,,Altr.Ing.Retir.Vehi.Aband,10000,0,10000,2143.4
+,39909,,Altres Ingressos,5000,229015.84,234015.84,824740.04
+,42000,,Particip. Tributs d'Estat,3650000,0,3650000,2707207.2
+,42020,,Compens. Benefic. Fiscals,1,0,1,0
+,42090,,Altres Transfer d'Estat,1,73240.79,73241.79,73240.79
+,42100,,Aportacions S.P.E.E.,1,0,1,0
+,45080,,Subvencions Generalitat,389246.09,138279.34,527525.43,646202.96
+,46100,,Subvencions Diputació,19969.4,22800,42769.4,49623.45
+,46600,,Subvencions F.V.M.P.,61159.59,9530.96,70690.55,70146.69
+,49000,,Subvencions Fons Europeus,1,43000,43001,43000
+,49700,,Otras transferencias de l,0,480,480,480
+,52000,,Interessos Dipòsits E.B.,90000,0,90000,16871.23
+,54100,,Renda de Bens Immobles,1,0,1,0
+,55000,,C.A. Terrenys antenes,10000,0,10000,9292.6
+,55001,,C.A. Quiosc Parc Estació,1500,0,1500,0
+,55002,,C.A. Bar Llar Jubilats,2000,0,2000,1724.12
+,55003,,C.A. Bar Pisicna Estiu,6500,0,6500,6109.87
+,55004,,C.A. Parades Mercat,25000,0,25000,22826.5
+,55005,,C.A. Serv. Aigua Potable,977870.74,522130.34,1500001.08,1500001.08
+,55009,,Altres Concessions Admini,1,0,1,0
+,55100,,Cessió de Ninxols,60000,0,60000,35761.05
+,55900,,Canon Energètic,1,0,1,0
+,60000,,Alienació solars municipa,1,0,1,0
+,72000,,Subvencions de l'Estat,61715.03,1999418,2061133.03,2061133.03
+,72100,,Subvencions S.P.E.E,18257.74,254.91,18512.65,17679.78
+,75080,,Subvencions Generalitat,225298.06,164822.77,390120.83,388704.76
+,76100,,Subvencions Diputació,160080,31600,191680,61600
+,77000,,Aportacions Ent. Privades,1,0,1,0
+,78000,,Aportacions Urbanístiques,1,0,1,0
+,83000,,Reintegrament Avançaments,1,19402.96,19403.96,19402.96
+,87010,,Para gastos con financiac,0,6172579.27,6172579.27,0
+,91300,,Préstecs Entitats Finance,0,0,0,0
+#,,,,14343059.65,9451144.76,23794204.41,16847713.24

@@ -14,9 +14,9 @@ class SillaBudgetLoader(SimpleBudgetLoader):
         # See https://github.com/dcabo/presupuestos-aragon/wiki/La-clasificaci%C3%B3n-funcional-en-las-Entidades-Locales
         programme_mapping = {
             # old programme: new programme
-            '1340': '1350',     # Protección Civil
-            '1350': '1600',     # Extinción de incendios
-            '1550': '1532',     # Vías públicas
+            # '1340': '1350',     # Protección Civil
+            # '1350': '1600',     # Extinción de incendios
+            # '1550': '1532',     # Vías públicas
         }
 
         # Some dirty lines in input data
