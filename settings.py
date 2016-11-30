@@ -8,28 +8,23 @@ MAIN_ENTITY_NAME = 'Silla'
 BUDGET_LOADER = 'SillaBudgetLoader'
 PAYMENTS_LOADER = 'SillaPaymentsLoader'
 
-FEATURED_PROGRAMMES = ['1300', '1500', '1600', '1700', '2300', '3300', '3400']
+FEATURED_PROGRAMMES = ['1320', '1532', '1621', '1700', '2310', '3340', '3421']
 
 OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': [['11', '113']],
-                            'label': 'Impuesto a bienes inmuebles de naturaleza urbana',
+                            'label': 'Impost sobre béns immobles de naturalesa urbana',
                             'link_id': '11'
                           },
                           {
                             'nodes': [['11', '115']],
-                            'label': 'Impuesto sobre vehículos de tracción mecánica',
+                            'label': 'Impost sobre vehicles de tracció mecànica',
                             'link_id': '11'
                           },
-                          {
-                            'nodes': [['11', '116']],
-                            'label': 'Impuesto sobre incremento del valor de terrenos',
-                            'link_id': '11'
-                          },
-                          '13', '29', '42', '45',
+                          '13', '42',
                         ]
 
-OVERVIEW_EXPENSE_NODES = ['13', '16', '22', '31', '44', '60', '91']
+OVERVIEW_EXPENSE_NODES = ['01', '13', '15', '16', '23', '32', '33', '34', '92']
 
 # How aggresive should the Sankey diagram reorder the nodes. Default: 0.79 (Optional)
 # Note: 0.5 usually leaves nodes ordered as defined. 0.95 sorts by size (decreasing).
