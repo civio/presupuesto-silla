@@ -524,3 +524,13 @@ G,9,4,1,Devolución de fianzas
 #
 # Conceptos específicos del Ayuntamiento de Silla
 #
+I,4,8,0,De familias e instituciones sin fines de lucro
+I,5,2,0,Intereses Depósitos E.B.
+G,2,7,0,Gastos imprevistos
+G,4,1,0,OOAA Conservatorio Música
+G,4,8,0,Ayudas indiv y aten bene
+G,4,8,1,Premios y Becas
+G,4,8,2,Guarderia niños 0-3 años
+G,4,8,3,Ayudas para pobreza energética
+G,4,8,9,Aportaciones y subvenciones
+G,7,8,0,A instituciones sin fines de lucro
