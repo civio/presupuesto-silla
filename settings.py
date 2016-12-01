@@ -13,12 +13,14 @@ FEATURED_PROGRAMMES = ['1320', '1532', '1621', '1700', '2310', '3340', '3421']
 OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': [['11', '113']],
-                            'label': 'Impost sobre béns immobles de naturalesa urbana',
+                            'label.ca': 'Impost sobre béns immobles de naturalesa urbana',
+                            'label.es': 'Impuesto sobre bienes inmuebles de naturaleza urbana',
                             'link_id': '11'
                           },
                           {
                             'nodes': [['11', '115']],
-                            'label': 'Impost sobre vehicles de tracció mecànica',
+                            'label.ca': 'Impost sobre vehicles de tracció mecànica',
+                            'label.es': 'Impuesto sobre vehículos de tracción mecánica',
                             'link_id': '11'
                           },
                           '13', '42',
