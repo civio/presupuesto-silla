@@ -10,45 +10,32 @@ $gray-light:            lighten($gray-base, 46.7%) !default; // #777
 $gray-lighter:          lighten($gray-base, 93.5%) !default; // #eee
 $gray-lightest:         lighten($gray-base, 96%) !default;
 
-$brand-primary:         #015AA9;
-$brand-secondary:       mix( $brand-primary, white, 15% );
-$brand-terciary:        $brand-primary;
+$text-color:            #414141;
 
-$brand-primary-accent:  $brand-terciary;
-
-$text-color:            #444;
-$table-color:           $brand-primary;
-
-$headings-color:        $brand-primary;
-
-/*
-$bcn-blue:    #0069e1;
-$bcn-pink:    #d50283;
-$bcn-green:   #008000;
-$bcn-violet:  #7519E6;
-$bcn-olive:   #1c7da3;
-$bcn-red:￼    #E91B1D;
-*/
+$brand-primary:         #DA121A;
+$brand-secondary:       #D6D6D6;
+$brand-terciary:        #EEEEEE;
 
 $link-color:            $brand-primary;
-$link-hover-color:      darken( $brand-primary, 10% );
+$link-hover-color:      $link-color;
 $link-hover-decoration: underline;
+
+$table-color:           mix( $brand-secondary, black, 40% );
 
 
 // Typography
 // -------------
 
-$font-family-sans-serif:  "Open Sans", Helvetica, Arial, sans-serif;
+$font-family-sans-serif:  "Source Sans Pro", Helvetica, Arial, sans-serif;
 $font-family-serif:       Georgia, "Times New Roman", Times, serif;
 $font-family-base:        $font-family-sans-serif;
 
-$font-weight-200:         200;
 $font-weight-300:         300;
 $font-weight-400:         400;
 $font-weight-600:         600; 
-$font-weight-700:         700;
+$font-weight-700:         700; 
 
-$headings-font-weight:    $font-weight-300;
+$headings-font-weight:    $font-weight-600;
 
 
 // Container sizes
@@ -57,16 +44,14 @@ $headings-font-weight:    $font-weight-300;
 $grid-gutter-width:        30px;
 
 // Large screen / wide desktop
-
-$screen-lg:                  1280px;
-$container-large-desktop:    (1080px + $grid-gutter-width);
+$container-large-desktop:  (1050px + $grid-gutter-width);
 
 
 // Main Entity Logo
 // -------------
 
-$main-entity-logo-width:   220px;
-$main-entity-logo-height:  80px;
+$main-entity-logo-width:   214px;
+$main-entity-logo-height:  108px;
 
 
 // Navbar
@@ -77,27 +62,42 @@ $navbar-border-radius: 0;
 // Point at which the navbar becomes uncollapsed
 // $grid-float-breakpoint: 992px;  // $screen-md
 
-$dvmi-menu-length: 5;  // Number of items in main menu
+$dvmi-menu-length: 3;  // Number of items in main menu
 
 // Navbar background color
 $navbar-default-bg:       $brand-primary;
-$navbar-default-bg-hover: $brand-secondary;
+$navbar-default-bg-hover: mix( $navbar-default-bg, white, 75% );
 
 // Navbar options text color
-$dvmi-navbar-color:       white;
+$dvmi-navbar-color: mix( $brand-primary, white, 10% );
 
 $navbar-default-link-active-color:    $brand-primary;
-$navbar-default-link-active-bg:       $brand-secondary;
+$navbar-default-link-active-bg:       $brand-terciary;
 
-// Navbar collapse
-//** Point at which the navbar becomes uncollapsed.
-$grid-float-breakpoint:               992px;  //$screen-md-min;
+
+// Buttons
+// --------------
+
+$btn-primary-color:              #fff;
+$btn-primary-bg:                 darken( $table-color, 10% );
+$btn-primary-border:             darken( $table-color, 10% );
+
+$btn-border-radius-base:         0;
+$btn-border-radius-large:        0;
+$btn-border-radius-small:        0;
+
+
+// Border Radius
+// --------------
+
+$border-radius-base:  0;
+$panel-border-radius: 0;
 
 
 // Popover
 // --------------
 
-$popover-max-width:                   200px;
+$popover-max-width:                   250px;
 
 $popover-border-color:                transparent;
 $popover-fallback-border-color:       transparent;
@@ -116,84 +116,70 @@ $tooltip-bg:                  $gray;
 $tooltip-opacity:             1;
 
 
-// Footer
+// Modals
 // --------------
 
-$footer-color:  $text-color;
-$footer-bg:     white;
-
-
-// Buttons
-// --------------
-
-$btn-default-color:              white; //$text-color;
-$btn-default-bg:                 $brand-primary;
-$btn-default-border:             $brand-primary;
-
-$btn-primary-border:             $brand-primary;
-
-$btn-border-radius-base:         0;
-$btn-border-radius-large:        0;
-$btn-border-radius-small:        0;
-
-
-// Border Radius
-// --------------
-
-$border-radius-base:  0;
-$panel-border-radius: 0;
+//** Modal backdrop opacity
+$modal-backdrop-opacity:      .75;
 
 
 // Pagination
 // --------------
 
-$pagination-color:                     $brand-primary;
+$pagination-color:                     $text-color;
 $pagination-hover-color:               $brand-primary;
 
 $pagination-active-bg:                 $brand-primary;
 $pagination-active-border:             $brand-primary;
 
 
+// Footer
+// --------------
+
+$footer-color: white;
+$footer-bg: $brand-primary;
+
+
 // Search Form
 // --------------
 
-$search-form-bg: $brand-secondary;
+$search-form-bg: $brand-terciary;
 
 
 // Page Header
 // --------------
 
-$page-header-bg:            mix( $brand-secondary, white, 50% );
-$page-header-border-color:  mix( $brand-secondary, white, 50% );
+$page-header-bg:            mix( $brand-secondary, white, 40% );
+$page-header-border-color:  $brand-secondary;
 
 
 // Budget Stream
 // --------------
 
-$budget-stream-color: $brand-primary;
+$budget-stream-color: $table-color;
 
 
 // Year Slider
 // --------------
 
-$slider-bg:     mix( $brand-primary, white, 60% );  //mix( $gray-light, $gray-lighter, 50% );
-$slider-color:  $brand-primary;
+$slider-bg:     $brand-secondary;
+$slider-color:  $table-color;
 
 
 // Data Panel
 // --------------
 
-$data-panel-color: $brand-primary;
+$data-panel-color: $table-color;
 
 
 // Data Sources
 // --------------
 
-$data-sources-color: $brand-primary;
+$data-sources-color: darken( $brand-secondary, 20% );
 
 
 // Sankey Viz
 // --------------
 
-$sankey-budget-color:     mix( $gray-light, $gray-lighter, 50% );
-$sankey-execution-color:  mix( $brand-primary, white, 70% );
+$sankey-budget-color:     darken( $brand-secondary, 20% );
+$sankey-execution-color:  $brand-primary;

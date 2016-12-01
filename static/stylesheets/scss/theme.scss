@@ -1,114 +1,44 @@
+@import "theme-variables";
+
+// Improve navbar-brand
 .navbar-brand{
-  font-size: 2.5em;
-}
-
-.navbar-default .navbar-nav{
-
-  [class*="icon-"]:before{
-    display: none;
-  }
-
-  > li > a{
-    text-transform: uppercase;
-    font-weight: $font-weight-400;
-
-    &:hover{
-      color: $brand-primary;
-    }
-
-    &.icon-home{
-      text-indent: -9999px;
-      background-image: url(../assets/home-icon.png);
-      background-repeat: no-repeat;
-      background-position: center center;
-
-      &:hover{
-        background-image: url(../assets/home-icon-blue.png);
-      }
-    }
-  }
-
-  @media (min-width: $grid-float-breakpoint) {
-
-    > li{
-      width: 95% / $dvmi-menu-length;
-
-      &.page-home{
-        width: 5%;
-      }
-    }
-  }
-}
-
-.nav-tabs > li > a{
-  font-size: 1em;
-
-  > h3{
-    color: $brand-primary;
-    text-transform: uppercase;   
-    font-weight: $font-weight-400;
-  }
-}
-
-.panel-downloads{
-  background: $brand-secondary;
-  border-color: $brand-secondary;
+  margin-top: 0;
+  font-weight: $font-weight-400;
 
   a{
-    color: $brand-primary;
-
-    &:hover{
-      color: $brand-terciary;
-    }
+    color: #333;
   }
 }
 
-.home-content .options .option > div .icon,
-.budget-intro .budget-step h3 span{
-  color: mix( #F4A901, white, 75% );
-}
 
-.policies-chart{
-  background: none;
-}
-
-.social-sharing-toolbox li a{
+// Use same background color for btn primary than for data-panels header
+.btn-primary:hover{
+  border-color: $brand-primary;
   background-color: $brand-primary;
 }
 
+
+// Add home options border color
+.home-content .options .option > div{
+  border-color: $brand-secondary;
+}
+
+
+// Use same background color for social sharing than for data-panels header
+.social-sharing-toolbox li a{
+  background-color: $data-panel-color;
+}
+
+.form-search .form-inline .form-control{
+  border-color: $data-panel-color;
+}
+
 .form-search-glossary .btn-primary{
-  background: $brand-primary;
-  border-color: $brand-primary;
-}
-.glossary-terms h3:before, 
-.glossary-terms h4:before{
-  color: $brand-primary;
-}
+  border-color: $btn-primary-border;
+  background-color: $btn-primary-bg;
 
-#query-panel .panel{
-  background: $brand-secondary;
-}
-
-.search-content .panel .panel-heading{
-  background: $brand-primary;
-
-  h3{
-    color: white;
-  }
-}
-
-// Tax Receipt
-.tax-receipt-content .form-user-incomings{
-  padding-top: $grid-gutter-width;
-
-  h3{
-    color: $brand-primary;
-    padding-bottom: $grid-gutter-width/2;
-  }
-}
-
-@media (min-width: $screen-sm-min) {
-  .tax-receipt-content .form-user-incomings .form-group.form-group-half-width{
-    width: 25%;
+  &:hover{
+    border-color: $brand-primary;
+    background-color: $brand-primary;
   }
 }
