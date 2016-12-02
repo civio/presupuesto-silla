@@ -526,6 +526,7 @@ G,9,4,1,Devolución de fianzas
 #
 I,4,8,0,De familias e instituciones sin fines de lucro
 I,5,2,0,Intereses Depósitos E.B.
+G,1,6,3,Gastos sociales - Prevención de riesgos
 G,2,7,0,Gastos imprevistos
 G,4,1,0,OOAA Conservatorio Música
 G,4,8,0,Ayudas indiv y aten bene
@@ -533,4 +534,9 @@ G,4,8,1,Premios y Becas
 G,4,8,2,Guarderia niños 0-3 años
 G,4,8,3,Ayudas para pobreza energética
 G,4,8,9,Aportaciones y subvenciones
+G,6,0,1,Inversión nueva en infraestructuras
+G,6,0,2,Inversión nueva en infraestructuras
+G,6,0,8,Otras inversiones nuevas
+G,6,1,1,Inversión reposición infraestructuras
+G,6,1,2,Inversión reposición infraestructuras
 G,7,8,0,A instituciones sin fines de lucro
