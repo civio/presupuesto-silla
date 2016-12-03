@@ -1,396 +1,396 @@
 #Aplicación presupuestaria,Funcional,Economico,Desc. Funcional,Desc. Economico,Proyecto,Desc. Proyecto,Suma Cons. inicial,Suma Modificaciones,Suma Cons. definitiva,Suma O
-,0112,310,Entitats Financeres,Interessos,,,590486,-80000,510486,402640.04
-,0112,311,Entitats Financeres,Desp. formal. mod i cance,,,300,205.33,505.33,3467.3
-,0112,342,Entitats Financeres,Interessos de demora,,,0,0,0,41.91
-,0112,913,Entitats Financeres,Amortitzacio de Prestecs,,,464185.19,6335169.56,6799354.75,6798266.24
-,0115,310,Entitat Financeres,Interessos,,,0,36664.65,36664.65,0
-,1110,100,Organs de Govern,Retrib. dedicacio exclusi,,,220283.28,-24723.55,195559.73,195559.73
-,1110,222,Organs de Govern,Comunicacions,,,6000,-1000,5000,0
-,1110,226,Organs de Govern,Despeses diverses,,,6000,0,6000,15354.51
-,1110,230,Organs de Govern,Dietes,,,500,0,500,344.4
-,1110,231,Organs de Govern,Despeses locomocio,,,500,0,500,139.46
-,1110,233,Organs de Govern,Assistencies,,,116000,0,116000,112115
-,1111,489,Grups Politics,Altres transferencies,,,25200,-2650,22550,22550
-,1112,226,Organs de Govern,Despeses diverses,,,6000,0,6000,5271.82
-,1113,226,Gabinet de comunicació,Despeses diverses,,,40000,3557.74,43557.74,38605.74
-,1113,227,Gabinet de comunicació,Treballs altres empreses,,,0,3219,3219,3219
-,1113,489,Gabinet de comunicació,Altres transferencies,,,6000,-6000,0,0
-,1114,226,Òrgans de Govern,Despeses diverses,,,5000,1913.38,6913.38,6809.58
-,1210,120,Serveis Generals,Retribucions basiques,,,35328.72,0,35328.72,34608.25
-,1210,121,Serveis Generals,Retribuc. complementaries,,,62688.62,0,62688.62,62688.64
-,1210,222,Serveis Generals,Comunicacions,,,14000,5423.89,19423.89,27579.43
-,1210,227,Serveis Generals,Treballs altres empreses,,,3500,0,3500,0
-,1210,230,Serveis Generals,Dietes,,,3000,0,3000,1411.44
-,1210,231,Serveis Generals,Despeses locomocio,,,4000,1588.34,5588.34,2459.66
-,1210,622,Serveis Generals,Edificis i altres constr.,911,ADQUISICIO CINEMA KING,1,0,1,0
-,1210,625,Serveis Generals,Adquisicio mobiliari,919,MOBILIARI,15000,3788.32,18788.32,17469.43
-,1211,120,Secretaria,Retribucions basiques,,,152401.98,-10290.34,142111.64,135006.82
-,1211,121,Secretaria,Retribuc. complementaries,,,194852.7,280.92,195133.62,177085.65
-,1211,131,Secretaria,Personal Laboral eventual,,,0,0,0,25152.79
-,1212,120,Oficines Municipals,Retribucions basiques,,,184070.18,-4998.91,179071.27,180533.42
-,1212,121,Oficines Municipals,Retribuc. complementaries,,,231950.19,0,231950.19,226289.74
-,1212,203,Oficines Municipals,"Maquinaria, instal.utill.",,,14200,457.44,14657.44,13936.77
-,1212,213,Oficines Municipals,Maquinaria inst i utillat,,,23000,58,23058,19659.18
-,1212,220,Oficines Municipals,Material de oficina,,,125000,28375.68,153375.68,117085.84
-,1212,221,Oficines Municipals,Subministres,,,25000,49214.44,74214.44,116929.26
-,1212,222,Oficines Municipals,Comunicacions,,,40000,11000,51000,52908.26
-,1212,223,Oficines Municipals,Transports,,,1500,0,1500,1636.29
-,1212,227,Oficines Municipals,Treballs altres empreses,,,12000,-3500,8500,0
-,1213,227,Edificis Municipals,Treballs altres empreses,,,390000,0,390000,359375.86
-,1213,632,Edificis Municipals,Inv. rep. edificis i cons,,,0,998760,998760,297373.61
-,1214,120,Societat de la informació,Retribucions basiques,,,25753.28,0,25753.28,25432.28
-,1214,121,Societat de la informació,Retribuc. complementaries,,,38048.41,262.64,38311.05,38048.4
-,1214,206,Societat de la informació,Equips proces. informacio,,,35000,0,35000,30276
-,1214,216,Societat de la informació,Equip. per proces. inform,,,15000,4669.14,19669.14,24567.25
-,1214,227,Societat de la informació,Treballs altres empreses,,,0,20768,20768,20326.32
-,1214,489,Societat de la informació,Altres transferencies,,,1800,-1800,0,0
-,1215,202,Magatzem,Edificis i altres constru,,,24300,0,24300,23857.06
-,1216,224,Bens Municipals,Primes de segurs,,,65000,-7353.14,57646.86,57646.74
-,1217,226,Jutjat,Despeses diverses,,,2500,3961.83,6461.83,6913.53
-,1217,227,Jutjat,Treballs altres empreses,,,0,903.4,903.4,451.7
-,1218,120,Taller,Retribucions basiques,,,30156.56,-432.81,29723.75,29746.34
-,1218,121,Taller,Retribuc. complementaries,,,33661.14,1810.71,35471.85,35260.96
-,1218,226,Taller,Despeses diverses,,,2500,447.09,2947.09,2132.27
-,1219,120,Departament de Personal,Retribucions basiques,,,46710.86,0,46710.86,34962.41
-,1219,121,Departament de Personal,Retribuc. complementaries,,,62182.54,-31907.93,30274.61,42023.06
-,1230,227,Aseso. i defensa lletrada,Treballs altres empreses,,,80000,95061.26,175061.26,127506.68
-,1240,233,Oposicions i concursos,Assistencies,,,5000,-1067.76,3932.24,3932.24
-,2220,120,Policia Local,Retribucions basiques,,,481340.58,-17933.36,463407.22,472990.15
-,2220,121,Policia Local,Retribuc. complementaries,,,780954.7,11184.59,792139.29,782556.36
-,2220,204,Policia Local,Material de transport,,,42000,0,42000,38955.18
-,2220,213,Policia Local,Maquinaria inst i utillat,,,1500,69.25,1569.25,1041.39
-,2220,214,Policia Local,Material de transport,,,5000,0,5000,5621.99
-,2220,221,Policia Local,Subministres,,,20000,3433.04,23433.04,19994.4
-,2220,231,Policia Local,Despeses locomocio,,,8000,0,8000,7490
-,2220,623,Policia Local,"Maquinaria, Inst. i Utill",,,0,119,119,119
-,2221,219,Control de Tràfic,Altre immobilitzat materi,,,12000,2795.93,14795.93,5906.07
-,2221,221,Control de Tràfic,Subministres,,,4500,1099.21,5599.21,5692.63
-,2222,202,Recollida de vehicles,Edificis i altres constru,,,18100,0,18100,16045.11
-,2222,227,Recollida de vehicles,Treballs altres empreses,,,50000,3731.72,53731.72,55323.88
-,3110,160,Segurs Socials,Quotes socials,,,1653630.36,87889.45,1741519.81,1741519.81
-,3120,150,Personal Actiu,Complement productivitat,,,121740,299.3,122039.3,86262.45
-,3120,151,Personal Actiu,Dotacio gratificacions,,,99018.96,40722.87,139741.83,179627.68
-,3120,162,Personal Actiu,Despeses socials-Segur,,,7000,0,7000,6115.24
-,3120,163,Personal Actiu,Despes.soc.-Prev riscos,,,12000,0,12000,10689.67
-,3120,165,Personal Actiu,Desp. Socials-Pla formac.,,,10000,-2197.58,7802.42,862.5
-,3120,226,Personal Actiu,Despeses diverses,,,3000,3862.24,6862.24,8836.58
-,3120,227,Personal Actiu,Treballs altres empreses,,,1,5617.58,5618.58,3644.24
-,3120,858,Personal Actiu,Avançaments,,,6,19682.08,19688.08,19682.08
-,3121,121,"Segure., protecc. i prom.",Retribuc. complementaries,,,73440.2,-73440.2,0,0
-,3121,161,"Segure., protecc. i prom.",Prestacions socials,,,6000,0,6000,4229.67
-,3121,162,"Segure., protecc. i prom.",Despeses socials-Segur,,,25000,0,25000,25000
-,3130,227,Asistència Domiciliaria,Treballs altres empreses,,,20000,0,20000,16991.18
-,3131,480,Acció Social,Atencions benef i asisten,,,70000,25122.7,95122.7,77226.37
-,3131,489,Acció Social,Altres transferencies,,,6000,7000,13000,11550
-,3132,120,Asistència Social,Retribucions basiques,,,60193,0,60193,61428.36
-,3132,121,Asistència Social,Retribuc. complementaries,,,67155.86,8098.44,75254.3,60325.33
-,3132,130,Asistència Social,Personal Laboral fixe,,,0,0,0,53124.93
-,3132,131,Asistència Social,Personal Laboral eventual,,,56121.85,-3862.24,52259.61,10718.42
-,3132,226,Asistència Social,Despeses diverses,,,3000,-3000,0,74.94
-,3132,227,Asistència Social,Treballs altres empreses,,,0,836.32,836.32,418.16
-,3132,480,Asistència Social,Atencions benef i asisten,,,2000,-2000,0,0
-,3133,226,Departament de la Dona,Despeses diverses,,,10000,1534.4,11534.4,6856.5
-,3133,227,Departament de la Dona,Treballs altres empreses,,,5999,0,5999,9445.34
-,3135,489,Associacio de Jubilats,Altres transferencies,,,15000,0,15000,15000
-,3136,120,Centre Tercera Edat,Retribucions basiques,,,9512.58,0,9512.58,0
-,3136,121,Centre Tercera Edat,Retribuc. complementaries,,,9303.15,0,9303.15,0
-,3136,130,Centre Tercera Edat,Personal Laboral fixe,,,0,0,0,18512.54
-,3136,212,Centre Tercera Edat,Edificis i altres constru,,,2000,12133.09,14133.09,13338.7
-,3136,221,Centre Tercera Edat,Subministres,,,10000,4576.9,14576.9,16853.64
-,3136,226,Centre Tercera Edat,Despeses diverses,,,2000,614.92,2614.92,1245.71
-,3136,227,Centre Tercera Edat,Treballs altres empreses,,,10500,4026.59,14526.59,13788.79
-,3136,623,Centre Tercera Edat,"Maquinaria, Inst. i Utill",,,0,1069.52,1069.52,534.76
-,3139,202,Centre dia per a menors,Edificis i altres constru,,,12300,-10271.91,2028.09,11978.4
-,3139,226,Centre dia per a menors,Despeses diverses,,,8000,20960,28960,14888.38
-,3139,227,Centre dia per a menors,Treballs altres empreses,,,0,538.98,538.98,269.49
-,3139,626,Centre dia per a menors,Equips per porc. informac,,,0,6000,6000,5999.98
-,3210,120,Educador de Carrer,Retribucions basiques,,,16748.9,-22644.92,-5896.02,16749.04
-,3210,121,Educador de Carrer,Retribuc. complementaries,,,17579.55,0,17579.55,17579.6
-,3210,130,Educador de Carrer,Personal Laboral fixe,,,19837.98,0,19837.98,16351.17
-,3210,131,Educador de Carrer,Personal Laboral eventual,,,85297.61,0,85297.61,63614.15
-,3210,226,Educador de Carrer,Despeses diverses,,,5000,0,5000,4923.44
-,3220,131,Escola Taller,Personal Laboral eventual,,,221158.26,-5643.2,215515.06,199890.17
-,3220,226,Escola Taller,Despeses diverses,,,25000,5643.2,30643.2,30378.39
-,3222,120,Ocupació,Retribucions basiques,,,0,0,0,3708.55
-,3222,121,Ocupació,Retribuc. complementaries,,,0,0,0,1511.94
-,3222,131,Ocupació,Personal Laboral eventual,,,67182.58,181939.98,249122.56,226643.24
-,3222,202,Ocupació,Edificis i altres constru,,,15000,0,15000,16790.35
-,3222,221,Ocupació,Subministres,,,1000,0,1000,0
-,3222,226,Ocupació,Despeses diverses,,,6000,33384.11,39384.11,37663.82
-,3222,481,Ocupació,"Premis, beques estudis",,,0,10800,10800,8056.8
-,3222,623,Ocupació,"Maquinaria, Inst. i Utill",,,0,4140,4140,0
-,3223,120,Promoció Econòmica,Retribucions basiques,,,44584.96,-24153.28,20431.68,34187.88
-,3223,121,Promoció Econòmica,Retribuc. complementaries,,,50457.44,8441.6,58899.04,39533.66
-,3223,226,Promoció Econòmica,Despeses diverses,,,11300,0,11300,4130.77
-,3223,489,Promoció Econòmica,Altres transferencies,,,14000,-1400,12600,12600
-,3224,226,Ocupació,Despeses diverses,,,2500,0,2500,1877.6
-,3230,226,Pau i solidaritat:immigra,Despeses diverses,,,1000,3229,4229,3956.72
-,3233,131,Prevenció Drogodependenc.,Personal Laboral eventual,,,28558.64,-28558.64,0,0
-,3233,226,Prevenció Drogodependenc.,Despeses diverses,,,8000,0,8000,7712.84
-,4110,221,Salut pública,Subministres,,,1000,0,1000,378.72
-,4110,226,Salut pública,Despeses diverses,,,8300,10726.12,19026.12,19026.66
-,4110,480,Salut pública,Atencions benef i asisten,,,50000,8618.38,58618.38,58499.84
-,4120,120,Servei Mèdic,Retribucions basiques,,,38026.38,0,38026.38,38027.22
-,4120,121,Servei Mèdic,Retribuc. complementaries,,,47886.64,0.84,47887.48,47886.64
-,4131,227,Servei Recollida Gossos,Treballs altres empreses,,,9000,-4200,4800,4587.44
-,4132,227,Desinfeccio i Desratitza.,Treballs altres empreses,,,20000,2040.49,22040.49,21162.21
-,4134,130,Ciutats sanes,Personal Laboral fixe,,,14569.92,-1007.8,13562.12,13562.12
-,4134,226,Ciutats sanes,Despeses diverses,,,2500,0,2500,2467
-,4220,120,Col.legis E.G.B.,Retribucions basiques,,,47224.1,-1472.82,45751.28,46614.5
-,4220,121,Col.legis E.G.B.,Retribuc. complementaries,,,46515.75,2131.32,48647.07,47783.85
-,4220,203,Col.legis E.G.B.,"Maquinaria, instal.utill.",,,30000,0,30000,0
-,4220,205,Col.legis E.G.B.,Mobiliari i efectes,,,10500,0,10500,10300.8
-,4220,212,Col.legis E.G.B.,Edificis i altres constru,,,40000,5103.99,45103.99,36641.42
-,4220,221,Col.legis E.G.B.,Subministres,,,30000,0,30000,63355.01
-,4220,632,Col.legis E.G.B.,Inv. rep. edificis i cons,,,0,14482.41,14482.41,12009.1
-,4221,226,Ponencia d'Educació,Despeses diverses,,,18000,4295.14,22295.14,17708.25
-,4221,227,Ponencia d'Educació,Treballs altres empreses,,,8700,-7706.89,993.11,5580
-,4221,481,Ponencia d'Educació,"Premis, beques estudis",,,106500,27360,133860,127879.33
-,4221,482,Ponencia d'Educació,Guard.Xiquets 0-3 anys,,,12000,-6870.67,5129.33,11110
-,4223,130,Escola Permanent d'Adults,Personal Laboral fixe,,,46053.43,0,46053.43,43071.4
-,4223,131,Escola Permanent d'Adults,Personal Laboral eventual,,,15128.93,0,15128.93,18044.76
-,4223,203,Escola Permanent d'Adults,"Maquinaria, instal.utill.",,,1520,0,1520,1780.68
-,4223,221,Escola Permanent d'Adults,Subministres,,,6000,0,6000,0
-,4223,226,Escola Permanent d'Adults,Despeses diverses,,,2500,0,2500,765.56
-,4223,227,Escola Permanent d'Adults,Treballs altres empreses,,,20000,7770.24,27770.24,33333.66
-,4226,410,OOAA Conservatori Música,A Orgs. autonoms Entitat,,,241776,0,241776,241776
-,4226,710,OOAA Conservatori Música,A Orgs. auton. Ent. local,,,1800,0,1800,1800
-,4230,120,Gabinet Psicopedagògic,Retribucions basiques,,,58598.68,0,58598.68,74396.83
-,4230,121,Gabinet Psicopedagògic,Retribuc. complementaries,,,55452.66,34282.29,89734.95,73936.8
-,4260,481,Menjador Escolar,"Premis, beques estudis",,,35000,15000,50000,32534.89
-,4310,212,Edificis Corporació,Edificis i altres constru,,,10000,53365.59,63365.59,93461.52
-,4310,227,Edificis Corporació,Treballs altres empreses,,,0,68347.32,68347.32,37237.18
-,4310,632,Edificis Corporació,Inv. rep. edificis i cons,924,EDIFICI POLICIA LOCAL.,1,132040.9,132041.9,0
-,4312,120,Agencia de l'habitatge,Retribucions basiques,,,29580.32,0,29580.32,29402.28
-,4312,121,Agencia de l'habitatge,Retribuc. complementaries,,,38473.43,0,38473.43,38473.36
-,4312,202,Agencia de l'habitatge,Edificis i altres constru,,,8600,0,8600,7811.11
-,4312,212,Agencia de l'habitatge,Edificis i altres constru,,,0,1594.77,1594.77,1594.77
-,4314,227,Pla especial rehabilitaci,Treballs altres empreses,,,0,1214320.81,1214320.81,507336.25
-,4320,120,Urbanisme,Retribucions basiques,,,89296.2,-34191.39,55104.81,73639.86
-,4320,121,Urbanisme,Retribuc. complementaries,,,117143.64,780.56,117924.2,99387.72
-,4320,226,Urbanisme,Despeses diverses,,,5500,-1674.68,3825.32,5561.21
-,4320,227,Urbanisme,Treballs altres empreses,,,6000,8269.32,14269.32,6201.97
-,4320,622,Urbanisme,Edificis i altres constr.,,,0,558500,558500,169675.98
-,4320,611,Urbanisme,Altres inversions reposic,908,MOBILIARI URBÀ I SENYALS.,15000,50833.65,65833.65,20349.39
-,4320,627,Urbanisme,projectes complexos,922,PROJECTES I DIRECCIO OBRA,185000,183478.22,368478.22,212415.78
-,4321,626,Obres,Equips per porc. informac,921,CONVENI CARTOGRAFIA.,7315,0,7315,0
-,4322,622,Urbanisme i Arquitectura,Edificis i altres constr.,912,EDIFICI MULTIFUNCIONAL.,764912.7,0,764912.7,0
-,4323,210,Senyalit. vert. i horitz,Infrast. i bens naturals,,,0,1,1,0
-,4340,120,Enllumenat Públic,Retribucions basiques,,,42153.86,-153.63,42000.23,39703.3
-,4340,121,Enllumenat Públic,Retribuc. complementaries,,,56615.25,1030.15,57645.4,59584.34
-,4340,210,Enllumenat Públic,Infrast. i bens naturals,,,6000,11241.87,17241.87,19308.04
-,4340,213,Enllumenat Públic,Maquinaria inst i utillat,,,20000,-21886.29,-1886.29,3630.05
-,4340,221,Enllumenat Públic,Subministres,,,115000,0,115000,107417.09
-,4351,120,Parcs i Jardins,Retribucions basiques,,,48362.58,-8502.88,39859.7,31092.6
-,4351,121,Parcs i Jardins,Retribuc. complementaries,,,53797.89,7899.32,61697.21,37417.53
-,4351,130,Parcs i Jardins,Personal Laboral fixe,,,0,0,0,33046.78
-,4351,210,Parcs i Jardins,Infrast. i bens naturals,,,90000,32592.47,122592.47,139531.5
-,4351,221,Parcs i Jardins,Subministres,,,3500,0,3500,1510.25
-,4351,226,Parcs i Jardins,Despeses diverses,,,15000,0,15000,0
-,4351,610,Parcs i Jardins,Inversions en terrenys,,,0,366.56,366.56,366.56
-,4351,601,Parcs i Jardins,Altres inversions,902,JOCS INFANTILS.AD.NORMAT.,1,1269.98,1270.98,1269.98
-,4352,611,Parcs i Jardins,Altres inversions reposic,,,0,308788.14,308788.14,278822.07
-,4410,120,Servei d'Aigua Potable,Retribucions basiques,,,21808.08,0,21808.08,21868.76
-,4410,121,Servei d'Aigua Potable,Retribuc. complementaries,,,27108.05,60.83,27168.88,27108.2
-,4411,210,Clavegueram i Vessam.Aigu,Infrast. i bens naturals,,,2500,92494.54,94994.54,81741.56
-,4413,210,Font del Manano,Infrast. i bens naturals,,,1000,0,1000,49.27
-,4420,227,Recollida Fem i Net.viari,Treballs altres empreses,,,775000,161753.13,936753.13,936753.13
-,4420,622,Recollida Fem i Net.viari,Edificis i altres constr.,913,NAU SERVEIS MUNICIPALS.,125000,-125000,0,0
-,4422,464,Tractament Residus Solids,A arees metropolitanes,,,350613.77,-233856.76,116757.01,116082.89
-,4424,464,Cancel.lació deute EMTRE,A arees metropolitanes,,,0,355532.83,355532.83,355532.83
-,4430,120,Cementeri Municipal,Retribucions basiques,,,17020.92,0,17020.92,20600.53
-,4430,121,Cementeri Municipal,Retribuc. complementaries,,,21755.96,9972.89,31728.85,28149.24
-,4430,212,Cementeri Municipal,Edificis i altres constru,,,6000,10505.37,16505.37,16466.37
-,4430,221,Cementeri Municipal,Subministres,,,1500,0,1500,1482.12
-,4430,622,Cementeri Municipal,Edificis i altres constr.,914,CONSTRUCCIÓ NINXOLS.,1,4752.23,4753.23,0
-,4430,632,Cementeri Municipal,Inv. rep. edificis i cons,925,COBERTES PAVELLONS CEMENT,1,17734.35,17735.35,17735.35
-,4440,120,Vies Públiques,Retribucions basiques,,,9574.32,0,9574.32,0
-,4440,121,Vies Públiques,Retribuc. complementaries,,,9878.88,780.56,10659.44,0
-,4440,130,Vies Públiques,Personal Laboral fixe,,,0,0,0,20220.15
-,4440,210,Vies Públiques,Infrast. i bens naturals,,,42000,38908.7,80908.7,76286.4
-,4440,213,Vies Públiques,Maquinaria inst i utillat,,,5000,0,5000,4173.02
-,4440,214,Vies Públiques,Material de transport,,,5000,4583.16,9583.16,10588.96
-,4440,611,Vies Públiques,Altres inversions reposic,909,ASFALTAT CARRERS I CAMINS,1,45805.72,45806.72,35805.72
-,4440,623,Vies Públiques,"Maquinaria, Inst. i Utill",917,ADQUISICIO MATERIAL OBRES,5000,0,5000,0
-,4441,120,Brigada Vies i Obres,Retribucions basiques,,,70006.44,-17501.51,52504.93,22892.24
-,4441,121,Brigada Vies i Obres,Retribuc. complementaries,,,76037.52,3136.98,79174.5,24658.53
-,4441,130,Brigada Vies i Obres,Personal Laboral fixe,,,0,0,0,64230.97
-,4441,131,Brigada Vies i Obres,Personal Laboral eventual,,,9132.5,0,9132.5,29030.19
-,4441,204,Brigada Vies i Obres,Material de transport,,,19000,-2376.84,16623.16,6556.38
-,4442,213,Obres i Serveis,Maquinaria inst i utillat,,,0,0,0,257.84
-,4442,221,Obres i Serveis,Subministres,,,18000,10136.14,28136.14,27878.3
-,4460,120,Medi Ambient,Retribucions basiques,,,19947.76,0,19947.76,19948.32
-,4460,121,Medi Ambient,Retribuc. complementaries,,,24949.91,0,24949.91,24949.78
-,4460,131,Medi Ambient,Personal Laboral eventual,,,16074.67,0,16074.67,15536.41
-,4460,226,Medi Ambient,Despeses diverses,,,20000,7441,27441,31935.85
-,4460,227,Medi Ambient,Treballs altres empreses,,,10000,9989.07,19989.07,15494.22
-,4461,226,Zones Degradades,Despeses diverses,,,1500,-1500,0,0
-,4461,620,Zones Degradades,Terrenys i bens naturals,910,RESTAURACIO ZONES.,6000,0,6000,0
-,4470,120,O.M.I.C.,Retribucions basiques,,,13251.14,0,13251.14,13251.14
-,4470,121,O.M.I.C.,Retribuc. complementaries,,,13523.64,0,13523.64,13523.58
-,4470,226,O.M.I.C.,Despeses diverses,,,3500,0,3500,313.2
-,4480,212,Mercat Municipal,Edificis i altres constru,,,4000,0,4000,2531.75
-,4480,221,Mercat Municipal,Subministres,,,5000,0,5000,3905.59
-,4480,227,Mercat Municipal,Treballs altres empreses,,,0,6645.4,6645.4,3322.7
-,4510,120,Biblioteques i Arxius,Retribucions basiques,,,53424.7,-30652.06,22772.64,28858.63
-,4510,121,Biblioteques i Arxius,Retribuc. complementaries,,,57140.85,0,57140.85,30306.41
-,4510,130,Biblioteques i Arxius,Personal Laboral fixe,,,0,0,0,19860.74
-,4510,202,Biblioteques i Arxius,Edificis i altres constru,,,21317,0,21317,20496.96
-,4510,212,Biblioteques i Arxius,Edificis i altres constru,,,1000,0,1000,398.2
-,4510,222,Biblioteques i Arxius,Comunicacions,,,0,0,0,0
-,4510,226,Biblioteques i Arxius,Despeses diverses,,,6000,0,6000,5729.14
-,4510,227,Biblioteques i Arxius,Treballs altres empreses,,,0,7487.7,7487.7,3743.85
-,4511,226,Campanya Animació lectura,Despeses diverses,,,1600,0,1600,1308.47
-,4511,627,Campanya Animació lectura,projectes complexos,923,ADQUISICIÓ LLIBRES I CD'S,5000,6750.96,11750.96,11699.55
-,4512,226,Projectes cultur. Europeu,Despeses diverses,,,2000,16387.03,18387.03,15239.46
-,4512,481,Projectes cultur. Europeu,"Premis, beques estudis",,,0,6021,6021,5215.61
-,4513,632,OOAA Conservatori Música,Inv. rep. edificis i cons,,,0,10824.01,10824.01,10824.01
-,4514,130,Escola de Teatre,Personal Laboral fixe,,,15724.34,-7956.47,7767.87,7643.25
-,4514,226,Escola de Teatre,Despeses diverses,,,6000,7956.47,13956.47,13953.81
-,4514,623,Escola de Teatre,"Maquinaria, Inst. i Utill",918,EQUIPAMENT TEATRE PLAÇA.,1,7579.31,7580.31,7579.31
-,4515,120,Animador Cultural,Retribucions basiques,,,39023.88,-1989.71,37034.17,37707.52
-,4515,121,Animador Cultural,Retribuc. complementaries,,,41404.61,0,41404.61,40731.26
-,4516,226,Ponència de Cultura,Despeses diverses,,,30000,2282.15,32282.15,31855.32
-,4516,481,Ponència de Cultura,"Premis, beques estudis",,,3000,0,3000,2770.56
-,4516,489,Ponència de Cultura,Altres transferencies,,,30000,19000,49000,47713.36
-,4517,120,Casa de la Cultura,Retribucions basiques,,,17521.56,0,17521.56,17209.88
-,4517,121,Casa de la Cultura,Retribuc. complementaries,,,20519.1,0,20519.1,20082.01
-,4517,131,Casa de la Cultura,Personal Laboral eventual,,,8700,-8004.6,695.4,1444.17
-,4517,216,Casa de la Cultura,Equip. per proces. inform,,,0,20566.8,20566.8,17394.2
-,4517,226,Casa de la Cultura,Despeses diverses,,,35000,-594.82,34405.18,31065.65
-,4518,120,Ponencia de Joventut,Retribucions basiques,,,27131.44,-6050.66,21080.78,27132.28
-,4518,121,Ponencia de Joventut,Retribuc. complementaries,,,30354.63,1068.76,31423.39,31409.44
-,4518,131,Ponencia de Joventut,Personal Laboral eventual,,,57484.57,6721.76,64206.33,58168.78
-,4518,226,Ponencia de Joventut,Despeses diverses,,,35000,3363,38363,35183.77
-,4518,227,Ponencia de Joventut,Treballs altres empreses,,,0,0,0,0
-,4518,466,Ponencia de Joventut,A Ent. que agrupen munic.,,,4000,-3363,637,637
-,4518,622,Ponencia de Joventut,Edificis i altres constr.,,,0,371999.99,371999.99,281282.51
-,4518,626,Ponencia de Joventut,Equips per porc. informac,,,0,4402.71,4402.71,4402.71
-,4518,625,Ponencia de Joventut,Adquisicio mobiliari,920,INVERSIONS MOBILIARI CIJ.,3934.64,-279.95,3654.69,3654.69
-,4519,120,Promocio d'Us Valencia,Retribucions basiques,,,16250.22,0,16250.22,16250.36
-,4519,121,Promocio d'Us Valencia,Retribuc. complementaries,,,14013.42,2568.42,16581.84,16101.78
-,4519,220,Promocio d'Us Valencia,Material de oficina,,,1500,0,1500,805.44
-,4519,226,Promocio d'Us Valencia,Despeses diverses,,,7000,5337.04,12337.04,8349.93
-,4519,489,Promocio d'Us Valencia,Altres transferencies,,,1000,0,1000,1000
-,4520,130,Piscina Municipal,Personal Laboral fixe,,,71439.95,-31449,39990.95,32337.44
-,4520,131,Piscina Municipal,Personal Laboral eventual,,,0,0,0,7653.51
-,4520,213,Piscina Municipal,Maquinaria inst i utillat,,,20000,10490.56,30490.56,40757.45
-,4520,227,Piscina Municipal,Treballs altres empreses,,,48500,11575.53,60075.53,41470.63
-,4520,622,Piscina Municipal,Edificis i altres constr.,915,CONDICIONAMENT PISCINA M.,10000,10000,20000,9965.11
-,4521,120,Polisportiu Municipal,Retribucions basiques,,,46798.36,0,46798.36,29581.6
-,4521,121,Polisportiu Municipal,Retribuc. complementaries,,,71987.03,3445.2,75432.23,46645.98
-,4521,131,Polisportiu Municipal,Personal Laboral eventual,,,0,0,0,45359.16
-,4521,212,Polisportiu Municipal,Edificis i altres constru,,,12000,2878.06,14878.06,8008.04
-,4521,213,Polisportiu Municipal,Maquinaria inst i utillat,,,17000,1649.68,18649.68,8986.95
-,4521,221,Polisportiu Municipal,Subministres,,,25000,39050.64,64050.64,80583.03
-,4521,623,Polisportiu Municipal,"Maquinaria, Inst. i Utill",,,0,0,0,0
-,4521,761,Polisportiu Municipal,A Diputacions i consells,,,0,36000,36000,0
-,4521,622,Polisportiu Municipal,Edificis i altres constr.,916,DOTACIONS ESPORTIVES MUN.,150000,162102.85,312102.85,77272.17
-,4521,632,Polisportiu Municipal,Inv. rep. edificis i cons,926,ADEQUACIÓ CAMP PORT FUTB.,1,31373.27,31374.27,29980.1
-,4522,226,Ponencia d'Esports,Despeses diverses,,,15000,27994.74,42994.74,42355.99
-,4522,467,Ponencia d'Esports,A consorcis,,,3000,0,3000,3000
-,4522,481,Ponencia d'Esports,"Premis, beques estudis",,,3000,-2500,500,500
-,4522,489,Ponencia d'Esports,Altres transferencies,,,150000,-5500,144500,144500
-,4531,627,Prot. Patrimoni  Hist-art,projectes complexos,,,0,291300,291300,40058.28
-,4540,226,Festes,Despeses diverses,,,165000,18616.54,183616.54,183401.98
-,4540,489,Festes,Altres transferencies,,,35000,-17200,17800,17800
-,4610,489,Bandes de Música,Altres transferencies,,,37500,0,37500,37500
-,4631,489,Mitjans de comunicació,Altres transferencies,,,26000,0,26000,26000
-,4640,226,Junta Local Fallera,Despeses diverses,,,0,19699,19699,19693.15
-,4640,489,Junta Local Fallera,Altres transferencies,,,20000,-19700,300,300
-,4640,622,Junta Local Fallera,Edificis i altres constr.,,,0,600000,600000,0
-,4641,226,Comissions falles,Despeses diverses,,,0,5001,5001,5000
-,4641,489,Comissions falles,Altres transferencies,,,17000,-5000,12000,12000
-,4650,226,Entitats no Lucratives,Despeses diverses,,,600,0,600,534.14
-,4650,489,Entitats no Lucratives,Altres transferencies,,,5000,0,5000,5000
-,4651,489,Consell Local de Joventut,Altres transferencies,,,7800,-1500,6300,6300
-,4653,489,Pau i solidaritat: ONG,Altres transferencies,,,18900,0,18900,18360.49
-,4653,780,Pau i solidaritat: ONG,A instit. sense fi lucre,,,19000,2775,21775,16275
-,5110,601,Vies Publiques,Altres inversions,903,CARRIL BICI,1,86720,86721,0
-,5110,601,Vies Publiques,Altres inversions,904,ROTONDA CAMI DEL PORT.,1,0,1,0
-,5110,601,Vies Publiques,Altres inversions,905,Millora vials públics,216800,0,216800,0
-,5310,226,Pla Ecològic ramad. agric,Despeses diverses,,,14000,-6000,8000,0
-,5310,600,Pla Ecològic ramad. agric,Inversions en Terrenys,901,CASA FIGUERO,1,0,1,0
-,6110,120,Serveis Econòmics,Retribucions basiques,,,116889.22,-75403.2,41486.02,83681.81
-,6110,121,Serveis Econòmics,Retribuc. complementaries,,,174845.69,0,174845.69,127770.53
-,6110,131,Serveis Econòmics,Personal Laboral eventual,,,0,0,0,4879.37
-,6110,227,Serveis Econòmics,Treballs altres empreses,,,3000,17880,20880,5220
-,6113,227,Recaptació,Treballs altres empreses,,,50000,6386.93,56386.93,56386.93
-,6220,226,Fira Sant Sebastià,Despeses diverses,,,100000,15535.89,115535.89,115535.89
-,6320,226,Participació Ciutadana,Despeses diverses,,,10000,0,10000,9749.52
-,6320,489,Participació Ciutadana,Altres transferencies,,,4000,0,4000,3400
-,7110,120,Consell Local Agrari,Retribucions basiques,,,39632.74,0,39632.74,39382.98
-,7110,121,Consell Local Agrari,Retribuc. complementaries,,,54115.12,7118.48,61233.6,56637.46
-,7110,131,Consell Local Agrari,Personal Laboral eventual,,,0,0,0,3365.36
-,7110,204,Consell Local Agrari,Material de transport,,,9500,0,9500,9134.19
-,7110,226,Consell Local Agrari,Despeses diverses,,,10000,0,10000,8941.69
-,7110,601,Consell Local Agrari,Altres inversions,906,BARRANCONS.(CAMI RUSSAFA),60000,0,60000,621.3
-,7110,601,Consell Local Agrari,Altres inversions,907,CAMINS RURALS.,119118.97,75052.84,194171.81,113571.2
-,7111,120,Guarderia Rural,Retribucions basiques,,,21081.06,0,21081.06,20777.24
-,7111,121,Guarderia Rural,Retribuc. complementaries,,,30217.5,0,30217.5,30418.06
-,7111,131,Guarderia Rural,Personal Laboral eventual,,,0,60539.62,60539.62,49529.62
-,7111,226,Guarderia Rural,Despeses diverses,,,0,125910.39,125910.39,112083.48
-,7310,740,Energia electrica,Aport. Empresa mixta,,,0,7700,7700,0
-,9112,466,Federació Municipis,A Ent. que agrupen munic.,,,6000,2026.55,8026.55,7000.78
-,9114,463,Mancomunitat L'Horta Sud,A Mancomunitats,,,84684,-37696,46988,46987.3
-,9116,463,Cancel.lacio deute Mancom,A Mancomunitats,,,0,37696.64,37696.64,37696.64
-,9210,226,Indemnitzacions A. Publiq,Despeses diverses,,,50000,0,50000,21061.19
-,1210,600,Serveis Generals,Inversions en Terrenys,,,0,191379.16,191379.16,7795.2
-,1210,622,Serveis Generals,Edificis i altres constr.,,,0,300001,300001,0
-,1210,625,Serveis Generals,Adquisicio mobiliari,,,0,2476.19,2476.19,1730.75
-,1210,626,Serveis Generals,Equips per porc. informac,,,0,564.05,564.05,370.04
-,1213,632,Edificis Municipals,Inv. rep. edificis i cons,,,0,0,0,0
-,1214,626,Societat de la informació,Equips per porc. informac,,,0,36589.04,36589.04,25477.08
-,3220,131,Escola Taller,Personal Laboral eventual,,,0,198205.2,198205.2,190898.27
-,3220,226,Escola Taller,Despeses diverses,,,0,29830.78,29830.78,29830.78
-,3222,131,Ocupació,Personal Laboral eventual,,,0,28695.75,28695.75,28695.75
-,3222,226,Ocupació,Despeses diverses,,,0,2491.28,2491.28,0
-,3222,632,Ocupació,Inv. rep. edificis i cons,,,0,35605.51,35605.51,0
-,4223,623,Escola Permanent d'Adults,"Maquinaria, Inst. i Utill",,,0,972.8,972.8,0
-,4226,780,OOAA Conservatori Música,A instit. sense fi lucre,,,0,6.01,6.01,0
-,4260,632,Menjador Escolar,Inv. rep. edificis i cons,,,0,2.95,2.95,0
-,4310,610,Edificis Corporació,Inversions en terrenys,,,0,8617.33,8617.33,0
-,4310,622,Edificis Corporació,Edificis i altres constr.,,,0,0,0,0
-,4310,623,Edificis Corporació,"Maquinaria, Inst. i Utill",,,0,17458.4,17458.4,17458.4
-,4310,632,Edificis Corporació,Inv. rep. edificis i cons,,,0,401000,401000,207839.8
-,4320,611,Urbanisme,Altres inversions reposic,,,0,18655.19,18655.19,10853.81
-,4320,622,Urbanisme,Edificis i altres constr.,,,0,0,0,0
-,4320,625,Urbanisme,Adquisicio mobiliari,,,0,1466.85,1466.85,0
-,4340,601,Enllumenat Públic,Altres inversions,,,0,21990.77,21990.77,21989.77
-,4341,601,Altres Conexions,Altres inversions,,,0,6000,6000,0
-,4342,601,Enllumenta Públic,Altres inversions,,,0,1,1,0
-,4351,601,Parcs i Jardins,Altres inversions,,,0,1616.36,1616.36,1613.87
-,4430,611,Cementeri Municipal,Altres inversions reposic,,,0,13743.79,13743.79,0
-,4430,622,Cementeri Municipal,Edificis i altres constr.,,,0,50000,50000,42910.07
-,4440,611,Vies Públiques,Altres inversions reposic,,,0,40492.21,40492.21,14260
-,4440,612,Vies Públiques,Inv repos. infraestructu.,,,0,28325.91,28325.91,25580.21
-,4461,620,Zones Degradades,Terrenys i bens naturals,,,0,4741,4741,0
-,4510,625,Biblioteques i Arxius,Adquisicio mobiliari,,,0,1105.8,1105.8,0
-,4516,780,Ponència de Cultura,A instit. sense fi lucre,,,0,50,50,0
-,4517,632,Casa de la Cultura,Inv. rep. edificis i cons,,,0,7793.02,7793.02,0
-,4521,622,Polisportiu Municipal,Edificis i altres constr.,,,0,288221.77,288221.77,0
-,4521,632,Polisportiu Municipal,Inv. rep. edificis i cons,,,0,29038.57,29038.57,28676.82
-,5110,601,Vies Publiques,Altres inversions,,,0,141563.2,141563.2,30399.77
-,5110,602,Vies Publiques,Altres inversions,,,0,938312.71,938312.71,278404.89
-,5110,603,Vies Publiques,Altres inversions,,,0,97002.44,97002.44,0
-,5110,606,Vies Publiques,Inversions en infrastruc.,,,0,2782.36,2782.36,0
-,5110,608,Vies Publiques,Inversions en infrastruc.,,,0,257804.6,257804.6,78339.88
-,5110,612,Vies Publiques,Inv repos. infraestructu.,,,0,24582.75,24582.75,0
-,5110,627,Vies Publiques,projectes complexos,,,0,5336,5336,0
-,5110,770,Vies Publiques,A Empreses privades,,,0,206101.54,206101.54,36323.07
-,5111,602,Vies Publiques,Altres inversions,,,0,703857.7,703857.7,417692.74
-,5111,611,Vies Publiques,Altres inversions reposic,,,0,7565.5,7565.5,0
-,5112,611,vies Publiques,Altres inversions reposic,,,0,11303,11303,11302.54
-,5120,611,Recursos Hidraulics,Altres inversions reposic,,,0,22240,22240,0
-,5330,600,Millora Medi Natural,Inversions en Terrenys,,,0,78265.67,78265.67,0
-,6110,626,Serveis Econòmics,Equips per porc. informac,,,0,16028.88,16028.88,13061.97
-,7110,600,Consell Local Agrari,Inversions en Terrenys,,,0,1524.2,1524.2,0
-,7110,601,Consell Local Agrari,Altres inversions,,,0,95705.63,95705.63,88341.96
-,7110,623,Consell Local Agrari,"Maquinaria, Inst. i Utill",,,0,2668.52,2668.52,2603.52
-,7110,624,Consell Local Agrari,Material de transport,,,0,5639.04,5639.04,0
-,7110,632,Consell Local Agrari,Inv. rep. edificis i cons,,,0,1,1,0
-,7111,131,Guarderia Rural,Personal Laboral eventual,,,0,3047.28,3047.28,0
-,7111,226,Guarderia Rural,Despeses diverses,,,0,830.57,830.57,315
-,7111,600,Guarderia Rural,Inversions en Terrenys,,,0,1482.37,1482.37,0
-,7111,623,Guarderia Rural,"Maquinaria, Inst. i Utill",,,0,29.93,29.93,0
+2009,0112,310,Entitats Financeres,Interessos,,,590486,-80000,510486,402640.04
+2009,0112,311,Entitats Financeres,Desp. formal. mod i cance,,,300,205.33,505.33,3467.3
+2009,0112,342,Entitats Financeres,Interessos de demora,,,0,0,0,41.91
+2009,0112,913,Entitats Financeres,Amortitzacio de Prestecs,,,464185.19,6335169.56,6799354.75,6798266.24
+2009,0115,310,Entitat Financeres,Interessos,,,0,36664.65,36664.65,0
+2009,1110,100,Organs de Govern,Retrib. dedicacio exclusi,,,220283.28,-24723.55,195559.73,195559.73
+2009,1110,222,Organs de Govern,Comunicacions,,,6000,-1000,5000,0
+2009,1110,226,Organs de Govern,Despeses diverses,,,6000,0,6000,15354.51
+2009,1110,230,Organs de Govern,Dietes,,,500,0,500,344.4
+2009,1110,231,Organs de Govern,Despeses locomocio,,,500,0,500,139.46
+2009,1110,233,Organs de Govern,Assistencies,,,116000,0,116000,112115
+2009,1111,489,Grups Politics,Altres transferencies,,,25200,-2650,22550,22550
+2009,1112,226,Organs de Govern,Despeses diverses,,,6000,0,6000,5271.82
+2009,1113,226,Gabinet de comunicació,Despeses diverses,,,40000,3557.74,43557.74,38605.74
+2009,1113,227,Gabinet de comunicació,Treballs altres empreses,,,0,3219,3219,3219
+2009,1113,489,Gabinet de comunicació,Altres transferencies,,,6000,-6000,0,0
+2009,1114,226,Òrgans de Govern,Despeses diverses,,,5000,1913.38,6913.38,6809.58
+2009,1210,120,Serveis Generals,Retribucions basiques,,,35328.72,0,35328.72,34608.25
+2009,1210,121,Serveis Generals,Retribuc. complementaries,,,62688.62,0,62688.62,62688.64
+2009,1210,222,Serveis Generals,Comunicacions,,,14000,5423.89,19423.89,27579.43
+2009,1210,227,Serveis Generals,Treballs altres empreses,,,3500,0,3500,0
+2009,1210,230,Serveis Generals,Dietes,,,3000,0,3000,1411.44
+2009,1210,231,Serveis Generals,Despeses locomocio,,,4000,1588.34,5588.34,2459.66
+2009,1210,622,Serveis Generals,Edificis i altres constr.,911,ADQUISICIO CINEMA KING,1,0,1,0
+2009,1210,625,Serveis Generals,Adquisicio mobiliari,919,MOBILIARI,15000,3788.32,18788.32,17469.43
+2009,1211,120,Secretaria,Retribucions basiques,,,152401.98,-10290.34,142111.64,135006.82
+2009,1211,121,Secretaria,Retribuc. complementaries,,,194852.7,280.92,195133.62,177085.65
+2009,1211,131,Secretaria,Personal Laboral eventual,,,0,0,0,25152.79
+2009,1212,120,Oficines Municipals,Retribucions basiques,,,184070.18,-4998.91,179071.27,180533.42
+2009,1212,121,Oficines Municipals,Retribuc. complementaries,,,231950.19,0,231950.19,226289.74
+2009,1212,203,Oficines Municipals,"Maquinaria, instal.utill.",,,14200,457.44,14657.44,13936.77
+2009,1212,213,Oficines Municipals,Maquinaria inst i utillat,,,23000,58,23058,19659.18
+2009,1212,220,Oficines Municipals,Material de oficina,,,125000,28375.68,153375.68,117085.84
+2009,1212,221,Oficines Municipals,Subministres,,,25000,49214.44,74214.44,116929.26
+2009,1212,222,Oficines Municipals,Comunicacions,,,40000,11000,51000,52908.26
+2009,1212,223,Oficines Municipals,Transports,,,1500,0,1500,1636.29
+2009,1212,227,Oficines Municipals,Treballs altres empreses,,,12000,-3500,8500,0
+2009,1213,227,Edificis Municipals,Treballs altres empreses,,,390000,0,390000,359375.86
+2009,1213,632,Edificis Municipals,Inv. rep. edificis i cons,,,0,998760,998760,297373.61
+2009,1214,120,Societat de la informació,Retribucions basiques,,,25753.28,0,25753.28,25432.28
+2009,1214,121,Societat de la informació,Retribuc. complementaries,,,38048.41,262.64,38311.05,38048.4
+2009,1214,206,Societat de la informació,Equips proces. informacio,,,35000,0,35000,30276
+2009,1214,216,Societat de la informació,Equip. per proces. inform,,,15000,4669.14,19669.14,24567.25
+2009,1214,227,Societat de la informació,Treballs altres empreses,,,0,20768,20768,20326.32
+2009,1214,489,Societat de la informació,Altres transferencies,,,1800,-1800,0,0
+2009,1215,202,Magatzem,Edificis i altres constru,,,24300,0,24300,23857.06
+2009,1216,224,Bens Municipals,Primes de segurs,,,65000,-7353.14,57646.86,57646.74
+2009,1217,226,Jutjat,Despeses diverses,,,2500,3961.83,6461.83,6913.53
+2009,1217,227,Jutjat,Treballs altres empreses,,,0,903.4,903.4,451.7
+2009,1218,120,Taller,Retribucions basiques,,,30156.56,-432.81,29723.75,29746.34
+2009,1218,121,Taller,Retribuc. complementaries,,,33661.14,1810.71,35471.85,35260.96
+2009,1218,226,Taller,Despeses diverses,,,2500,447.09,2947.09,2132.27
+2009,1219,120,Departament de Personal,Retribucions basiques,,,46710.86,0,46710.86,34962.41
+2009,1219,121,Departament de Personal,Retribuc. complementaries,,,62182.54,-31907.93,30274.61,42023.06
+2009,1230,227,Aseso. i defensa lletrada,Treballs altres empreses,,,80000,95061.26,175061.26,127506.68
+2009,1240,233,Oposicions i concursos,Assistencies,,,5000,-1067.76,3932.24,3932.24
+2009,2220,120,Policia Local,Retribucions basiques,,,481340.58,-17933.36,463407.22,472990.15
+2009,2220,121,Policia Local,Retribuc. complementaries,,,780954.7,11184.59,792139.29,782556.36
+2009,2220,204,Policia Local,Material de transport,,,42000,0,42000,38955.18
+2009,2220,213,Policia Local,Maquinaria inst i utillat,,,1500,69.25,1569.25,1041.39
+2009,2220,214,Policia Local,Material de transport,,,5000,0,5000,5621.99
+2009,2220,221,Policia Local,Subministres,,,20000,3433.04,23433.04,19994.4
+2009,2220,231,Policia Local,Despeses locomocio,,,8000,0,8000,7490
+2009,2220,623,Policia Local,"Maquinaria, Inst. i Utill",,,0,119,119,119
+2009,2221,219,Control de Tràfic,Altre immobilitzat materi,,,12000,2795.93,14795.93,5906.07
+2009,2221,221,Control de Tràfic,Subministres,,,4500,1099.21,5599.21,5692.63
+2009,2222,202,Recollida de vehicles,Edificis i altres constru,,,18100,0,18100,16045.11
+2009,2222,227,Recollida de vehicles,Treballs altres empreses,,,50000,3731.72,53731.72,55323.88
+2009,3110,160,Segurs Socials,Quotes socials,,,1653630.36,87889.45,1741519.81,1741519.81
+2009,3120,150,Personal Actiu,Complement productivitat,,,121740,299.3,122039.3,86262.45
+2009,3120,151,Personal Actiu,Dotacio gratificacions,,,99018.96,40722.87,139741.83,179627.68
+2009,3120,162,Personal Actiu,Despeses socials-Segur,,,7000,0,7000,6115.24
+2009,3120,163,Personal Actiu,Despes.soc.-Prev riscos,,,12000,0,12000,10689.67
+2009,3120,165,Personal Actiu,Desp. Socials-Pla formac.,,,10000,-2197.58,7802.42,862.5
+2009,3120,226,Personal Actiu,Despeses diverses,,,3000,3862.24,6862.24,8836.58
+2009,3120,227,Personal Actiu,Treballs altres empreses,,,1,5617.58,5618.58,3644.24
+2009,3120,858,Personal Actiu,Avançaments,,,6,19682.08,19688.08,19682.08
+2009,3121,121,"Segure., protecc. i prom.",Retribuc. complementaries,,,73440.2,-73440.2,0,0
+2009,3121,161,"Segure., protecc. i prom.",Prestacions socials,,,6000,0,6000,4229.67
+2009,3121,162,"Segure., protecc. i prom.",Despeses socials-Segur,,,25000,0,25000,25000
+2009,3130,227,Asistència Domiciliaria,Treballs altres empreses,,,20000,0,20000,16991.18
+2009,3131,480,Acció Social,Atencions benef i asisten,,,70000,25122.7,95122.7,77226.37
+2009,3131,489,Acció Social,Altres transferencies,,,6000,7000,13000,11550
+2009,3132,120,Asistència Social,Retribucions basiques,,,60193,0,60193,61428.36
+2009,3132,121,Asistència Social,Retribuc. complementaries,,,67155.86,8098.44,75254.3,60325.33
+2009,3132,130,Asistència Social,Personal Laboral fixe,,,0,0,0,53124.93
+2009,3132,131,Asistència Social,Personal Laboral eventual,,,56121.85,-3862.24,52259.61,10718.42
+2009,3132,226,Asistència Social,Despeses diverses,,,3000,-3000,0,74.94
+2009,3132,227,Asistència Social,Treballs altres empreses,,,0,836.32,836.32,418.16
+2009,3132,480,Asistència Social,Atencions benef i asisten,,,2000,-2000,0,0
+2009,3133,226,Departament de la Dona,Despeses diverses,,,10000,1534.4,11534.4,6856.5
+2009,3133,227,Departament de la Dona,Treballs altres empreses,,,5999,0,5999,9445.34
+2009,3135,489,Associacio de Jubilats,Altres transferencies,,,15000,0,15000,15000
+2009,3136,120,Centre Tercera Edat,Retribucions basiques,,,9512.58,0,9512.58,0
+2009,3136,121,Centre Tercera Edat,Retribuc. complementaries,,,9303.15,0,9303.15,0
+2009,3136,130,Centre Tercera Edat,Personal Laboral fixe,,,0,0,0,18512.54
+2009,3136,212,Centre Tercera Edat,Edificis i altres constru,,,2000,12133.09,14133.09,13338.7
+2009,3136,221,Centre Tercera Edat,Subministres,,,10000,4576.9,14576.9,16853.64
+2009,3136,226,Centre Tercera Edat,Despeses diverses,,,2000,614.92,2614.92,1245.71
+2009,3136,227,Centre Tercera Edat,Treballs altres empreses,,,10500,4026.59,14526.59,13788.79
+2009,3136,623,Centre Tercera Edat,"Maquinaria, Inst. i Utill",,,0,1069.52,1069.52,534.76
+2009,3139,202,Centre dia per a menors,Edificis i altres constru,,,12300,-10271.91,2028.09,11978.4
+2009,3139,226,Centre dia per a menors,Despeses diverses,,,8000,20960,28960,14888.38
+2009,3139,227,Centre dia per a menors,Treballs altres empreses,,,0,538.98,538.98,269.49
+2009,3139,626,Centre dia per a menors,Equips per porc. informac,,,0,6000,6000,5999.98
+2009,3210,120,Educador de Carrer,Retribucions basiques,,,16748.9,-22644.92,-5896.02,16749.04
+2009,3210,121,Educador de Carrer,Retribuc. complementaries,,,17579.55,0,17579.55,17579.6
+2009,3210,130,Educador de Carrer,Personal Laboral fixe,,,19837.98,0,19837.98,16351.17
+2009,3210,131,Educador de Carrer,Personal Laboral eventual,,,85297.61,0,85297.61,63614.15
+2009,3210,226,Educador de Carrer,Despeses diverses,,,5000,0,5000,4923.44
+2009,3220,131,Escola Taller,Personal Laboral eventual,,,221158.26,-5643.2,215515.06,199890.17
+2009,3220,226,Escola Taller,Despeses diverses,,,25000,5643.2,30643.2,30378.39
+2009,3222,120,Ocupació,Retribucions basiques,,,0,0,0,3708.55
+2009,3222,121,Ocupació,Retribuc. complementaries,,,0,0,0,1511.94
+2009,3222,131,Ocupació,Personal Laboral eventual,,,67182.58,181939.98,249122.56,226643.24
+2009,3222,202,Ocupació,Edificis i altres constru,,,15000,0,15000,16790.35
+2009,3222,221,Ocupació,Subministres,,,1000,0,1000,0
+2009,3222,226,Ocupació,Despeses diverses,,,6000,33384.11,39384.11,37663.82
+2009,3222,481,Ocupació,"Premis, beques estudis",,,0,10800,10800,8056.8
+2009,3222,623,Ocupació,"Maquinaria, Inst. i Utill",,,0,4140,4140,0
+2009,3223,120,Promoció Econòmica,Retribucions basiques,,,44584.96,-24153.28,20431.68,34187.88
+2009,3223,121,Promoció Econòmica,Retribuc. complementaries,,,50457.44,8441.6,58899.04,39533.66
+2009,3223,226,Promoció Econòmica,Despeses diverses,,,11300,0,11300,4130.77
+2009,3223,489,Promoció Econòmica,Altres transferencies,,,14000,-1400,12600,12600
+2009,3224,226,Ocupació,Despeses diverses,,,2500,0,2500,1877.6
+2009,3230,226,Pau i solidaritat:immigra,Despeses diverses,,,1000,3229,4229,3956.72
+2009,3233,131,Prevenció Drogodependenc.,Personal Laboral eventual,,,28558.64,-28558.64,0,0
+2009,3233,226,Prevenció Drogodependenc.,Despeses diverses,,,8000,0,8000,7712.84
+2009,4110,221,Salut pública,Subministres,,,1000,0,1000,378.72
+2009,4110,226,Salut pública,Despeses diverses,,,8300,10726.12,19026.12,19026.66
+2009,4110,480,Salut pública,Atencions benef i asisten,,,50000,8618.38,58618.38,58499.84
+2009,4120,120,Servei Mèdic,Retribucions basiques,,,38026.38,0,38026.38,38027.22
+2009,4120,121,Servei Mèdic,Retribuc. complementaries,,,47886.64,0.84,47887.48,47886.64
+2009,4131,227,Servei Recollida Gossos,Treballs altres empreses,,,9000,-4200,4800,4587.44
+2009,4132,227,Desinfeccio i Desratitza.,Treballs altres empreses,,,20000,2040.49,22040.49,21162.21
+2009,4134,130,Ciutats sanes,Personal Laboral fixe,,,14569.92,-1007.8,13562.12,13562.12
+2009,4134,226,Ciutats sanes,Despeses diverses,,,2500,0,2500,2467
+2009,4220,120,Col.legis E.G.B.,Retribucions basiques,,,47224.1,-1472.82,45751.28,46614.5
+2009,4220,121,Col.legis E.G.B.,Retribuc. complementaries,,,46515.75,2131.32,48647.07,47783.85
+2009,4220,203,Col.legis E.G.B.,"Maquinaria, instal.utill.",,,30000,0,30000,0
+2009,4220,205,Col.legis E.G.B.,Mobiliari i efectes,,,10500,0,10500,10300.8
+2009,4220,212,Col.legis E.G.B.,Edificis i altres constru,,,40000,5103.99,45103.99,36641.42
+2009,4220,221,Col.legis E.G.B.,Subministres,,,30000,0,30000,63355.01
+2009,4220,632,Col.legis E.G.B.,Inv. rep. edificis i cons,,,0,14482.41,14482.41,12009.1
+2009,4221,226,Ponencia d'Educació,Despeses diverses,,,18000,4295.14,22295.14,17708.25
+2009,4221,227,Ponencia d'Educació,Treballs altres empreses,,,8700,-7706.89,993.11,5580
+2009,4221,481,Ponencia d'Educació,"Premis, beques estudis",,,106500,27360,133860,127879.33
+2009,4221,482,Ponencia d'Educació,Guard.Xiquets 0-3 anys,,,12000,-6870.67,5129.33,11110
+2009,4223,130,Escola Permanent d'Adults,Personal Laboral fixe,,,46053.43,0,46053.43,43071.4
+2009,4223,131,Escola Permanent d'Adults,Personal Laboral eventual,,,15128.93,0,15128.93,18044.76
+2009,4223,203,Escola Permanent d'Adults,"Maquinaria, instal.utill.",,,1520,0,1520,1780.68
+2009,4223,221,Escola Permanent d'Adults,Subministres,,,6000,0,6000,0
+2009,4223,226,Escola Permanent d'Adults,Despeses diverses,,,2500,0,2500,765.56
+2009,4223,227,Escola Permanent d'Adults,Treballs altres empreses,,,20000,7770.24,27770.24,33333.66
+2009,4226,410,OOAA Conservatori Música,A Orgs. autonoms Entitat,,,241776,0,241776,241776
+2009,4226,710,OOAA Conservatori Música,A Orgs. auton. Ent. local,,,1800,0,1800,1800
+2009,4230,120,Gabinet Psicopedagògic,Retribucions basiques,,,58598.68,0,58598.68,74396.83
+2009,4230,121,Gabinet Psicopedagògic,Retribuc. complementaries,,,55452.66,34282.29,89734.95,73936.8
+2009,4260,481,Menjador Escolar,"Premis, beques estudis",,,35000,15000,50000,32534.89
+2009,4310,212,Edificis Corporació,Edificis i altres constru,,,10000,53365.59,63365.59,93461.52
+2009,4310,227,Edificis Corporació,Treballs altres empreses,,,0,68347.32,68347.32,37237.18
+2009,4310,632,Edificis Corporació,Inv. rep. edificis i cons,924,EDIFICI POLICIA LOCAL.,1,132040.9,132041.9,0
+2009,4312,120,Agencia de l'habitatge,Retribucions basiques,,,29580.32,0,29580.32,29402.28
+2009,4312,121,Agencia de l'habitatge,Retribuc. complementaries,,,38473.43,0,38473.43,38473.36
+2009,4312,202,Agencia de l'habitatge,Edificis i altres constru,,,8600,0,8600,7811.11
+2009,4312,212,Agencia de l'habitatge,Edificis i altres constru,,,0,1594.77,1594.77,1594.77
+2009,4314,227,Pla especial rehabilitaci,Treballs altres empreses,,,0,1214320.81,1214320.81,507336.25
+2009,4320,120,Urbanisme,Retribucions basiques,,,89296.2,-34191.39,55104.81,73639.86
+2009,4320,121,Urbanisme,Retribuc. complementaries,,,117143.64,780.56,117924.2,99387.72
+2009,4320,226,Urbanisme,Despeses diverses,,,5500,-1674.68,3825.32,5561.21
+2009,4320,227,Urbanisme,Treballs altres empreses,,,6000,8269.32,14269.32,6201.97
+2009,4320,622,Urbanisme,Edificis i altres constr.,,,0,558500,558500,169675.98
+2009,4320,611,Urbanisme,Altres inversions reposic,908,MOBILIARI URBÀ I SENYALS.,15000,50833.65,65833.65,20349.39
+2009,4320,627,Urbanisme,projectes complexos,922,PROJECTES I DIRECCIO OBRA,185000,183478.22,368478.22,212415.78
+2009,4321,626,Obres,Equips per porc. informac,921,CONVENI CARTOGRAFIA.,7315,0,7315,0
+2009,4322,622,Urbanisme i Arquitectura,Edificis i altres constr.,912,EDIFICI MULTIFUNCIONAL.,764912.7,0,764912.7,0
+2009,4323,210,Senyalit. vert. i horitz,Infrast. i bens naturals,,,0,1,1,0
+2009,4340,120,Enllumenat Públic,Retribucions basiques,,,42153.86,-153.63,42000.23,39703.3
+2009,4340,121,Enllumenat Públic,Retribuc. complementaries,,,56615.25,1030.15,57645.4,59584.34
+2009,4340,210,Enllumenat Públic,Infrast. i bens naturals,,,6000,11241.87,17241.87,19308.04
+2009,4340,213,Enllumenat Públic,Maquinaria inst i utillat,,,20000,-21886.29,-1886.29,3630.05
+2009,4340,221,Enllumenat Públic,Subministres,,,115000,0,115000,107417.09
+2009,4351,120,Parcs i Jardins,Retribucions basiques,,,48362.58,-8502.88,39859.7,31092.6
+2009,4351,121,Parcs i Jardins,Retribuc. complementaries,,,53797.89,7899.32,61697.21,37417.53
+2009,4351,130,Parcs i Jardins,Personal Laboral fixe,,,0,0,0,33046.78
+2009,4351,210,Parcs i Jardins,Infrast. i bens naturals,,,90000,32592.47,122592.47,139531.5
+2009,4351,221,Parcs i Jardins,Subministres,,,3500,0,3500,1510.25
+2009,4351,226,Parcs i Jardins,Despeses diverses,,,15000,0,15000,0
+2009,4351,610,Parcs i Jardins,Inversions en terrenys,,,0,366.56,366.56,366.56
+2009,4351,601,Parcs i Jardins,Altres inversions,902,JOCS INFANTILS.AD.NORMAT.,1,1269.98,1270.98,1269.98
+2009,4352,611,Parcs i Jardins,Altres inversions reposic,,,0,308788.14,308788.14,278822.07
+2009,4410,120,Servei d'Aigua Potable,Retribucions basiques,,,21808.08,0,21808.08,21868.76
+2009,4410,121,Servei d'Aigua Potable,Retribuc. complementaries,,,27108.05,60.83,27168.88,27108.2
+2009,4411,210,Clavegueram i Vessam.Aigu,Infrast. i bens naturals,,,2500,92494.54,94994.54,81741.56
+2009,4413,210,Font del Manano,Infrast. i bens naturals,,,1000,0,1000,49.27
+2009,4420,227,Recollida Fem i Net.viari,Treballs altres empreses,,,775000,161753.13,936753.13,936753.13
+2009,4420,622,Recollida Fem i Net.viari,Edificis i altres constr.,913,NAU SERVEIS MUNICIPALS.,125000,-125000,0,0
+2009,4422,464,Tractament Residus Solids,A arees metropolitanes,,,350613.77,-233856.76,116757.01,116082.89
+2009,4424,464,Cancel.lació deute EMTRE,A arees metropolitanes,,,0,355532.83,355532.83,355532.83
+2009,4430,120,Cementeri Municipal,Retribucions basiques,,,17020.92,0,17020.92,20600.53
+2009,4430,121,Cementeri Municipal,Retribuc. complementaries,,,21755.96,9972.89,31728.85,28149.24
+2009,4430,212,Cementeri Municipal,Edificis i altres constru,,,6000,10505.37,16505.37,16466.37
+2009,4430,221,Cementeri Municipal,Subministres,,,1500,0,1500,1482.12
+2009,4430,622,Cementeri Municipal,Edificis i altres constr.,914,CONSTRUCCIÓ NINXOLS.,1,4752.23,4753.23,0
+2009,4430,632,Cementeri Municipal,Inv. rep. edificis i cons,925,COBERTES PAVELLONS CEMENT,1,17734.35,17735.35,17735.35
+2009,4440,120,Vies Públiques,Retribucions basiques,,,9574.32,0,9574.32,0
+2009,4440,121,Vies Públiques,Retribuc. complementaries,,,9878.88,780.56,10659.44,0
+2009,4440,130,Vies Públiques,Personal Laboral fixe,,,0,0,0,20220.15
+2009,4440,210,Vies Públiques,Infrast. i bens naturals,,,42000,38908.7,80908.7,76286.4
+2009,4440,213,Vies Públiques,Maquinaria inst i utillat,,,5000,0,5000,4173.02
+2009,4440,214,Vies Públiques,Material de transport,,,5000,4583.16,9583.16,10588.96
+2009,4440,611,Vies Públiques,Altres inversions reposic,909,ASFALTAT CARRERS I CAMINS,1,45805.72,45806.72,35805.72
+2009,4440,623,Vies Públiques,"Maquinaria, Inst. i Utill",917,ADQUISICIO MATERIAL OBRES,5000,0,5000,0
+2009,4441,120,Brigada Vies i Obres,Retribucions basiques,,,70006.44,-17501.51,52504.93,22892.24
+2009,4441,121,Brigada Vies i Obres,Retribuc. complementaries,,,76037.52,3136.98,79174.5,24658.53
+2009,4441,130,Brigada Vies i Obres,Personal Laboral fixe,,,0,0,0,64230.97
+2009,4441,131,Brigada Vies i Obres,Personal Laboral eventual,,,9132.5,0,9132.5,29030.19
+2009,4441,204,Brigada Vies i Obres,Material de transport,,,19000,-2376.84,16623.16,6556.38
+2009,4442,213,Obres i Serveis,Maquinaria inst i utillat,,,0,0,0,257.84
+2009,4442,221,Obres i Serveis,Subministres,,,18000,10136.14,28136.14,27878.3
+2009,4460,120,Medi Ambient,Retribucions basiques,,,19947.76,0,19947.76,19948.32
+2009,4460,121,Medi Ambient,Retribuc. complementaries,,,24949.91,0,24949.91,24949.78
+2009,4460,131,Medi Ambient,Personal Laboral eventual,,,16074.67,0,16074.67,15536.41
+2009,4460,226,Medi Ambient,Despeses diverses,,,20000,7441,27441,31935.85
+2009,4460,227,Medi Ambient,Treballs altres empreses,,,10000,9989.07,19989.07,15494.22
+2009,4461,226,Zones Degradades,Despeses diverses,,,1500,-1500,0,0
+2009,4461,620,Zones Degradades,Terrenys i bens naturals,910,RESTAURACIO ZONES.,6000,0,6000,0
+2009,4470,120,O.M.I.C.,Retribucions basiques,,,13251.14,0,13251.14,13251.14
+2009,4470,121,O.M.I.C.,Retribuc. complementaries,,,13523.64,0,13523.64,13523.58
+2009,4470,226,O.M.I.C.,Despeses diverses,,,3500,0,3500,313.2
+2009,4480,212,Mercat Municipal,Edificis i altres constru,,,4000,0,4000,2531.75
+2009,4480,221,Mercat Municipal,Subministres,,,5000,0,5000,3905.59
+2009,4480,227,Mercat Municipal,Treballs altres empreses,,,0,6645.4,6645.4,3322.7
+2009,4510,120,Biblioteques i Arxius,Retribucions basiques,,,53424.7,-30652.06,22772.64,28858.63
+2009,4510,121,Biblioteques i Arxius,Retribuc. complementaries,,,57140.85,0,57140.85,30306.41
+2009,4510,130,Biblioteques i Arxius,Personal Laboral fixe,,,0,0,0,19860.74
+2009,4510,202,Biblioteques i Arxius,Edificis i altres constru,,,21317,0,21317,20496.96
+2009,4510,212,Biblioteques i Arxius,Edificis i altres constru,,,1000,0,1000,398.2
+2009,4510,222,Biblioteques i Arxius,Comunicacions,,,0,0,0,0
+2009,4510,226,Biblioteques i Arxius,Despeses diverses,,,6000,0,6000,5729.14
+2009,4510,227,Biblioteques i Arxius,Treballs altres empreses,,,0,7487.7,7487.7,3743.85
+2009,4511,226,Campanya Animació lectura,Despeses diverses,,,1600,0,1600,1308.47
+2009,4511,627,Campanya Animació lectura,projectes complexos,923,ADQUISICIÓ LLIBRES I CD'S,5000,6750.96,11750.96,11699.55
+2009,4512,226,Projectes cultur. Europeu,Despeses diverses,,,2000,16387.03,18387.03,15239.46
+2009,4512,481,Projectes cultur. Europeu,"Premis, beques estudis",,,0,6021,6021,5215.61
+2009,4513,632,OOAA Conservatori Música,Inv. rep. edificis i cons,,,0,10824.01,10824.01,10824.01
+2009,4514,130,Escola de Teatre,Personal Laboral fixe,,,15724.34,-7956.47,7767.87,7643.25
+2009,4514,226,Escola de Teatre,Despeses diverses,,,6000,7956.47,13956.47,13953.81
+2009,4514,623,Escola de Teatre,"Maquinaria, Inst. i Utill",918,EQUIPAMENT TEATRE PLAÇA.,1,7579.31,7580.31,7579.31
+2009,4515,120,Animador Cultural,Retribucions basiques,,,39023.88,-1989.71,37034.17,37707.52
+2009,4515,121,Animador Cultural,Retribuc. complementaries,,,41404.61,0,41404.61,40731.26
+2009,4516,226,Ponència de Cultura,Despeses diverses,,,30000,2282.15,32282.15,31855.32
+2009,4516,481,Ponència de Cultura,"Premis, beques estudis",,,3000,0,3000,2770.56
+2009,4516,489,Ponència de Cultura,Altres transferencies,,,30000,19000,49000,47713.36
+2009,4517,120,Casa de la Cultura,Retribucions basiques,,,17521.56,0,17521.56,17209.88
+2009,4517,121,Casa de la Cultura,Retribuc. complementaries,,,20519.1,0,20519.1,20082.01
+2009,4517,131,Casa de la Cultura,Personal Laboral eventual,,,8700,-8004.6,695.4,1444.17
+2009,4517,216,Casa de la Cultura,Equip. per proces. inform,,,0,20566.8,20566.8,17394.2
+2009,4517,226,Casa de la Cultura,Despeses diverses,,,35000,-594.82,34405.18,31065.65
+2009,4518,120,Ponencia de Joventut,Retribucions basiques,,,27131.44,-6050.66,21080.78,27132.28
+2009,4518,121,Ponencia de Joventut,Retribuc. complementaries,,,30354.63,1068.76,31423.39,31409.44
+2009,4518,131,Ponencia de Joventut,Personal Laboral eventual,,,57484.57,6721.76,64206.33,58168.78
+2009,4518,226,Ponencia de Joventut,Despeses diverses,,,35000,3363,38363,35183.77
+2009,4518,227,Ponencia de Joventut,Treballs altres empreses,,,0,0,0,0
+2009,4518,466,Ponencia de Joventut,A Ent. que agrupen munic.,,,4000,-3363,637,637
+2009,4518,622,Ponencia de Joventut,Edificis i altres constr.,,,0,371999.99,371999.99,281282.51
+2009,4518,626,Ponencia de Joventut,Equips per porc. informac,,,0,4402.71,4402.71,4402.71
+2009,4518,625,Ponencia de Joventut,Adquisicio mobiliari,920,INVERSIONS MOBILIARI CIJ.,3934.64,-279.95,3654.69,3654.69
+2009,4519,120,Promocio d'Us Valencia,Retribucions basiques,,,16250.22,0,16250.22,16250.36
+2009,4519,121,Promocio d'Us Valencia,Retribuc. complementaries,,,14013.42,2568.42,16581.84,16101.78
+2009,4519,220,Promocio d'Us Valencia,Material de oficina,,,1500,0,1500,805.44
+2009,4519,226,Promocio d'Us Valencia,Despeses diverses,,,7000,5337.04,12337.04,8349.93
+2009,4519,489,Promocio d'Us Valencia,Altres transferencies,,,1000,0,1000,1000
+2009,4520,130,Piscina Municipal,Personal Laboral fixe,,,71439.95,-31449,39990.95,32337.44
+2009,4520,131,Piscina Municipal,Personal Laboral eventual,,,0,0,0,7653.51
+2009,4520,213,Piscina Municipal,Maquinaria inst i utillat,,,20000,10490.56,30490.56,40757.45
+2009,4520,227,Piscina Municipal,Treballs altres empreses,,,48500,11575.53,60075.53,41470.63
+2009,4520,622,Piscina Municipal,Edificis i altres constr.,915,CONDICIONAMENT PISCINA M.,10000,10000,20000,9965.11
+2009,4521,120,Polisportiu Municipal,Retribucions basiques,,,46798.36,0,46798.36,29581.6
+2009,4521,121,Polisportiu Municipal,Retribuc. complementaries,,,71987.03,3445.2,75432.23,46645.98
+2009,4521,131,Polisportiu Municipal,Personal Laboral eventual,,,0,0,0,45359.16
+2009,4521,212,Polisportiu Municipal,Edificis i altres constru,,,12000,2878.06,14878.06,8008.04
+2009,4521,213,Polisportiu Municipal,Maquinaria inst i utillat,,,17000,1649.68,18649.68,8986.95
+2009,4521,221,Polisportiu Municipal,Subministres,,,25000,39050.64,64050.64,80583.03
+2009,4521,623,Polisportiu Municipal,"Maquinaria, Inst. i Utill",,,0,0,0,0
+2009,4521,761,Polisportiu Municipal,A Diputacions i consells,,,0,36000,36000,0
+2009,4521,622,Polisportiu Municipal,Edificis i altres constr.,916,DOTACIONS ESPORTIVES MUN.,150000,162102.85,312102.85,77272.17
+2009,4521,632,Polisportiu Municipal,Inv. rep. edificis i cons,926,ADEQUACIÓ CAMP PORT FUTB.,1,31373.27,31374.27,29980.1
+2009,4522,226,Ponencia d'Esports,Despeses diverses,,,15000,27994.74,42994.74,42355.99
+2009,4522,467,Ponencia d'Esports,A consorcis,,,3000,0,3000,3000
+2009,4522,481,Ponencia d'Esports,"Premis, beques estudis",,,3000,-2500,500,500
+2009,4522,489,Ponencia d'Esports,Altres transferencies,,,150000,-5500,144500,144500
+2009,4531,627,Prot. Patrimoni  Hist-art,projectes complexos,,,0,291300,291300,40058.28
+2009,4540,226,Festes,Despeses diverses,,,165000,18616.54,183616.54,183401.98
+2009,4540,489,Festes,Altres transferencies,,,35000,-17200,17800,17800
+2009,4610,489,Bandes de Música,Altres transferencies,,,37500,0,37500,37500
+2009,4631,489,Mitjans de comunicació,Altres transferencies,,,26000,0,26000,26000
+2009,4640,226,Junta Local Fallera,Despeses diverses,,,0,19699,19699,19693.15
+2009,4640,489,Junta Local Fallera,Altres transferencies,,,20000,-19700,300,300
+2009,4640,622,Junta Local Fallera,Edificis i altres constr.,,,0,600000,600000,0
+2009,4641,226,Comissions falles,Despeses diverses,,,0,5001,5001,5000
+2009,4641,489,Comissions falles,Altres transferencies,,,17000,-5000,12000,12000
+2009,4650,226,Entitats no Lucratives,Despeses diverses,,,600,0,600,534.14
+2009,4650,489,Entitats no Lucratives,Altres transferencies,,,5000,0,5000,5000
+2009,4651,489,Consell Local de Joventut,Altres transferencies,,,7800,-1500,6300,6300
+2009,4653,489,Pau i solidaritat: ONG,Altres transferencies,,,18900,0,18900,18360.49
+2009,4653,780,Pau i solidaritat: ONG,A instit. sense fi lucre,,,19000,2775,21775,16275
+2009,5110,601,Vies Publiques,Altres inversions,903,CARRIL BICI,1,86720,86721,0
+2009,5110,601,Vies Publiques,Altres inversions,904,ROTONDA CAMI DEL PORT.,1,0,1,0
+2009,5110,601,Vies Publiques,Altres inversions,905,Millora vials públics,216800,0,216800,0
+2009,5310,226,Pla Ecològic ramad. agric,Despeses diverses,,,14000,-6000,8000,0
+2009,5310,600,Pla Ecològic ramad. agric,Inversions en Terrenys,901,CASA FIGUERO,1,0,1,0
+2009,6110,120,Serveis Econòmics,Retribucions basiques,,,116889.22,-75403.2,41486.02,83681.81
+2009,6110,121,Serveis Econòmics,Retribuc. complementaries,,,174845.69,0,174845.69,127770.53
+2009,6110,131,Serveis Econòmics,Personal Laboral eventual,,,0,0,0,4879.37
+2009,6110,227,Serveis Econòmics,Treballs altres empreses,,,3000,17880,20880,5220
+2009,6113,227,Recaptació,Treballs altres empreses,,,50000,6386.93,56386.93,56386.93
+2009,6220,226,Fira Sant Sebastià,Despeses diverses,,,100000,15535.89,115535.89,115535.89
+2009,6320,226,Participació Ciutadana,Despeses diverses,,,10000,0,10000,9749.52
+2009,6320,489,Participació Ciutadana,Altres transferencies,,,4000,0,4000,3400
+2009,7110,120,Consell Local Agrari,Retribucions basiques,,,39632.74,0,39632.74,39382.98
+2009,7110,121,Consell Local Agrari,Retribuc. complementaries,,,54115.12,7118.48,61233.6,56637.46
+2009,7110,131,Consell Local Agrari,Personal Laboral eventual,,,0,0,0,3365.36
+2009,7110,204,Consell Local Agrari,Material de transport,,,9500,0,9500,9134.19
+2009,7110,226,Consell Local Agrari,Despeses diverses,,,10000,0,10000,8941.69
+2009,7110,601,Consell Local Agrari,Altres inversions,906,BARRANCONS.(CAMI RUSSAFA),60000,0,60000,621.3
+2009,7110,601,Consell Local Agrari,Altres inversions,907,CAMINS RURALS.,119118.97,75052.84,194171.81,113571.2
+2009,7111,120,Guarderia Rural,Retribucions basiques,,,21081.06,0,21081.06,20777.24
+2009,7111,121,Guarderia Rural,Retribuc. complementaries,,,30217.5,0,30217.5,30418.06
+2009,7111,131,Guarderia Rural,Personal Laboral eventual,,,0,60539.62,60539.62,49529.62
+2009,7111,226,Guarderia Rural,Despeses diverses,,,0,125910.39,125910.39,112083.48
+2009,7310,740,Energia electrica,Aport. Empresa mixta,,,0,7700,7700,0
+2009,9112,466,Federació Municipis,A Ent. que agrupen munic.,,,6000,2026.55,8026.55,7000.78
+2009,9114,463,Mancomunitat L'Horta Sud,A Mancomunitats,,,84684,-37696,46988,46987.3
+2009,9116,463,Cancel.lacio deute Mancom,A Mancomunitats,,,0,37696.64,37696.64,37696.64
+2009,9210,226,Indemnitzacions A. Publiq,Despeses diverses,,,50000,0,50000,21061.19
+2009,1210,600,Serveis Generals,Inversions en Terrenys,,,0,191379.16,191379.16,7795.2
+2009,1210,622,Serveis Generals,Edificis i altres constr.,,,0,300001,300001,0
+2009,1210,625,Serveis Generals,Adquisicio mobiliari,,,0,2476.19,2476.19,1730.75
+2009,1210,626,Serveis Generals,Equips per porc. informac,,,0,564.05,564.05,370.04
+2009,1213,632,Edificis Municipals,Inv. rep. edificis i cons,,,0,0,0,0
+2009,1214,626,Societat de la informació,Equips per porc. informac,,,0,36589.04,36589.04,25477.08
+2009,3220,131,Escola Taller,Personal Laboral eventual,,,0,198205.2,198205.2,190898.27
+2009,3220,226,Escola Taller,Despeses diverses,,,0,29830.78,29830.78,29830.78
+2009,3222,131,Ocupació,Personal Laboral eventual,,,0,28695.75,28695.75,28695.75
+2009,3222,226,Ocupació,Despeses diverses,,,0,2491.28,2491.28,0
+2009,3222,632,Ocupació,Inv. rep. edificis i cons,,,0,35605.51,35605.51,0
+2009,4223,623,Escola Permanent d'Adults,"Maquinaria, Inst. i Utill",,,0,972.8,972.8,0
+2009,4226,780,OOAA Conservatori Música,A instit. sense fi lucre,,,0,6.01,6.01,0
+2009,4260,632,Menjador Escolar,Inv. rep. edificis i cons,,,0,2.95,2.95,0
+2009,4310,610,Edificis Corporació,Inversions en terrenys,,,0,8617.33,8617.33,0
+2009,4310,622,Edificis Corporació,Edificis i altres constr.,,,0,0,0,0
+2009,4310,623,Edificis Corporació,"Maquinaria, Inst. i Utill",,,0,17458.4,17458.4,17458.4
+2009,4310,632,Edificis Corporació,Inv. rep. edificis i cons,,,0,401000,401000,207839.8
+2009,4320,611,Urbanisme,Altres inversions reposic,,,0,18655.19,18655.19,10853.81
+2009,4320,622,Urbanisme,Edificis i altres constr.,,,0,0,0,0
+2009,4320,625,Urbanisme,Adquisicio mobiliari,,,0,1466.85,1466.85,0
+2009,4340,601,Enllumenat Públic,Altres inversions,,,0,21990.77,21990.77,21989.77
+2009,4341,601,Altres Conexions,Altres inversions,,,0,6000,6000,0
+2009,4342,601,Enllumenta Públic,Altres inversions,,,0,1,1,0
+2009,4351,601,Parcs i Jardins,Altres inversions,,,0,1616.36,1616.36,1613.87
+2009,4430,611,Cementeri Municipal,Altres inversions reposic,,,0,13743.79,13743.79,0
+2009,4430,622,Cementeri Municipal,Edificis i altres constr.,,,0,50000,50000,42910.07
+2009,4440,611,Vies Públiques,Altres inversions reposic,,,0,40492.21,40492.21,14260
+2009,4440,612,Vies Públiques,Inv repos. infraestructu.,,,0,28325.91,28325.91,25580.21
+2009,4461,620,Zones Degradades,Terrenys i bens naturals,,,0,4741,4741,0
+2009,4510,625,Biblioteques i Arxius,Adquisicio mobiliari,,,0,1105.8,1105.8,0
+2009,4516,780,Ponència de Cultura,A instit. sense fi lucre,,,0,50,50,0
+2009,4517,632,Casa de la Cultura,Inv. rep. edificis i cons,,,0,7793.02,7793.02,0
+2009,4521,622,Polisportiu Municipal,Edificis i altres constr.,,,0,288221.77,288221.77,0
+2009,4521,632,Polisportiu Municipal,Inv. rep. edificis i cons,,,0,29038.57,29038.57,28676.82
+2009,5110,601,Vies Publiques,Altres inversions,,,0,141563.2,141563.2,30399.77
+2009,5110,602,Vies Publiques,Altres inversions,,,0,938312.71,938312.71,278404.89
+2009,5110,603,Vies Publiques,Altres inversions,,,0,97002.44,97002.44,0
+2009,5110,606,Vies Publiques,Inversions en infrastruc.,,,0,2782.36,2782.36,0
+2009,5110,608,Vies Publiques,Inversions en infrastruc.,,,0,257804.6,257804.6,78339.88
+2009,5110,612,Vies Publiques,Inv repos. infraestructu.,,,0,24582.75,24582.75,0
+2009,5110,627,Vies Publiques,projectes complexos,,,0,5336,5336,0
+2009,5110,770,Vies Publiques,A Empreses privades,,,0,206101.54,206101.54,36323.07
+2009,5111,602,Vies Publiques,Altres inversions,,,0,703857.7,703857.7,417692.74
+2009,5111,611,Vies Publiques,Altres inversions reposic,,,0,7565.5,7565.5,0
+2009,5112,611,vies Publiques,Altres inversions reposic,,,0,11303,11303,11302.54
+2009,5120,611,Recursos Hidraulics,Altres inversions reposic,,,0,22240,22240,0
+2009,5330,600,Millora Medi Natural,Inversions en Terrenys,,,0,78265.67,78265.67,0
+2009,6110,626,Serveis Econòmics,Equips per porc. informac,,,0,16028.88,16028.88,13061.97
+2009,7110,600,Consell Local Agrari,Inversions en Terrenys,,,0,1524.2,1524.2,0
+2009,7110,601,Consell Local Agrari,Altres inversions,,,0,95705.63,95705.63,88341.96
+2009,7110,623,Consell Local Agrari,"Maquinaria, Inst. i Utill",,,0,2668.52,2668.52,2603.52
+2009,7110,624,Consell Local Agrari,Material de transport,,,0,5639.04,5639.04,0
+2009,7110,632,Consell Local Agrari,Inv. rep. edificis i cons,,,0,1,1,0
+2009,7111,131,Guarderia Rural,Personal Laboral eventual,,,0,3047.28,3047.28,0
+2009,7111,226,Guarderia Rural,Despeses diverses,,,0,830.57,830.57,315
+2009,7111,600,Guarderia Rural,Inversions en Terrenys,,,0,1482.37,1482.37,0
+2009,7111,623,Guarderia Rural,"Maquinaria, Inst. i Utill",,,0,29.93,29.93,0
 #,,,,,,,15208035.33,17182999.22,32391034.55,24424413.81

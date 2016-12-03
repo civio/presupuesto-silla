@@ -1,67 +1,67 @@
 #Aplicación presupuestaria,Economico,Desc. capítulo,Desc. Economico,Suma Prev. inicial,Suma Modificaciones,Suma Prev. definitiva,Suma DR netos
-,11200,,De naturalesa rustica,40160,0,40160,49899.57
-,11201,,De naturalesa urbana,3900000,0,3900000,3813652.79
-,11300,,Vehicles tracció mecànica,1130000,0,1130000,1098729.06
-,11400,,Incr. valor terrenys urb.,300000,0,300000,164780.1
-,13000,,Sobre acts. empresarials,883000,0,883000,825194.62
-,28200,,Sobre construcc. i obres,775500,0,775500,265517.59
-,31000,,Taxa exped docum. aminis.,8000,0,8000,962.3
-,31001,,Taxa llic. obert. establi,70000,0,70000,61367.56
-,31002,,Taxa servei cementeri,5000,0,5000,3953.95
-,31004,,Taxa serv.retir.vehicles,105000,0,105000,81304.5
-,31005,,Taxa utiliz.polispostiu,20000,0,20000,24059.99
-,31007,,Taxa util.locals serv.pub,10000,0,10000,630
-,31101,,Taxa servei recoll. fem,140000,0,140000,88558.78
-,31102,,Taxa oc.sub.sol vol obres,19000,0,19000,1515.24
-,31103,,Taxa ocup. mercat i feste,70000,0,70000,53819.08
-,31104,,Taxa ocup taules-cadires,35000,0,35000,21767.54
-,31105,,Taxa ocup. fira S.Sebasti,60000,0,60000,54350
-,31106,,Taxa electr. gas i telefo,275000,0,275000,543781.5
-,31200,,Taxa llicencies urbanisti,45000,0,45000,20612.83
-,31201,,Taxa servei clavegueram,0,0,0,0
-,31202,,Taxa entrada vehi. vorere,110000,0,110000,137639.01
-,32000,,Tasa util.inst. piscina,75000,0,75000,65513.89
-,34001,,P.P.Act.Cult.i esp.EPA,25000,0,25000,25616.5
-,34002,,P.P.Ac.Cult. Esc.Matinera,0,0,0,2500
-,34003,,P.P.Ac.Cult.Escola Estiu,16000,0,16000,14401
-,34004,,P.P.Ac.Cult. Camp. Estiu,8000,0,8000,4500
-,34005,,P.P.Ac.Educ. i Esp.Teatre,6000,0,6000,2530.55
-,34200,,Taxa servei subm. d'aigua,0,0,0,0
-,35104,,"Taxa Ocupacio  Subsuelo,.",0,0,0,0
-,35202,,Taxa entrada vehic.vorera,0,0,0,0
-,36000,,Contribucions especials,1,0,1,0
-,38000,,De pressupostos tancats,1,0,1,1440
-,38101,,Reintegrament Estat i S.S,1,7232.6,7233.6,77265.03
-,38802,,Reintegrament particulars,120700,4940.33,125640.33,318709.79
-,38803,,Reinteg.prom.vivendes VPO,60000,0,60000,0
-,39101,,Multes i sancions,82000,0,82000,96265.65
-,39201,,Recarrecs prorrog. i cons,45000,0,45000,51659.78
-,39301,,Interessos de demora,22000,0,22000,15051.05
-,39700,,Aprofitaments urbanistics,1,0,1,72850
-,39902,,Quotes urbanistiques,1,0,1,172730.53
-,39905,,Imprevistos,1,198423.93,198424.93,194400.96
-,39908,,Taxa Cedules Habitabilit.,17000,0,17000,6873.76
-,39909,,Canon C.T.N.E.,70000,0,70000,53137.86
-,42000,,Particip. tributs Estat,4050000,0,4050000,3031026.96
-,42001,,Subvencions de l'Estat,1,22407.03,22408.03,19718.61
-,42300,,Aportacions  I.N.E.M.,1,0,1,0
-,45500,,Subvencions Generalitat,766326.24,1209585.08,1975911.32,2032575.19
-,46200,,Subvencions Diputacio,20828.98,27360,48188.98,49861.37
-,47000,,De Empreses privades,0,242864.16,242864.16,242864.16
-,52100,,Int. Diposits ent. Bancar,130000,0,130000,70761.74
-,55000,,Concesions administrativ.,85000,0,85000,127206.57
-,55001,,Cessio ninxols,60000,0,60000,31051.39
-,60000,,Alienacio solars municip.,879419.14,0,879419.14,0
-,60900,,Altres terrenys,49583.5,0,49583.5,0
-,72000,,Subvencions de l'Estat,0,3323928.74,3323928.74,3323928.74
-,72100,,Subven. INEM i altres,19118.97,0,19118.97,18257.74
-,75500,,Subven. Generalitat Vcna.,6125.31,61971.74,68097.05,40748.12
-,76100,,De Diputacions,0,30000,30000,30000
-,76101,,Aportacio Diputacio PPOS,130080,0,130080,130080
-,77000,,D'empreses privades,0,6373.27,6373.27,6373.27
-,78000,,Aport.act. urbanistiques,0,0,0,0
-,83000,,Reint. avançaments person,0,19682.08,19682.08,19682.08
-,87001,,Aplic. financ. supl. cred,0,196750.09,196750.09,0
-,87002,,Aplic.financ. incorp.cred,0,3880875.6,3880875.6,0
-,91701,,Prestecs entitats financ.,464185.19,7950604.57,8414789.76,8811029.74
+2009,11200,,De naturalesa rustica,40160,0,40160,49899.57
+2009,11201,,De naturalesa urbana,3900000,0,3900000,3813652.79
+2009,11300,,Vehicles tracció mecànica,1130000,0,1130000,1098729.06
+2009,11400,,Incr. valor terrenys urb.,300000,0,300000,164780.1
+2009,13000,,Sobre acts. empresarials,883000,0,883000,825194.62
+2009,28200,,Sobre construcc. i obres,775500,0,775500,265517.59
+2009,31000,,Taxa exped docum. aminis.,8000,0,8000,962.3
+2009,31001,,Taxa llic. obert. establi,70000,0,70000,61367.56
+2009,31002,,Taxa servei cementeri,5000,0,5000,3953.95
+2009,31004,,Taxa serv.retir.vehicles,105000,0,105000,81304.5
+2009,31005,,Taxa utiliz.polispostiu,20000,0,20000,24059.99
+2009,31007,,Taxa util.locals serv.pub,10000,0,10000,630
+2009,31101,,Taxa servei recoll. fem,140000,0,140000,88558.78
+2009,31102,,Taxa oc.sub.sol vol obres,19000,0,19000,1515.24
+2009,31103,,Taxa ocup. mercat i feste,70000,0,70000,53819.08
+2009,31104,,Taxa ocup taules-cadires,35000,0,35000,21767.54
+2009,31105,,Taxa ocup. fira S.Sebasti,60000,0,60000,54350
+2009,31106,,Taxa electr. gas i telefo,275000,0,275000,543781.5
+2009,31200,,Taxa llicencies urbanisti,45000,0,45000,20612.83
+2009,31201,,Taxa servei clavegueram,0,0,0,0
+2009,31202,,Taxa entrada vehi. vorere,110000,0,110000,137639.01
+2009,32000,,Tasa util.inst. piscina,75000,0,75000,65513.89
+2009,34001,,P.P.Act.Cult.i esp.EPA,25000,0,25000,25616.5
+2009,34002,,P.P.Ac.Cult. Esc.Matinera,0,0,0,2500
+2009,34003,,P.P.Ac.Cult.Escola Estiu,16000,0,16000,14401
+2009,34004,,P.P.Ac.Cult. Camp. Estiu,8000,0,8000,4500
+2009,34005,,P.P.Ac.Educ. i Esp.Teatre,6000,0,6000,2530.55
+2009,34200,,Taxa servei subm. d'aigua,0,0,0,0
+2009,35104,,"Taxa Ocupacio  Subsuelo,.",0,0,0,0
+2009,35202,,Taxa entrada vehic.vorera,0,0,0,0
+2009,36000,,Contribucions especials,1,0,1,0
+2009,38000,,De pressupostos tancats,1,0,1,1440
+2009,38101,,Reintegrament Estat i S.S,1,7232.6,7233.6,77265.03
+2009,38802,,Reintegrament particulars,120700,4940.33,125640.33,318709.79
+2009,38803,,Reinteg.prom.vivendes VPO,60000,0,60000,0
+2009,39101,,Multes i sancions,82000,0,82000,96265.65
+2009,39201,,Recarrecs prorrog. i cons,45000,0,45000,51659.78
+2009,39301,,Interessos de demora,22000,0,22000,15051.05
+2009,39700,,Aprofitaments urbanistics,1,0,1,72850
+2009,39902,,Quotes urbanistiques,1,0,1,172730.53
+2009,39905,,Imprevistos,1,198423.93,198424.93,194400.96
+2009,39908,,Taxa Cedules Habitabilit.,17000,0,17000,6873.76
+2009,39909,,Canon C.T.N.E.,70000,0,70000,53137.86
+2009,42000,,Particip. tributs Estat,4050000,0,4050000,3031026.96
+2009,42001,,Subvencions de l'Estat,1,22407.03,22408.03,19718.61
+2009,42300,,Aportacions  I.N.E.M.,1,0,1,0
+2009,45500,,Subvencions Generalitat,766326.24,1209585.08,1975911.32,2032575.19
+2009,46200,,Subvencions Diputacio,20828.98,27360,48188.98,49861.37
+2009,47000,,De Empreses privades,0,242864.16,242864.16,242864.16
+2009,52100,,Int. Diposits ent. Bancar,130000,0,130000,70761.74
+2009,55000,,Concesions administrativ.,85000,0,85000,127206.57
+2009,55001,,Cessio ninxols,60000,0,60000,31051.39
+2009,60000,,Alienacio solars municip.,879419.14,0,879419.14,0
+2009,60900,,Altres terrenys,49583.5,0,49583.5,0
+2009,72000,,Subvencions de l'Estat,0,3323928.74,3323928.74,3323928.74
+2009,72100,,Subven. INEM i altres,19118.97,0,19118.97,18257.74
+2009,75500,,Subven. Generalitat Vcna.,6125.31,61971.74,68097.05,40748.12
+2009,76100,,De Diputacions,0,30000,30000,30000
+2009,76101,,Aportacio Diputacio PPOS,130080,0,130080,130080
+2009,77000,,D'empreses privades,0,6373.27,6373.27,6373.27
+2009,78000,,Aport.act. urbanistiques,0,0,0,0
+2009,83000,,Reint. avançaments person,0,19682.08,19682.08,19682.08
+2009,87001,,Aplic. financ. supl. cred,0,196750.09,196750.09,0
+2009,87002,,Aplic.financ. incorp.cred,0,3880875.6,3880875.6,0
+2009,91701,,Prestecs entitats financ.,464185.19,7950604.57,8414789.76,8811029.74
 #,,,,15208035.33,17182999.22,32391034.55,26472708.04
