@@ -15,20 +15,25 @@ class SillaBudgetLoader(SimpleBudgetLoader):
         programme_mapping = {
             # old programme: new programme
             '1550': '1532',     # Vías públicas
+            '1540': '1521',     # Agencia de la vivienda
             '1551': '1531',     # Obras
+            '1611': '1600',     # Alcantarillado y tratamiento de aguas
             '1620': '1630',     # Limpieza viaria
             '1720': '1721',     # Protección y mejora medio ambiente
+            '2111': '2211',     # Segur. protec. y prom. soc.
             '2300': '2310',     # Asistencia social
             '2320': '2315',     # Departamento de la mujer
             '2321': '2316',     # Centro de día para menores
             '2322': '2318',     # Educador de Calle
             '2323': '2313',     # Prevención drogodependencias
             '2324': '2314',     # Entidades no lucrativas
+            '2325': '2314',     # Entidades no lucrativas
             '2330': '2312',     # Asistencia domiciliaria
             '2331': '2319',     # Ayuda a la dependencia
+            '3130': '3110',     # Medicamentos y prod sanitarios
             '3131': '3111',     # Salud Pública
             '3132': '3112',     # Desinfeccion y desratización
-            '3133': '3113',     # iudades sanas
+            '3133': '3113',     # Ciudades sanas
             '3134': '3121',     # Servicio Médico
             '3210': '3230',     # Enseñanza Preescolar
             '3211': '3231',     # Enseñanza Primaria
@@ -39,7 +44,6 @@ class SillaBudgetLoader(SimpleBudgetLoader):
             '3350': '3330',     # Escuela de teatro
             '3351': '3331',     # Representaciones teatrales
             '4310': '4312',     # Mercados, abastos y lonjas
-            '3130': '3110',     # Medicamentos y prod sanitarios
         }
 
         # Some dirty lines in input data
