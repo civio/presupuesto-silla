@@ -38,6 +38,7 @@
 #
 0,1,1,2,Operacions financeres
 1,3,2,0,Seguretat i orgre públic
+1,3,2,1,Seguretat ciutadana
 1,3,3,0,Control del trànsit
 1,3,3,1,Recollida de vehicles
 1,5,1,0,Urbanisme
@@ -48,6 +49,7 @@
 1,6,0,0,Clavegueram i vessam aigües
 1,6,1,0,Servei d'Aigua Potable
 1,6,1,1,Pluvials
+1,6,1,2,Font del Manano
 1,6,2,1,Recollida de residus
 1,6,3,0,Neteja viaria
 1,6,4,0,Cementeri Municipal
@@ -96,18 +98,23 @@
 3,3,4,3,Campanya animació lectura
 3,3,4,4,Projectes culturals Europeus
 3,3,4,5,Bandes de Música
+3,3,4,6,Cronista
 3,3,4,7,Pomoció d'Ús Valencià
 3,3,6,0,Arqueologia i protecció del patrimoni historicoartístic
 3,3,7,0,Ponència de Joventut
 3,3,7,1,Centre informacio juvenil
+3,3,7,2,Nau Jove
+3,3,7,3,Locals civics socials
 3,3,7,9,Centre Tercera Edat
 3,3,8,0,Festes Populars
 3,3,8,1,Junta Local Fallera
+3,3,8,2,Comissions Falleres
 3,4,1,0,Ponència d'Esports
 3,4,2,0,Piscina d'Estiu
 3,4,2,1,Poliesportiu Municipal
 3,4,2,2,Piscines municipals
 4,1,0,0,Consell Local Agrari
+4,1,2,0,Pla Ecològic ramaderia i agricultura
 4,1,2,1,Millora Medi Natural
 4,1,9,0,Vedat de caça
 4,3,0,0,Promoció Econòmica
@@ -133,8 +140,10 @@
 9,2,0,6,Bens Municipals
 9,2,0,7,Jutjat
 9,2,0,9,Departament de Personal
+9,2,2,0,Coordinació i organització institucional
 9,2,4,0,Participació ciutadana
 9,2,5,0,Atenció ciutadana i U. Admin
+9,2,9,0,Imprevistos Diputació
 9,2,9,1,Indemnitzacions
 9,2,9,2,Taller
 9,3,1,0,Àrea Econòmica

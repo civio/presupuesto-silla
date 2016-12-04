@@ -524,8 +524,11 @@ G,9,4,1,Devolució de fiances
 #
 # Conceptos específicos del Ayuntamiento de Silla
 #
+I,2,8,2,Sobre construcció i obres
 I,4,8,0,De famílies i institucions sense fins de lucre
 I,5,2,0,Interessos Dipòsits E.B.
+I,7,7,0,Aportacions entitats privades
+I,7,8,0,Aportacions urbanístiques
 G,1,6,3,Despeses socials - Previsió de riscos
 G,2,7,0,Despeses imprevistes
 G,4,1,0,OOAA Conservatori Música
@@ -540,3 +543,5 @@ G,6,0,8,Altres inversions noves
 G,6,1,1,Inversió reposició infraestructures
 G,6,1,2,Inversió reposició infraestructures
 G,7,8,0,A institucions sense fins de lucre
+G,7,8,9,Aportacions i subvencions
+G,8,5,8,Avançaments
