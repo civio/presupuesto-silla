@@ -531,7 +531,6 @@ I,4,5,5,Subvenciones Generalitat Valenciana
 I,4,7,0,De empresas privadas
 I,4,8,0,De familias e instituciones sin fines de lucro
 I,5,2,0,Intereses Depósitos E.B.
-I,5,2,1,Intereses Depósitos E.B.
 I,7,5,5,De la Generalitat Valenciana
 I,7,7,0,Aportaciones entidades privadas
 I,7,8,0,Aportaciones urbanísticas
@@ -550,7 +549,6 @@ G,6,0,2,Inversión nueva en infraestructuras
 G,6,0,8,Otras inversiones nuevas
 G,6,1,1,Inversión reposición infraestructuras
 G,6,1,2,Inversión reposición infraestructuras
-G,6,2,0,Terrenos y bienes naturales
 G,7,8,0,A instituciones sin fines de lucro
 G,7,8,9,Aportaciones y subvenciones
 G,8,5,8,Adelantos
