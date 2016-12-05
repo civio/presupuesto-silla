@@ -525,12 +525,20 @@ G,9,4,1,Devolución de fianzas
 # Conceptos específicos del Ayuntamiento de Silla
 #
 I,2,8,2,Sobre construcción i obras
+I,3,8,1,Reintegro Estado i S.S.
+I,3,8,8,Reintegro particulares
+I,4,5,5,Subvenciones Generalitat Valenciana
+I,4,7,0,De empresas privadas
 I,4,8,0,De familias e instituciones sin fines de lucro
 I,5,2,0,Intereses Depósitos E.B.
+I,5,2,1,Intereses Depósitos E.B.
+I,7,5,5,De la Generalitat Valenciana
 I,7,7,0,Aportaciones entidades privadas
 I,7,8,0,Aportaciones urbanísticas
 G,1,6,3,Gastos sociales - Prevención de riesgos
+G,1,6,5,Gastos sociales - Plan de formación
 G,2,7,0,Gastos imprevistos
+G,3,4,2,Intereses de demora
 G,4,1,0,OOAA Conservatorio Música
 G,4,8,0,Ayudas indiv y aten bene
 G,4,8,1,Premios y Becas
@@ -542,6 +550,7 @@ G,6,0,2,Inversión nueva en infraestructuras
 G,6,0,8,Otras inversiones nuevas
 G,6,1,1,Inversión reposición infraestructuras
 G,6,1,2,Inversión reposición infraestructuras
+G,6,2,0,Terrenos y bienes naturales
 G,7,8,0,A instituciones sin fines de lucro
 G,7,8,9,Aportaciones y subvenciones
 G,8,5,8,Adelantos
