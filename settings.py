@@ -74,7 +74,11 @@ LANGUAGES = (
 
 # Facebook Aplication ID used in social_sharing temaplate. Default: ''
 # In order to get the ID create an app in https://developers.facebook.com/
-# FACEBOOK_ID             = '1234567898765432'
+FACEBOOK_ID             = '1070950059697559'
+
+# Google Analytics ID. Default: ''
+# In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
+ANALYTICS_ID            = 'UA-28946840-24'
 
 # Setup Data Source Budget link
 DATA_SOURCE_BUDGET      = 'http://www.silla.es/serveis-municipals/serveis-economics/pressupost-municipal'
@@ -95,4 +99,4 @@ MAIN_ENTITY_LEGAL_URL   = 'http://www.silla.es/avis-legal'
 COOKIES_URL             = ''
 
 # Allow overriding of default treemap color scheme
-COLOR_SCALE = [ '#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#e7969c', '#bcbd22', '#17becf' ]
+# COLOR_SCALE = [ '#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#e7969c', '#bcbd22', '#17becf' ]
