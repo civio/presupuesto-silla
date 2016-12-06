@@ -55,7 +55,7 @@ msgstr "Els ingressos i despeses mostrats inclouen únicament a l'Ajuntament de 
 
 #: templates/tax_receipt/tax_receipt_form.html:75
 msgid ""
-"Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupuestos del Gobierno "
+"Contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del Gobierno "
 "de Aragón"
 msgstr ""
 "Contribueixes amb un total de <strong id=\"tax-amount-paid\"></strong> als pressupostos "
