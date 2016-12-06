@@ -1,0 +1,101 @@
+<p class="intro-text">{{ _('Puedes escoger el tipo de situación que mejor refleja tu realidad (<a href="#" id="scenario-1">piso pequeño en el casco antiguo</a>, <a href="#" id="scenario-2">piso de nueva construcción</a>, casa unifamiliar <a href="#" id="scenario-3">en el centro</a>, o <a href="#" id="scenario-4">en una urbanización</a>) o modificar cada uno de los elementos de forma independiente.')|safe }}</p>
+
+
+<form class="form-user-incomings" action="#" method="get">
+
+  <h3>{{ _('Impuestos') }}</h3>
+
+  <div class="row">
+    <div class="form-group">
+      <label for="select-house">{{ _('Introduce el valor catastral de tu inmueble') }}</label>
+      <div class="input-group">
+        <input id="select-house" value="30000" type="number" min="0" step="any" class="form-control">
+        <div class="input-group-addon">€</div>
+      </div>
+    </div>
+    <div class="select-info">{{ _('IBI') }}: <span id="select-house-tax"></span></div>
+    <div class="form-group" style="clear: both">
+      <label for="select-house-bonus">{{ _('Bonificación por familia numerosa') }}</label>
+      <select id="select-house-bonus" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Ninguna') }}</option>
+        <option value="1" type="text">{{ _('3 hijos') }}</option>
+        <option value="2" type="text">{{ _('2 hijos y cónyuges minusválidos') }}</option>
+        <option value="3" type="text">{{ _('2 hijos, uno de ellos minusválido') }}</option>
+        <option value="4" type="text">{{ _('4 hijos') }}</option>
+        <option value="5" type="text">{{ _('5 hijos') }}</option>
+        <option value="6" type="text">{{ _('6 hijos') }}</option>
+        <option value="7" type="text">{{ _('7 hijos o más') }}</option>
+      </select>
+    </div>
+    <div class="form-group" style="clear: both">
+      <label for="select-house-bonus-2">{{ _('Bonificación por VPO') }}</label>
+      <select id="select-house-bonus-2" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Ninguna') }}</option>
+        <option value="1" type="text">{{ _('Vivienda de protección oficial concedida hace 3 años o menos') }}</option>
+        <option value="2" type="text">{{ _('Vivienda de protección oficial concedida hace 4 años') }}</option>
+        <option value="3" type="text">{{ _('Vivienda de protección oficial concedida hace 5 años') }}</option>
+        <option value="4" type="text">{{ _('Vivienda de protección oficial concedida hace 6 años') }}</option>
+        <option value="5" type="text">{{ _('Vivienda de protección oficial concedida hace 7 años') }}</option>
+        <option value="6" type="text">{{ _('Vivienda de protección oficial concedida hace 8 años') }}</option>
+      </select>
+    </div>
+  </div>
+    
+  <div class="row">
+    <div class="form-group">
+      <label for="select-vehicle">{{ _('Vehículo') }}</label>
+      <select id="select-vehicle" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Ninguno') }}</option>
+        <option value="1" type="text">{{ _('Coche muy pequeño (menos de 8 caballos fiscales)') }}</option>
+        <option value="2" type="text">{{ _('Coche pequeño (entre 8 y 12 caballos fiscales)') }}</option>
+        <option value="3" type="text">{{ _('Coche mediano (entre 12 y 16 caballos fiscales)') }}</option>
+        <option value="4" type="text">{{ _('Coche grande (entre 16 y 20 caballos fiscales)') }}</option>
+        <option value="5" type="text">{{ _('Coche muy grande (más de 20 caballos fiscales)') }}</option>
+        <option value="6" type="text">{{ _('Ciclomotor hasta 125cc') }}</option>
+        <option value="7" type="text">{{ _('Motocicleta hasta 125cc') }}</option>
+        <option value="8" type="text">{{ _('Ciclomotor o motocicleta entre 125cc y 250cc') }}</option>
+        <option value="9" type="text">{{ _('Ciclomotor o motocicleta entre 250cc y 500cc') }}</option>
+        <option value="10" type="text">{{ _('Ciclomotor o motocicleta entre 500cc y 1000cc') }}</option>
+        <option value="11" type="text">{{ _('Ciclomotor o motocicleta de más de 1000cc') }}</option>
+      </select>
+    </div>
+    <div class="select-info">{{ _('Impuesto a vehículos motorizados') }}: <span id="select-vehicle-tax"></span></div>
+  </div>
+    
+  <div class="row">
+    <div class="form-group">
+      <label for="select-extra-vehicle">{{ _('Vehículo adicional') }}</label>
+      <select id="select-extra-vehicle" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Ninguno') }}</option>
+        <option value="1" type="text">{{ _('Coche muy pequeño (menos de 8 caballos fiscales)') }}</option>
+        <option value="2" type="text">{{ _('Coche pequeño (entre 8 y 12 caballos fiscales)') }}</option>
+        <option value="3" type="text">{{ _('Coche mediano (entre 12 y 16 caballos fiscales)') }}</option>
+        <option value="4" type="text">{{ _('Coche grande (entre 16 y 20 caballos fiscales)') }}</option>
+        <option value="5" type="text">{{ _('Coche muy grande (más de 20 caballos fiscales)') }}</option>
+        <option value="6" type="text">{{ _('Ciclomotor hasta 125cc') }}</option>
+        <option value="7" type="text">{{ _('Motocicleta hasta 125cc') }}</option>
+        <option value="8" type="text">{{ _('Ciclomotor o motocicleta entre 125cc y 250cc') }}</option>
+        <option value="9" type="text">{{ _('Ciclomotor o motocicleta entre 250cc y 500cc') }}</option>
+        <option value="10" type="text">{{ _('Ciclomotor o motocicleta entre 500cc y 1000cc') }}</option>
+        <option value="11" type="text">{{ _('Ciclomotor o motocicleta de más de 1000cc') }}</option>
+      </select>
+    </div>
+    <div class="select-info">{{ _('Impuesto a vehículos motorizados') }}: <span id="select-extra-vehicle-tax"></span></div>
+  </div>
+    
+  <h3>{{ _('Tasas') }}</h3>
+
+  <div class="row">
+    <div class="form-group">
+      <label for="select-parking">{{ _('Vado') }}</label>
+      <select id="select-parking" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Ninguno') }}</option>
+        <option value="1" type="text">{{ _('Un vado de 3 m/l') }}</option>
+        <option value="2" type="text">{{ _('Un vado de 4 m/l') }}</option>
+      </select>
+    </div>
+    <div class="select-info">{{ _('Tasa') }}: <span id="select-parking-tax"></span></div>
+  </div>
+</form>
+
+<p id="tax-amount">{{ _('Contribuyes con un total de <strong id="tax-amount-paid"></strong> a los presupuestos del Gobierno de Aragón')|safe }}.</p>

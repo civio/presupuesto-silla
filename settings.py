@@ -36,7 +36,7 @@ OVERVIEW_EXPENSE_NODES = ['01', '13', '15', '16', '23', '32', '33', '34', '92']
 # SHOW_PAYMENTS           = True
 
 # Show Tax Receipt section in menu & home options. Default: False.
-# SHOW_TAX_RECEIPT        = True
+SHOW_TAX_RECEIPT        = True
 
 # Show Counties & Towns links in Policies section in menu & home options. Default: False.
 # SHOW_COUNTIES_AND_TOWNS = True
