@@ -1,94 +1,96 @@
 <script>
   $(function () {
-    var totalTaxPaid = 0;
 
-    // Display amount as expense per capita
-    function calculatePersonalTax(value, type, item) {
-      if (value == null) return null;
-      if (type === 'filter') return value;  // We filter based on the raw data
+    var breakdown = {{ breakdown.to_json( labels=descriptions['functional'] )|safe }},
+        getBreakdownValue = getBreakdownValueFunction('expense', '{{ latest_budget.name()|safe }}'),
+        gridData = breakdownToTable(breakdown),
+        myGrid;
 
-      var percentage = value / getBreakdownValue(item.root);
-      return formatDecimal(percentage * totalTaxPaid) + " €";
-    }
 
-    function formatTaxAmount(value) {
-      return numeral(value).format( '0,0.00', Math.floor ) + " €";
-    }
-
-    function getHouseTaxPaid() {
-      var val = $("#select-house").val();
+    // Set tax receipt taxes values
+    TaxReceipt.taxes.house.callback = function(selector, values) {
+      var value = $('#select-'+selector).val();
       // Permitir bonificación IBI por Familia numerosa sólo si el valor catastral es < 40000
-      if (val >= 40000) {
-        $("#select-house-bonus").val("0").parent().hide();
+      if (value >= 40000) {
+        $('#select-house-bonus').val('0').parent().hide();
       } else {
-        $("#select-house-bonus").parent().show();
+        $('#select-house-bonus').parent().show();
       }
-      var bonus = [0, 0.5, 0.5, 0.5, 0.6, 0.7, 0.8, 0.9][$("#select-house-bonus").val()];
-      var bonus2 = [0, 0.5, 0.5, 0.4, 0.3, 0.2, 0.1][$("#select-house-bonus-2").val()];
+      var bonus = [0, 0.5, 0.5, 0.5, 0.6, 0.7, 0.8, 0.9][$('#select-house-bonus').val()];
+      var bonus2 = [0, 0.5, 0.5, 0.4, 0.3, 0.2, 0.1][$('#select-house-bonus-2').val()];
       var bonusTotal = (bonus+bonus2 < 1) ? 1 - bonus - bonus2 : 0;
-      return val*0.0076*bonusTotal;
+      return value * 0.0076 * bonusTotal;
+    };
 
-    }
-    function getVehicleTaxPaid() {
-      return [0, 18.59, 56.37, 119.67, 179.22, 224.00, 6.56, 8.84, 15.14, 30.30, 60.58, 121.16][$("#select-vehicle").val()];
-    }
-    function getExtraVehicleTaxPaid() {
-      return [0, 18.59, 56.37, 119.67, 179.22, 224.00, 6.56, 8.84, 15.14, 30.30, 60.58, 121.16][$("#select-extra-vehicle").val()];
-    }
-    function getParkingTaxPaid() {
-      return [0, 65.82, 87.76][$("#select-parking").val()];
-    }
+    TaxReceipt.taxes.vehicle.values      =
+    TaxReceipt.taxes.vehicleExtra.values = [0, 18.59, 56.37, 119.67, 179.22, 224.00, 6.56, 8.84, 15.14, 30.30, 60.58, 121.16];
+    TaxReceipt.taxes.garbage.values      = [112.50, 115.09, 109.86, 94.18];
+    TaxReceipt.taxes.parking.values      = [0, 65.82, 87.76];
 
-    function redrawGrid() {
-      var houseTaxPaid = getHouseTaxPaid();
-      $('#select-house-tax').text(formatTaxAmount(houseTaxPaid));
+    // Delete garbage tax
+    delete TaxReceipt.taxes.garbage;
 
-      var vehicleTaxPaid = getVehicleTaxPaid();
-      $('#select-vehicle-tax').text(formatTaxAmount(vehicleTaxPaid));
 
-      var extraVehicleTaxPaid = getExtraVehicleTaxPaid();
-      $('#select-extra-vehicle-tax').text(formatTaxAmount(extraVehicleTaxPaid));
+    // Override redrawGrid method
+    TaxReceipt.redrawGrid = function() {
+      if ( myGrid !== undefined ) {
+        myGrid.destroy();
+      }
 
-      var parkingTaxPaid = getParkingTaxPaid();
-      $('#select-parking-tax').text(formatTaxAmount(parkingTaxPaid));
-
-      totalTaxPaid = houseTaxPaid + vehicleTaxPaid + extraVehicleTaxPaid + parkingTaxPaid;
-      $("#tax-amount-paid").text(formatTaxAmount(totalTaxPaid));
-      // XXX: window.location.hash = 'ingresos='+getIncomeInEuros();
-
-      if ( myGrid !== undefined )  myGrid.destroy();
-      myGrid = createBudgetGrid("#myGrid", gridData, [
-        { data: "label", title: '{{ _("Política") }}', render: getPolicyLinkFormatter() },
+      myGrid = createBudgetGrid('#myGrid', gridData, [
+        { data: 'label', title: '{{ _("Política") }}', render: getPolicyLinkFormatter() },
         {
-          data: getBreakdownValue,
-          title: '{{ _("Gasto") }}',
-          render: calculatePersonalTax,
-          year: breakdown.years['{{ latest_budget.name()|safe }}']
+          data:   getBreakdownValue,
+          title:  '{{ _("Gasto") }}',
+          render: TaxReceipt.calculatePersonalTax,
+          year:   breakdown.years['{{ latest_budget.name()|safe }}']
         }
       ]);
-    }
+    };
+    
+    // Add scenarios
+    TaxReceipt.addStatus('scenario-1', {
+      'house':         69329,
+      'house-bonus':   0,
+      'house-bonus-2': 0,
+      'vehicle':       2, 
+      'extra-vehicle': 3, 
+      'parking':       2,
+    });
+    TaxReceipt.addStatus('scenario-2', {
+      'house':         33774.59,
+      'house-bonus':   0,
+      'house-bonus-2': 4,
+      'vehicle':       2, 
+      'extra-vehicle': 0,  
+      'parking':       1,
+    });
+    TaxReceipt.addStatus('scenario-3', {
+      'house':         27444.20,
+      'house-bonus':   0,
+      'house-bonus-2': 0,
+      'vehicle':       3, 
+      'extra-vehicle': 0, 
+      'parking':       1,
+    });
+    TaxReceipt.addStatus('scenario-4', {
+      'house':         39999.99,
+      'house-bonus':   4,
+      'house-bonus-2': 0,
+      'vehicle':       4, 
+      'extra-vehicle': 0, 
+      'parking':       1,
+    });
+    TaxReceipt.addStatus('scenario-5', {
+      'house':         49054.74,
+      'house-bonus':   0,
+      'house-bonus-2': 1,
+      'vehicle':       3, 
+      'extra-vehicle': 8, 
+      'parking':       1,
+    });
 
-    function setStatus(house, houseBonus, houseBonus2, vehicle, extraVehicle, parking) {
-      $('#select-house').val(house);
-      $('#select-house-bonus').val(houseBonus);
-      $('#select-house-bonus-2').val(houseBonus2);
-      $('#select-vehicle').val(vehicle);
-      $('#select-extra-vehicle').val(extraVehicle);
-      $('#select-parking').val(parking);
-    }
-
-    $("#scenario-1").click(function() { setStatus(69329, 0, 0, 2, 3, 2); redrawGrid(); return false; });
-    $("#scenario-2").click(function() { setStatus(33774.59, 0, 4, 2, 0, 1); redrawGrid(); return false; });
-    $("#scenario-3").click(function() { setStatus(27444.20, 0, 0, 3, 0, 1); redrawGrid(); return false; });
-    $("#scenario-4").click(function() { setStatus(39999.99, 4, 0, 4, 0, 1); redrawGrid(); return false; });
-    $("#scenario-5").click(function() { setStatus(49054.74, 0, 1, 3, 8, 1); redrawGrid(); return false; });
-
-    var breakdown = {{ breakdown.to_json( labels=descriptions['functional'] )|safe }};
-    var gridData = breakdownToTable(breakdown);
-    var getBreakdownValue = getBreakdownValueFunction('expense', '{{ latest_budget.name()|safe }}');
-    var myGrid;
-
-    $('select, input[type="number"]').change(redrawGrid);
-    redrawGrid();
+    // Initialize tax receipt
+    TaxReceipt.setup( breakdown, getBreakdownValue );
   })
 </script>
