@@ -42,3 +42,13 @@
     background-color: $brand-primary;
   }
 }
+
+#payments-search .btn-primary{
+  border-color: $table-color;
+  background-color: $table-color;
+
+  &:hover{
+    border-color: $brand-primary;
+    background-color: $brand-primary;
+  }
+}
