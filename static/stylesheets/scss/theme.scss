@@ -26,11 +26,11 @@
 
 // Use same background color for social sharing than for data-panels header
 .social-sharing-toolbox li a{
-  background-color: $data-panel-color;
+  background-color: $panel-default-heading-bg;
 }
 
 .form-search .form-inline .form-control{
-  border-color: $data-panel-color;
+  border-color: $panel-default-border;
 }
 
 .form-search-glossary .btn-primary{
@@ -44,8 +44,8 @@
 }
 
 #payments-search .btn-primary{
-  border-color: $table-color;
-  background-color: $table-color;
+  border-color: $panel-default-heading-bg;
+  background-color: $panel-default-heading-bg;
 
   &:hover{
     border-color: $brand-primary;

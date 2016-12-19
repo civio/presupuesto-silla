@@ -20,8 +20,6 @@ $link-color:            $brand-primary;
 $link-hover-color:      $link-color;
 $link-hover-decoration: underline;
 
-$table-color:           mix( $brand-secondary, black, 40% );
-
 
 // Typography
 // -------------
@@ -75,12 +73,19 @@ $navbar-default-link-active-color:    $brand-primary;
 $navbar-default-link-active-bg:       $brand-terciary;
 
 
+// Panels
+// ---------------
+
+$panel-default-border:      mix( $brand-secondary, black, 40% );
+$panel-default-heading-bg:  mix( $brand-secondary, black, 40% );
+
+
 // Buttons
 // --------------
 
 $btn-primary-color:              #fff;
-$btn-primary-bg:                 darken( $table-color, 10% );
-$btn-primary-border:             darken( $table-color, 10% );
+$btn-primary-bg:                 darken( $panel-default-heading-bg, 10% );
+$btn-primary-border:             darken( $panel-default-heading-bg, 10% );
 
 $btn-border-radius-base:         0;
 $btn-border-radius-large:        0;
@@ -156,20 +161,14 @@ $page-header-border-color:  $brand-secondary;
 // Budget Stream
 // --------------
 
-$budget-stream-color: $table-color;
+$budget-stream-color: $panel-default-heading-bg;
 
 
 // Year Slider
 // --------------
 
 $slider-bg:     $brand-secondary;
-$slider-color:  $table-color;
-
-
-// Data Panel
-// --------------
-
-$data-panel-color: $table-color;
+$slider-color:  $panel-default-heading-bg;
 
 
 // Data Sources
