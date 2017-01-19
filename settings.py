@@ -61,7 +61,7 @@ ADJUST_INFLATION_IN_OVERVIEW = False
 # SHOW_ACTUAL = False
 
 # Include financial income/expenditures in overview and global policy breakdowns. Default: False.
-# INCLUDE_FINANCIAL_CHAPTERS_IN_BREAKDOWNS = True
+INCLUDE_FINANCIAL_CHAPTERS_IN_BREAKDOWNS = True
 
 # Search in entity names. Default: True.
 SEARCH_ENTITIES = False
