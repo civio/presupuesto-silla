@@ -98,5 +98,11 @@ MAIN_ENTITY_LEGAL_URL   = 'http://www.silla.es/avis-legal'
 # External URL for Cookies Policy (if empty we use out template page/cookies.html)
 COOKIES_URL             = ''
 
+# Treemaps minimum height or width to show labels. Default: 70 (Optional)
+TREEMAP_LABELS_MIN_SIZE = 40
+
+# Treemap minimum font size. Default: 11 (Optional)
+TREEMAP_LABELS_FONT_SIZE_MIN = 8
+
 # Allow overriding of default treemap color scheme
 # COLOR_SCALE = [ '#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#e7969c', '#bcbd22', '#17becf' ]
