@@ -186,6 +186,6 @@ class SillaPaymentsLoader(PaymentsLoader):
             'contract_type': None,
             'payee': self._titlecase(line[9].strip()),
             'anonymized': False,
-            'description': line[10].strip()[:300].decode('utf-8','ignore').encode('utf-8'),
+            'description': self._spanish_titlecase(line[10].strip()[:300].decode('utf-8','ignore').encode('utf-8')),
             'amount': self._read_english_number(line[7])
         }

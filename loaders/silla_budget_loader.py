@@ -185,7 +185,7 @@ class SillaBudgetLoader(SimpleBudgetLoader):
                 'ec_code': ec_code[:-2],        # First three digits (everything but last two)
                 'ic_code': '000',
                 'item_number': ec_code[-2:],    # Last two digits
-                'description': line[4],
+                'description': self._spanish_titlecase(line[4]),
                 'amount': self._parse_amount(line[10 if is_actual else 7])
             }
 
@@ -196,6 +196,6 @@ class SillaBudgetLoader(SimpleBudgetLoader):
                 'ec_code': line[1][:-2],        # First three digits
                 'ic_code': '000',               # All income goes to the root node
                 'item_number': line[1][-2:],    # Fourth and fifth digit; careful, there's trailing dirt
-                'description': line[3],
+                'description': self._spanish_titlecase(line[3]),
                 'amount': self._parse_amount(line[7 if is_actual else 4])
             }
