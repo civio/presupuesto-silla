@@ -50,113 +50,125 @@ class SillaBudgetLoader(SimpleBudgetLoader):
         # in order to mantain the code-programme mapping constant.
         programme_mapping_2010 = {
             # old programme: new programme
-            '1110': '9120',     # Órganos de gobierno
-            '1111': '9121',     # Grupos Políticos
-            '1112': '9120',     # Órganos de gobierno
-            '1113': '9122',     # Gabinete de comunicación
-            '1114': '9120',     # Órganos de gobierno
-            '1210': '9200',     # Servicios Generales
-            '1211': '9201',     # Secretaría
-            '1212': '9202',     # Oficinas Municipales
-            '1213': '9203',     # Edificios Municipales
-            '1214': '9204',     # Departamento informática
-            '1215': '9203',     # Edificios Municipales
-            '1216': '9206',     # Bienes Municipales
-            '1217': '9207',     # Juzgado
+            '0112': '0112',     # Entitats Financeres
+            '0115': '0112',     # Entitats Financeres
+            '1110': '9120',     # Organs de Govern
+            '1111': '9121',     # Grups Politics
+            '1112': '9120',     # Organs de Govern
+            '1113': '4911',     # Gabinet de comunicació
+            '1114': '9120',     # Òrgans de Govern
+            '1210': '9200',     # Serveis Generals
+            '1211': '9201',     # Secretaria
+            '1212': '9202',     # Oficines Municipals
+            '1213': '9203',     # Edificis Municipals
+            '1214': '4920',     # Societat de la informació
+            '1214': '9204',     # Societat de la informació
+            '1215': '9203',     # Magatzem
+            '1216': '9206',     # Bens Municipals
+            '1217': '9207',     # Jutjat
             '1218': '9292',     # Taller
-            '1219': '9209',     # Departamento de Personal
-            '1230': '9205',     # Asesoría y defensa letrada
-            '1240': '9120',     # Órganos de gobierno
-            '2220': '1320',     # Seguridad y orden público
-            '2221': '1330',     # Control del tráfico
-            '2222': '1331',     # Recogida de vehículos
-            '3110': '2200',     # Otras prestaciones económicas a favor de empleados
-            '3120': '2210',     # Personal activo
-            '3130': '2312',     # Asistencia domiciliaria
-            '3131': '2311',     # Acción Social
-            '3132': '2310',     # Asistencia Social
-            '3133': '2315',     # Departamento de la mujer
-            '3135': '3379',     # Centro Tercera Edad
-            '3136': '3379',     # Centro Tercera Edad
-            '3139': '2316',     # Centro de día para menores
-            '3210': '2318',     # Educador de Calle
-            '3220': '2410',     # Escuelas Taller
-            '3222': '2411',     # Promoción del empleo
-            '3223': '4300',     # Promoción Económica
-            '3230': '2314',     # Entidades no lucrativas
-            '3224': '2412',     # Bolsa de empleo
-            '3233': '2313',     # Prevención drogodependencias
-            '4110': '3111',     # Salud Pública
-            '4120': '3121',     # Servicio Médico
-            '4131': '3111',     # Salud Pública
-            '4132': '3112',     # Desinfeccion y desratización
-            '4134': '3113',     # Ciudades sanas
-            '4220': '3231',     # Enseñanza Primaria
-            '4221': '3200',     # Ponencia de educación
-            '4223': '3261',     # Escuela Permanente de Adultos
-            '4226': '3265',     # OOAA Conservatorio Músic
-            '4230': '3264',     # Gabinete psicopedagógico
-            '4260': '2317',     # Comedor social
-            '4310': '9203',     # Edificios Municipales
-            '4312': '1521',     # Agencia de la vivienda
-            '4314': '1522',     # Plan especial rehabilitación
-            '4320': '1510',     # Urbanismo
-            '4321': '1510',     # Urbanismo
-            '4322': '1510',     # Urbanismo
-            '4323': '1532',     # Vías públicas
-            '4340': '1650',     # Alumbrado Público
-            '4351': '1710',     # Parques y Jardines
-            '4352': '1710',     # Parques y Jardines
-            '4410': '1610',     # Servicio de Agua Potable
-            '4411': '1600',     # Alcantarillado y tratamiento de aguas
-            '4413': '1612',     # Fuente del Manano
-            '4420': '1630',     # Limpieza viaria
-            '4422': '1621',     # Recogida de residuos
-            '4424': '1621',     # Recogida de residuos
-            '4430': '1640',     # Cementerio Municipal
-            '4440': '1532',     # Vías públicas
-            '4441': '1531',     # Obras
-            '4442': '1531',     # Obras
-            '4460': '1700',     # Medio Ambiente
-            '4461': '1700',     # Medio Ambiente
+            '1219': '9209',     # Departament de Personal
+            '1230': '9205',     # Aseso. i defensa lletrada
+            '1240': '9209',     # Oposicions i concursos
+            '2220': '1320',     # Policia Local
+            '2221': '1330',     # Control de Tràfic
+            '2222': '1331',     # Recollida de vehicles
+            '3110': '2210',     # Segurs Socials
+            '3120': '2210',     # Personal Actiu
+            '3121': '2211',     # Segure., protecc. i prom.
+            '3130': '2330',     # Asistència Domiciliaria
+            '3131': '2311',     # Acció Social
+            '3132': '2300',     # Asistència Social
+            '3133': '2320',     # Departament de la Dona
+            '3135': '3379',     # Associacio de Jubilats
+            '3136': '3379',     # Centre Tercera Edat
+            '3139': '2321',     # Centre dia per a menors
+            '3210': '2322',     # Educador de Carrer
+            '3220': '2410',     # Escola Taller
+            '3222': '2411',     # Ocupació
+            '3223': '2411',     # Promoció Econòmica
+            '3224': '2411',     # Ocupació
+            '3230': '2324',     # Pau i solidaritat:immigra
+            '3233': '2323',     # Prevenció Drogodependenc.
+            '4110': '3133',     # Salut pública
+            '4120': '3134',     # Servei Mèdic
+            '4131': '3131',     # Servei Recollida Gossos
+            '4132': '3132',     # Desinfeccio i Desratitza.
+            '4134': '3133',     # Ciutats sanes
+            '4220': '3211',     # Col.legis E.G.B.
+            '4221': '3200',     # Ponencia d'Educació
+            '4221': '3211',     # Ponencia d'Educació
+            '4223': '3230',     # Escola Permanent d'Adults
+            '4226': '3243',     # OOAA Conservatori Música
+            '4230': '3242',     # Gabinet Psicopedagògic
+            '4260': '2317',     # Menjador Escolar
+            '4260': '3241',     # Menjador Escolar
+            '4310': '9203',     # Edificis Corporació
+            '4312': '1510',     # Agencia de l'habitatge
+            '4314': '1510',     # Pla especial rehabilitaci
+            '4320': '1510',     # Urbanisme
+            '4321': '1551',     # Obres
+            '4322': '1510',     # Urbanisme i Arquitectura
+            '4323': '1330',     # Senyalit. vert. i horitz
+            '4340': '1650',     # Enllumenat Públic
+            '4341': '1650',     # Altres Conexions
+            '4342': '1650',     # Enllumenta Públic
+            '4351': '1700',     # Parcs i Jardins
+            '4352': '1700',     # Parcs i Jardins
+            '4410': '1610',     # Servei d'Aigua Potable
+            '4411': '1611',     # Clavegueram i Vessam.Aigu
+            '4413': '1611',     # Font del Manano
+            '4420': '1620',     # Recollida Fem i Net.viari
+            '4422': '1620',     # Tractament Residus Solids
+            '4424': '1620',     # Cancel.lació deute EMTRE
+            '4430': '1640',     # Cementeri Municipal
+            '4440': '1550',     # Vies Públiques
+            '4441': '1551',     # Brigada Vies i Obres
+            '4442': '1551',     # Obres i Serveis
+            '4460': '1700',     # Medi Ambient
+            '4461': '1550',     # Zones Degradades
+            '4461': '4121',     # Zones Degradades
             '4470': '4930',     # O.M.I.C.
-            '4480': '4312',     # Mercados, abastos y lonjas
-            '4510': '3320',     # Bibliotecas y Archivos
-            '4511': '3343',     # Campaña animación lectura
-            '4512': '3344',     # Proyectos culturales Europeos
-            '4513': '3265',     # OOAA Conservatorio Música
-            '4514': '3330',     # Escuela de Teatro
+            '4480': '4310',     # Mercat Municipal
+            '4510': '3320',     # Biblioteques i Arxius
+            '4511': '3343',     # Campanya Animació lectura
+            '4512': '3344',     # Projectes cultur. Europeu
+            '4513': '3243',     # OOAA Conservatori Música
+            '4514': '3350',     # Escola de Teatre
             '4515': '3300',     # Animador Cultural
-            '4516': '3340',     # Ponencia de Cultura
+            '4516': '3340',     # Ponència de Cultura
             '4517': '3341',     # Casa de la Cultura
-            '4518': '3370',     # Ponencia de Juventud
-            '4519': '3347',     # Promoción de uso Valenciano
-            '4520': '3422',     # Piscinas municipales
-            '4521': '3421',     # Polideportivo Municipal
-            '4522': '3410',     # Ponencia de Deportes
-            '4531': '3360',     # Arqueología y protección del patrimonio histórico-artístico
-            '4540': '3380',     # Fiestas Populares
-            '4610': '3345',     # Bandas de Música
-            '4631': '4910',     # Medios de comunicación
-            '4640': '3381',     # Junta Local Fallera
-            '4641': '3382',     # Comisiones Falleras
-            '4650': '2314',     # Entidades no lucrativas
-            '4651': '3370',     # Ponencia de Juventud
-            '4653': '2314',     # Entidades no lucrativas
-            '5110': '1532',     # Vías públicas
-            '5111': '1532',     # Vías públicas
-            '5112': '1532',     # Vías públicas
-            '5310': '4120',     # Plan Ecológico ganadería y agricultura
-            '6110': '9310',     # Área Económica
-            '6113': '9320',     # Recaudación Tributos
-            '6220': '4311',     # Feria San Sebastián
-            '6320': '9240',     # Participación ciudadana
-            '7110': '4100',     # Consejo Local Agrario
-            '7111': '4100',     # Consejo Local Agrario
-            '9112': '9420',     # Transferencias a Entidades Locales territoriales
-            '9114': '9430',     # Transferencias a otras Entidades Locales
-            '9116': '9430',     # Transferencias a otras Entidades Locales
-            '9210': '9291',     # Indemnizaciones
+            '4518': '3370',     # Ponencia de Joventut
+            '4519': '3347',     # Promocio d'Us Valencia
+            '4520': '3420',     # Piscina Municipal
+            '4521': '3421',     # Polisportiu Municipal
+            '4522': '3410',     # Ponencia d'Esports
+            '4531': '3360',     # Prot. Patrimoni  Hist-art
+            '4540': '3380',     # Festes
+            '4610': '3345',     # Bandes de Música
+            '4631': '4910',     # Mitjans de comunicació
+            '4640': '3380',     # Junta Local Fallera
+            '4641': '3380',     # Comissions falles
+            '4650': '2311',     # Entitats no Lucratives
+            '4651': '3371',     # Consell Local de Joventut
+            '4653': '2324',     # Pau i solidaritat: ONG
+            '5110': '1550',     # Vies Publiques
+            '5111': '1550',     # Vies Publiques
+            '5112': '1550',     # vies Publiques
+            '5120': '1611',     # Recursos Hidraulics
+            '5310': '4190',     # Pla Ecològic ramad. agric
+            '5330': '1700',     # Millora Medi Natural
+            '6110': '9310',     # Serveis Econòmics
+            '6113': '9320',     # Recaptació
+            '6220': '4311',     # Fira Sant Sebastià
+            '6320': '9240',     # Participació Ciutadana
+            '7110': '4100',     # Consell Local Agrari
+            '7111': '4190',     # Guarderia Rural
+            '7310': '1650',     # Energia electrica
+            '9112': '9420',     # Federació Municipis
+            '9114': '9430',     # Mancomunitat L'Horta Sud
+            '9116': '9430',     # Cancel.lacio deute Mancom
+            '9210': '9291',     # Indemnitzacions A. Publiq
         }
 
         # Some dirty lines in input data
