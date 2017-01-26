@@ -189,15 +189,24 @@ class SillaPaymentsLoader(PaymentsLoader):
         # But what we want as area is the policy description
         policy = Budget.objects.get_all_descriptions(budget.entity)['functional'][policy_id]
 
+        date = line[6].strip()
+
+        payee_id = line[8].strip()
+        payee = self._titlecase(line[9].strip()).replace(', ', ' ').replace(',', ' ')
+
+        description = self._spanish_titlecase(line[10].strip()[:300].decode('utf-8','ignore').encode('utf-8'))
+
+        amount = self._read_english_number(line[7])
+
         return {
             'area': policy,
             'programme': None,
             'fc_code': None,  # We don't try (yet) to have foreign keys to existing records
             'ec_code': None,
-            'date': line[6].strip(),
+            'date': date,
             'contract_type': None,
-            'payee': self._titlecase(line[9].strip()),
+            'payee': payee,
             'anonymized': False,
-            'description': self._spanish_titlecase(line[10].strip()[:300].decode('utf-8','ignore').encode('utf-8')),
-            'amount': self._read_english_number(line[7])
+            'description': description,
+            'amount': amount
         }
