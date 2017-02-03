@@ -177,12 +177,14 @@ class SillaPaymentsLoader(PaymentsLoader):
             '9210': '9291',     # Indemnitzacions A. Publiq
         }
 
-        # For years before 2009 and 2015 we check whether we need to amend the programme code
+        # Programme codes have changed also in 2010. We are forced to amend budget data prior to 2010
+        # in order to mantain the code-programme mapping constant, although the mapping goes from
+        # pre-2010 to pre-2015.
         fc_code = line[1].strip().rjust(4, '0') # We need four digits, including leading zeroes
         year = self.year
         if int(year) < 2010:
             fc_code = programme_mapping_2010.get(fc_code, fc_code)
-        elif int(year) < 2015:
+        if int(year) < 2015:
             fc_code = programme_mapping.get(fc_code, fc_code)
 
         policy_id = fc_code[:2] # First two digits of the programme make the policy id

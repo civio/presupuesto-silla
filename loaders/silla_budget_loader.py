@@ -47,7 +47,8 @@ class SillaBudgetLoader(SimpleBudgetLoader):
         }
 
         # Programme codes have changed also in 2010. We are forced to amend budget data prior to 2010
-        # in order to mantain the code-programme mapping constant.
+        # in order to mantain the code-programme mapping constant, although the mapping goes from
+        # pre-2010 to pre-2015.
         programme_mapping_2010 = {
             # old programme: new programme
             '0112': '0112',     # Entitats Financeres
@@ -183,11 +184,13 @@ class SillaBudgetLoader(SimpleBudgetLoader):
             # We got 3- or 5- digit economic codes as input, so add a trailing zero
             ec_code = line[2].ljust(5, '0')
 
-            # For years before 2009 and 2015 we check whether we need to amend the programme code
+            # For years before 2010 and 2015 we check whether we need to amend the programme
+            # codes, but the amends made for years before 2010 must be amended again for 2015
+            # programme codes.
             year = re.search('municipio/(\d+)/', filename).group(1)
             if int(year) < 2010:
                 fc_code = programme_mapping_2010.get(fc_code, fc_code)
-            elif int(year) < 2015:
+            if int(year) < 2015:
                 fc_code = programme_mapping.get(fc_code, fc_code)
 
             return {
