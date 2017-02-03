@@ -1,5 +1,6 @@
 # -*- coding: UTF-8 -*-
 import datetime
+import re
 
 from budget_app.loaders import PaymentsLoader
 from budget_app.models import Budget
@@ -193,8 +194,16 @@ class SillaPaymentsLoader(PaymentsLoader):
 
         date = line[6].strip()
 
-        payee_id = line[8].strip()
-        payee = self._titlecase(line[9].strip()).replace(', ', ' ').replace(',', ' ')
+        # remove commas
+        payee = line[9].strip().replace(', ', ' ').replace(',', ' ')
+        # normalize company types
+        payee = re.sub(r'SL$', r'S.L.', payee)
+        payee = re.sub(r'SLL$', r'S.L.L.', payee)
+        payee = re.sub(r'SLU$', r'S.L.U.', payee)
+        payee = re.sub(r'SA$', r'S.A.', payee)
+        payee = re.sub(r'SAU$', r'S.A.U.', payee)
+        # titleize to avoid all caps
+        payee = self._titlecase(payee)
 
         description = self._spanish_titlecase(line[10].strip()[:300].decode('utf-8','ignore').encode('utf-8'))
 
