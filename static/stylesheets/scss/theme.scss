@@ -52,3 +52,21 @@
     background-color: $brand-primary;
   }
 }
+
+// Make Budget Summary height bigger
+.budget-summary{
+  height: 52px;
+}
+.budget-summary-item .budget-summary-bar{
+  height: 32px;
+  line-height: 32px
+}
+
+
+.alert-incomes{
+  padding-top: 0;
+  margin: 0;
+  font-weight: 600;
+  font-size: 1.125em;
+  text-align: center;
+}
