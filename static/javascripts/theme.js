@@ -6,11 +6,11 @@ $(document).ready(function(){
     var str = {
       chapter: {
         'es': 'Ingresos por capítulo',
-        'ca': 'Ingresos por capítulo'
+        'ca': 'Ingressos per capítol'
       },
       article: {
         'es': 'Ingresos por artículo',
-        'ca': 'Ingresos por artículo'
+        'ca': 'Ingressos per article'
       },
     };
 
