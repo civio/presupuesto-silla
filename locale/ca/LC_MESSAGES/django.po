@@ -68,3 +68,128 @@ msgstr "Com i en què gasta l'Ajuntament de Silla?"
 #: templates/welcome/index.html:42
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
 msgstr "Perquè tinguis una idea general dels ingressos i despeses de l'Ajuntament de Silla"
+
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Introduce el valor catastral de tu inmueble"
+msgstr "Introdueix el valor cadastral del teu immoble"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Bonificación por familia numerosa"
+msgstr "Bonificació per família nombrosa"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Ninguna"
+msgstr "Cap"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "3 hijos y renta anual de menos de 25.000€/año"
+msgstr "3 fills i renda anual de menys de 25.000€/any"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "2 hijos y cónyuges minusválidos y renta anual de menos de 25.000€/año"
+msgstr "2 fills i cònjuges minusvàlids i renda anual de menys de 25.000€/any"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "2 hijos, uno de ellos minusválido, y renta anual de menos de 25.000€/año"
+msgstr "2 fills, un d'ells minusvàlid, i renda anual de menys de 25.000€/any"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "4 hijos y renta anual de menos de 26.500€/año"
+msgstr "4 fills i renda anual de menys de 26.500€/any"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "5 hijos y renta anual de menos de 28.000€/año"
+msgstr "5 fills i renda anual de menys de 28.000€/any"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "6 hijos y renta anual de menos de 29.500€/año"
+msgstr "6 fills i renda anual de menys de 29.500€/any"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "7 hijos o más y renta anual de menos de 31.000€/año"
+msgstr "7 fills o més i renda anual de menys de 31.000€/any"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Bonificación por VPO"
+msgstr "Bonificació per VPO"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Vivienda de protección oficial concedida hace 3 años o menos"
+msgstr "Habitatge protegit concedit fa 3 anys o menys"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Vivienda de protección oficial concedida hace 4 años"
+msgstr "Habitatge protegit concedit fa 4 anys"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Vivienda de protección oficial concedida hace 5 años"
+msgstr "Habitatge protegit concedit fa 5 anys"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Vivienda de protección oficial concedida hace 6 años"
+msgstr "Habitatge protegit concedit fa 6 anys"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Vivienda de protección oficial concedida hace 7 años"
+msgstr "Habitatge protegit concedit fa 7 anys"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Vivienda de protección oficial concedida hace 8 años"
+msgstr "Habitatge protegit concedit fa 8 anys"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Coche muy pequeño (menos de 8 caballos fiscales)"
+msgstr "Cotxe molt petit (menys de 8 cavalls fiscals)"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Coche pequeño (entre 8 y 12 caballos fiscales)"
+msgstr "Cotxe petit (entre 8 i 12 cavalls fiscals)"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Coche mediano (entre 12 y 16 caballos fiscales)"
+msgstr "Cotxe mitjà (entre 12 i 16 cavalls fiscals)"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Coche grande (entre 16 y 20 caballos fiscales)"
+msgstr "Cotxe gran (entre 16 i 20 cavalls fiscals)"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Coche muy grande (más de 20 caballos fiscales)"
+msgstr "Cotxe molt gran (més de 20 cavalls fiscals)"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Ciclomotor hasta 125cc"
+msgstr "Ciclomotor fins a 125cc"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Motocicleta hasta 125cc"
+msgstr "Motocicleta fins a 125cc"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Ciclomotor o motocicleta entre 125cc y 250cc"
+msgstr "Ciclomotor o motocicleta entre 125cc i 250cc"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Ciclomotor o motocicleta entre 250cc y 500cc"
+msgstr "Ciclomotor o motocicleta entre 250cc i 500cc"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Ciclomotor o motocicleta entre 500cc y 1000cc"
+msgstr "Ciclomotor o motocicleta entre 500cc i 1000cc"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Ciclomotor o motocicleta de más de 1000cc"
+msgstr "Ciclomotor o motocicleta de més de 1000cc"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Vado"
+msgstr "Gual"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Un vado de 3 m/l"
+msgstr "Un gual de 3 m/l"
+
+#: templates/tax_receipt/tax_receipt_form.html
+msgid "Un vado de 4 m/l"
+msgstr "Un gual de 4 m/l"
