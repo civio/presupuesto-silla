@@ -105,7 +105,7 @@ class SillaPaymentsLoader(PaymentsLoader):
             '4220': '3211',     # Col.legis E.G.B.
             '4221': '3200',     # Ponencia d'Educació
             '4221': '3211',     # Ponencia d'Educació
-            '4223': '3230',     # Escola Permanent d'Adults
+            '4223': '3261',     # Escola Permanent d'Adults
             '4226': '3243',     # OOAA Conservatori Música
             '4230': '3242',     # Gabinet Psicopedagògic
             '4260': '2317',     # Menjador Escolar
