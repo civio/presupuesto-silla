@@ -11,7 +11,6 @@ class SillaPaymentsLoader(PaymentsLoader):
     def load(self, entity, year, path):
         self.year = year
         PaymentsLoader.load(self, entity, year, path)
-    
 
     # Parse an input line into fields
     def parse_item(self, budget, line):
@@ -194,16 +193,60 @@ class SillaPaymentsLoader(PaymentsLoader):
 
         date = line[6].strip()
 
+        # Normalize payee data
+        # remove triling spaces
+        payee = line[9].strip()
         # remove commas
-        payee = line[9].strip().replace(', ', ' ').replace(',', ' ')
+        payee = payee.replace(', ', ' ').replace(',', ' ')
+        # remove extra spaces
+        payee = re.sub('\s\s+', ' ', payee)
         # normalize company types
-        payee = re.sub(r'SL$', r'S.L.', payee)
-        payee = re.sub(r'SLL$', r'S.L.L.', payee)
-        payee = re.sub(r'SLU$', r'S.L.U.', payee)
-        payee = re.sub(r'SA$', r'S.A.', payee)
-        payee = re.sub(r'SAU$', r'S.A.U.', payee)
+        payee = re.sub(r'CB$', 'C.B.', payee)
+        payee = re.sub(r'SL$', 'S.L.', payee)
+        payee = re.sub(r'SLL$', 'S.L.L.', payee)
+        payee = re.sub(r'SLU$', 'S.L.U.', payee)
+        payee = re.sub(r'SA$', 'S.A.', payee)
+        payee = re.sub(r'SAU$', 'S.A.U.', payee)
         # titleize to avoid all caps
         payee = self._titlecase(payee)
+        # put small words in lower case
+        payee = re.sub(r' E ', ' e ', payee)
+        payee = re.sub(r' I ', ' i ', payee)
+        payee = re.sub(r' Y ', ' y ', payee)
+        payee = re.sub(r' D\'', ' d\'', payee)
+        payee = re.sub(r' De ', ' de ', payee)
+        payee = re.sub(r' Del ', ' del ', payee)
+        payee = re.sub(r' Lo ', ' lo ', payee)
+        # put abbreviatons in upper case
+        payee = re.sub(r'^A i C ', 'A.I.C. ', payee)
+        payee = re.sub(r'^Mrw ', 'MRW ', payee)
+        # amend remaining
+        payee = re.sub(r'^Assoc\.Jubilats i Pensioni$', u'Associació Jubilats i Pensionistes', payee)
+        payee = re.sub(r'^Ros Marti Lluis$', u'Ros Martí Lluis', payee)
+        payee = re.sub(r'^Parroquia San Roque$', u'Parroquia San Roque de Silla', payee)
+        payee = re.sub(r'^Regidor/A$', u'Regidor/Regidora', payee)
+        payee = re.sub(r'^Regidor/Regidora/La$', u'Regidor/Regidora', payee)
+        payee = re.sub(r'^Serv\.Valencia D Ocupacio i Formacio \(Servef\)$', u'Servei Valencià d\'Ocupació i Formació (SERVEF)', payee)
+        payee = re.sub(r'^Serv\.Valencia d\'Ocupacio i Formacio \(Servef\)$', u'Servei Valencià d\'Ocupació i Formació (SERVEF)', payee)
+        payee = re.sub(r' Cont\.Admin ', u' Contenciós Administratiu ', payee)
+        payee = re.sub(r' Cont\.Adm\.', u' Contenciós Administratiu Núm. ', payee)
+        payee = re.sub(r' C-Adm ', u' Contenciós Administratiu ', payee)
+        payee = re.sub(ur' C-Adv Nº 6$', u' Contenciós Administratiu Núm. 6 de València', payee)
+        payee = re.sub(r' Contencios Admin\.6$', u' Contenciós Administratiu Núm. 6 de València', payee)
+        payee = re.sub(r' Contencios Admin\. ', u' Contenciós Administratiu ', payee)
+        payee = re.sub(r' Cont\.Advo ', u' Contenciós Administratiu Núm. ', payee)
+        payee = re.sub(r' Numero ', u' Núm. ', payee)
+        payee = re.sub(r' Num\.', u' Núm.', payee)
+        payee = re.sub(ur' Núm ', u' Núm. ', payee)
+        payee = re.sub(r' N\.1 ', u' Núm. 1 ', payee)
+        payee = re.sub(r' Num\.(\d) ', u' Núm. \g<1> ', payee)
+        payee = re.sub(ur' Núm\.(\d) ', u' Núm. \g<1> ', payee)
+        payee = re.sub(ur' Núm\. 7$', u' Núm. 7 de València', payee)
+        payee = re.sub(r' Contencios ', u' Contenciós ', payee)
+        payee = re.sub(r'1 Inst\.Num\.2 Carlet$', u'de Primera Instància Núm. 2 de Carlet', payee)
+        payee = re.sub(r'de Valencia$', u'de València', payee)
+        payee = re.sub(r'(\d) Valencia$', u'\g<1> de València', payee)
+        payee = re.sub(r'1O Valencia$', u'10 de València', payee)
 
         description = self._spanish_titlecase(line[10].strip()[:300].decode('utf-8','ignore').encode('utf-8'))
 
