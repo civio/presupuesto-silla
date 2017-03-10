@@ -37,7 +37,7 @@
 # Programas específicos del Ayuntamiento de Silla
 #
 0,1,1,2,Operacions financeres
-1,3,2,0,Seguretat i orgre públic
+1,3,2,0,Seguretat i ordre públic
 1,3,2,1,Seguretat ciutadana
 1,3,3,0,Control del trànsit
 1,3,3,1,Recollida de vehicles
@@ -51,7 +51,7 @@
 1,6,1,1,Pluvials
 1,6,1,2,Font del Manano
 1,6,2,1,Recollida de residus
-1,6,3,0,Neteja viaria
+1,6,3,0,Neteja viaria i recollida de R.S.U.
 1,6,4,0,Cementeri Municipal
 1,6,5,0,Enllumenat Públic
 1,7,0,0,Medi ambient
