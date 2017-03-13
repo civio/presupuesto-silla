@@ -69,3 +69,9 @@ msgstr "¿Cómo y en qué gasta el Ayuntamiento de Silla?"
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
 msgstr "Para que tengas una idea general de los ingresos y gastos del Ayuntamiento de Silla"
 
+#: templates/entities/show_script.html:23
+#: templates/entities/show_script.html:95
+#: templates/policies/show_script.html:43
+#: templates/policies/show_script.html:184
+msgid "Ingresado"
+msgstr "Derechos reconocidos"

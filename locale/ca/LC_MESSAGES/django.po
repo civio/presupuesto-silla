@@ -193,3 +193,14 @@ msgstr "Un gual de 3 m/l"
 #: templates/tax_receipt/tax_receipt_form.html
 msgid "Un vado de 4 m/l"
 msgstr "Un gual de 4 m/l"
+
+#: templates/welcome/index.html:82 templates/welcome/index.html.py:84
+msgid "¿Y qué aporto yo?"
+msgstr "I què aporte jo?"
+
+#: templates/entities/show_script.html:23
+#: templates/entities/show_script.html:95
+#: templates/policies/show_script.html:43
+#: templates/policies/show_script.html:184
+msgid "Ingresado"
+msgstr "Drets reconeguts"
