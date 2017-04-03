@@ -173,6 +173,59 @@ class SillaBudgetLoader(SimpleBudgetLoader):
             '9210': '9291',     # Indemnitzacions A. Publiq
         }
 
+        # Income economic codes have changed in 2010. We are forced to amend budget data prior
+        # to 2010 in order to mantain the code-programme mapping constant.
+        income_economic_mapping_2010 = {
+            '11201': '11300',   # De naturalesa urbana
+            '11300': '11500',   # Vehicles tracció mecànica
+            '11400': '11600',   # Incr. valor terrenys urb.
+            '28200': '29000',   # Sobre construcc. i obres
+            '31000': '32500',   # Taxa exped docum. aminis.
+            '31001': '32900',   # Taxa llic. obert. establi
+            '31002': '30900',   # Taxa servei cementeri
+            '31004': '32600',   # Taxa serv.retir.vehicles
+            '31005': '31300',   # Taxa utiliz.polispostiu
+            '31007': '32900',   # Taxa util.locals serv.pub
+            '31101': '30200',   # Taxa servei recoll. fem
+            '31102': '33400',   # Taxa oc.sub.sol vol obres
+            '31103': '33900',   # Taxa ocup. mercat i feste
+            '31104': '33500',   # Taxa ocup taules-cadires
+            '31105': '33901',   # Taxa ocup. fira S.Sebasti
+            '31106': '33200',   # Taxa electr. gas i telefo
+            '31200': '32100',   # Taxa llicencies urbanisti
+            '31201': '30100',   # Taxa servei clavegueram
+            '31202': '33100',   # Taxa entrada vehi. vorere
+            '32000': '31301',   # Tasa util.inst. piscina
+            '34001': '34200',   # P.P.Act.Cult.i esp.EPA
+            '34002': '34203',   # P.P.Ac.Cult. Esc.Matinera
+            '34003': '34201',   # P.P.Ac.Cult.Escola Estiu
+            '34004': '34202',   # P.P.Ac.Cult. Camp. Estiu
+            '34005': '34400',   # P.P.Ac.Educ. i Esp.Teatre
+            '34200': '30000',   # Taxa servei subm. d'aigua
+            '36000': '35000',   # Contribucions especials
+            '38000': '38900',   # De pressupostos tancats
+            '38101': '38901',   # Reintegrament Estat i S.S
+            '38803': '38903',   # Reinteg.prom.vivendes VPO
+            '39101': '39120',   # Multes i sancions
+            '39201': '39200',   # Recarrecs prorrog. i cons
+            '39902': '39610',   # Quotes urbanistiques
+            '39905': '39909',   # Imprevistos
+            '39908': '32200',   # Taxa Cedules Habitabilit.
+            '39909': '33800',   # Canon C.T.N.E.
+            '42001': '42090',   # Subvencions de l'Estat
+            '42300': '42100',   # Aportacions  I.N.E.M.
+            '45500': '45080',   # Subvencions Generalitat
+            '46200': '46100',   # Subvencions Diputacio
+            '52100': '52000',   # Int. Diposits ent. Bancar
+            '55000': '54100',   # Concesions administrativ.
+            '55001': '55100',   # Cessio ninxols
+            '75500': '75080',   # Subven. Generalitat Vcna.
+            '76101': '76100',   # Aportacio Diputacio PPOS
+            '87001': '87010',   # Aplic. financ. supl. cred
+            '87002': '87010',   # Aplic.financ. incorp.cred
+            '91701': '91300',   # Prestecs entitats financ.
+        }
+
         # Some dirty lines in input data
         if line[0]=='':
             return None
@@ -206,12 +259,19 @@ class SillaBudgetLoader(SimpleBudgetLoader):
             }
 
         else:
+            ec_code = line[1]
+
+            # For years before 2010 we check whether we need to amend the economic codes
+            year = re.search('municipio/(\d+)/', filename).group(1)
+            if int(year) < 2010:
+                ec_code = income_economic_mapping_2010.get(ec_code, ec_code)
+
             return {
                 'is_expense': False,
                 'is_actual': is_actual,
-                'ec_code': line[1][:-2],        # First three digits
+                'ec_code': ec_code[:-2],        # First three digits
                 'ic_code': '000',               # All income goes to the root node
-                'item_number': line[1][-2:],    # Fourth and fifth digit; careful, there's trailing dirt
+                'item_number': ec_code[-2:],    # Fourth and fifth digit; careful, there's trailing dirt
                 'description': self._spanish_titlecase(line[3]),
                 'amount': self._parse_amount(line[7 if is_actual else 4])
             }
