@@ -37,6 +37,7 @@ class SillaBudgetLoader(SimpleBudgetLoader):
             '3134': '3121',     # Servicio Médico
             '3210': '3230',     # Enseñanza Preescolar
             '3211': '3231',     # Enseñanza Primaria
+            '3230': '3261',     # Escola Permanent d'Adults
             '3240': '3262',     # Becas estudios
             '3241': '3263',     # Becas comedor
             '3242': '3264',     # Gabinete psicopedagógico
