@@ -51,7 +51,7 @@
 1,6,1,1,Pluvials
 1,6,1,2,Font del Manano
 1,6,2,1,Recollida de residus
-1,6,3,0,Neteja viaria i recollida de R.S.U.
+1,6,3,0,Neteja viària i recollida de RSU
 1,6,4,0,Cementeri Municipal
 1,6,5,0,Enllumenat Públic
 1,7,0,0,Medi ambient
@@ -72,7 +72,7 @@
 2,3,1,9,Ajuda a la dependència
 2,4,1,0,Escoles Taller
 2,4,1,1,Promoció de l'ocupació
-2,4,1,2,Bossa d'ocupació
+2,4,1,2,Borsa d'ocupació
 3,1,1,0,Medicaments i prod sanita
 3,1,1,1,Salut Pública
 3,1,1,2,Desinfeccio i Desratitza.
@@ -122,13 +122,13 @@
 4,3,1,1,Fira Sant Sebastià
 4,3,1,2,Mercats, proveïments i llotges
 4,3,3,0,Promoció empresarial
-4,5,0,0,Projectes i direccio obres
+4,5,0,0,Projectes i direcció obres
 4,5,2,0,Recursos Hidràulics
 4,5,4,0,Camins rurals
 4,9,1,0,Mitjans de comunicació
 4,9,1,1,Gabinet de comunicacio
 4,9,2,0,Administració electrònica
-4,9,3,0,O.M.I.C.
+4,9,3,0,OMIC
 9,1,2,0,Òrgans de govern
 9,1,2,1,Grups Politics
 9,1,2,2,Gabinet de comunicació
@@ -137,8 +137,8 @@
 9,2,0,2,Oficines Municipals
 9,2,0,3,Edificis Municipals
 9,2,0,4,Departament informàtica
-9,2,0,5,Assesoria i defensa lletrada
-9,2,0,6,Bens Municipals
+9,2,0,5,Assessoria i defensa lletrada
+9,2,0,6,Béns Municipals
 9,2,0,7,Jutjat
 9,2,0,9,Departament de Personal
 9,2,2,0,Coordinació i organització institucional
@@ -151,6 +151,6 @@
 9,3,2,0,Recaptació Tributs
 9,3,2,1,Inspecció Tributària
 9,3,3,0,Gestió del patrimoni
-9,3,4,0,Entitats finançeres
+9,3,4,0,Entitats financeres
 9,4,2,0,Transferències a Entitats Locals territorials
 9,4,3,0,Transferèncias a altres Entitats Locals

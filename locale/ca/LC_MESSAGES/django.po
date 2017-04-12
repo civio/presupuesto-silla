@@ -51,7 +51,7 @@ msgstr "Dades d'inflació (Mitjanes anuals d'IPC per a la Comunitat Valenciana)"
 
 #: templates/shared/data_sources.html:14
 msgid "Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Aragón"
-msgstr "Els ingressos i despeses mostrats inclouen únicament a l'Ajuntament de Silla"
+msgstr "Els ingressos i despeses mostrats inclouen únicament l'Ajuntament de Silla"
 
 #: templates/tax_receipt/tax_receipt_form.html:75
 msgid ""
@@ -59,7 +59,7 @@ msgid ""
 "de Aragón"
 msgstr ""
 "Contribueixes amb un total de <strong id=\"tax-amount-paid\"></strong> als pressupostos "
-"del Ajuntament de Silla"
+"de l'Ajuntament de Silla"
 
 #: templates/welcome/index.html:12
 msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
@@ -67,7 +67,7 @@ msgstr "Com i en què gasta l'Ajuntament de Silla?"
 
 #: templates/welcome/index.html:42
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
-msgstr "Perquè tinguis una idea general dels ingressos i despeses de l'Ajuntament de Silla"
+msgstr "Perquè tingues una idea general dels ingressos i despeses de l'Ajuntament de Silla"
 
 
 #: templates/tax_receipt/tax_receipt_form.html
@@ -204,3 +204,20 @@ msgstr "I què aporte jo?"
 #: templates/policies/show_script.html:184
 msgid "Ingresado"
 msgstr "Drets reconeguts"
+
+#: templates/budgets/budgets_intro.html:10
+msgid "Se realiza a través de impuestos directos -como el impuesto de bienes inmuebles (IBI) o el de vehículos de tracción mecánica (IVTM)- y de tasas -como la de recogida de basura"
+msgstr "Es realitza a través d'impostos directes, principalment l'IBI, i de taxes del municipi"
+
+#: templates/shared/form-search.html:6 templates/terms/index.html:21
+msgid "Escribe aquí tu término de búsqueda"
+msgstr "Escriu ací el teu terme de cerca"
+
+#: templates/tax_receipt/index.html:28
+msgid "Detalle de tu contribución en %s"
+msgstr "Detall de la teua contribució en %s"
+
+
+#: templates/payments/payments_script.html:85
+msgid "Beneficiario"
+msgstr "Persona beneficiària"
