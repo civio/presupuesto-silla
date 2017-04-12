@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-18 12:14+0100\n"
-"PO-Revision-Date: 2016-11-29 04:49+0100\n"
+"PO-Revision-Date: 2017-04-12 18:56+0200\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.0.1\n"
 
 #: templates/base.html:4 templates/shared/social_sharing.html:5
 msgid "Presupuestos del Gobierno de Aragón"
@@ -27,21 +27,18 @@ msgstr "Informació pressupostària de l'Ajuntament de Silla"
 
 #: templates/budgets/budgets_intro.html:16
 msgid ""
-"El dinero recaudado localmente se complementa con las transferencias de la Administración "
-"General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros "
+"El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros "
 "ingresos como el IVA y el IRPF"
 msgstr ""
-"Els diners recaptats localment es complementa amb les transferències de l'Administració "
-"General de l'Estat i de la Generalitat Valenciana, que són els encarregats de recaptar "
+"Els diners recaptats localment es complementa amb les transferències de l'Administració General de l'Estat i de la Generalitat Valenciana, que són els encarregats de recaptar "
 "altres ingressos com l'IVA i l'IRPF"
 
 #: templates/budgets/index.html:17
 msgid "Ingresos y gastos en el Gobierno de Aragón"
 msgstr "Ingressos i despeses a l'Ajuntament de Silla"
 
-#: templates/budgets/index.html:127 templates/shared/data_sources.html:7
-#: templates/shared/footer.html:18 templates/shared/header.html:28
-#: templates/shared/header.html.py:61 templates/welcome/index.html:54
+#: templates/budgets/index.html:127 templates/shared/data_sources.html:7 templates/shared/footer.html:18 templates/shared/header.html:28 templates/shared/header.html.py:61
+#: templates/welcome/index.html:54
 msgid "Gobierno de Aragón"
 msgstr "Ajuntament de Silla"
 
@@ -54,12 +51,8 @@ msgid "Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Arag�
 msgstr "Els ingressos i despeses mostrats inclouen únicament l'Ajuntament de Silla"
 
 #: templates/tax_receipt/tax_receipt_form.html:75
-msgid ""
-"Contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del Gobierno "
-"de Aragón"
-msgstr ""
-"Contribueixes amb un total de <strong id=\"tax-amount-paid\"></strong> als pressupostos "
-"de l'Ajuntament de Silla"
+msgid "Contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del Gobierno de Aragón"
+msgstr "Contribueixes amb un total de <strong id=\"tax-amount-paid\"></strong> als pressupostos de l'Ajuntament de Silla"
 
 #: templates/welcome/index.html:12
 msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
@@ -68,7 +61,6 @@ msgstr "Com i en què gasta l'Ajuntament de Silla?"
 #: templates/welcome/index.html:42
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
 msgstr "Perquè tingues una idea general dels ingressos i despeses de l'Ajuntament de Silla"
-
 
 #: templates/tax_receipt/tax_receipt_form.html
 msgid "Introduce el valor catastral de tu inmueble"
@@ -198,10 +190,7 @@ msgstr "Un gual de 4 m/l"
 msgid "¿Y qué aporto yo?"
 msgstr "I què aporte jo?"
 
-#: templates/entities/show_script.html:23
-#: templates/entities/show_script.html:95
-#: templates/policies/show_script.html:43
-#: templates/policies/show_script.html:184
+#: templates/entities/show_script.html:23 templates/entities/show_script.html:95 templates/policies/show_script.html:43 templates/policies/show_script.html:184
 msgid "Ingresado"
 msgstr "Drets reconeguts"
 
@@ -216,7 +205,6 @@ msgstr "Escriu ací el teu terme de cerca"
 #: templates/tax_receipt/index.html:28
 msgid "Detalle de tu contribución en %s"
 msgstr "Detall de la teua contribució en %s"
-
 
 #: templates/payments/payments_script.html:85
 msgid "Beneficiario"
