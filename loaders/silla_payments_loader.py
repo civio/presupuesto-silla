@@ -196,6 +196,8 @@ class SillaPaymentsLoader(PaymentsLoader):
         # Normalize payee data
         # remove triling spaces
         payee = line[9].strip()
+        # default value
+        payee = ("Varios" if payee == "" else payee)
         # remove commas
         payee = payee.replace(', ', ' ').replace(',', ' ')
         # remove extra spaces
@@ -362,6 +364,8 @@ class SillaPaymentsLoader(PaymentsLoader):
         payee = re.sub(r'^Parroquia Ntra Sra Dels Angels$', u'Parroquia Ntra Sra dels Àngels', payee)
         payee = re.sub(r'^Parroquia Ntra\.Sra\.Dels Angels$', u'Parroquia Ntra Sra dels Àngels', payee)
         payee = re.sub(r'^Riera Brocal Carmen$', 'Riera Brocal Carmen (Papereria)', payee)
+        payee = re.sub(r'^Correos y Telegrafos$', u'Correos y Telégrafos', payee)
+        payee = re.sub(ur'^Aiu Ue-2 L\'Alteró$', u'AIU UE-2 L\'Alteró', payee)
 
         anonymized = (True if payee == 'Anonimizado' else False)
 
