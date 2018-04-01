@@ -379,7 +379,6 @@ class SillaPaymentsLoader(PaymentsLoader):
             'fc_code': None,  # We don't try (yet) to have foreign keys to existing records
             'ec_code': None,
             'date': date,
-            'contract_type': None,
             'payee': payee,
             'anonymized': anonymized,
             'description': description,
