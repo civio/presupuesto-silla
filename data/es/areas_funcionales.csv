@@ -87,6 +87,7 @@
 3,2,6,3,Becas Comedor
 3,2,6,4,Gabinete psicopedagógico
 3,2,6,5,OOAA Conservatorio Música
+3,2,7,0,Bienestar animal
 3,3,0,0,Animador Cultural
 3,3,2,0,Bibliotecas y Archivos
 3,3,2,1,Bibliotecas públicas
@@ -117,10 +118,12 @@
 4,1,0,0,Consejo Local Agrario
 4,1,2,0,Plan Ecológico ganadería y agricultura
 4,1,2,1,Mejora Medio Natural
+4,1,4,0,Desarrollo rural
 4,1,9,0,Coto de caza
 4,3,0,0,Promoción Económica
 4,3,1,1,Feria San Sebastián
-4,3,1,2,Mercados, abastos y lonjas
+4,3,1,2,"Mercados, abastos y lonjas"
+4,3,2,0,Información y promoción turística
 4,3,3,0,Promoción empresarial
 4,5,0,0,Proyectos y direccion obras
 4,5,2,0,Recursos Hidráulicos

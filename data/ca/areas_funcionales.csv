@@ -87,6 +87,7 @@
 3,2,6,3,Beques Menjador
 3,2,6,4,Gabinet psicopedagògic
 3,2,6,5,OOAA Conservatori Música
+3,2,7,0,Benestar animal
 3,3,0,0,Animador Cultural
 3,3,2,0,Biblioteques i Arxius
 3,3,2,1,Biblioteques públiques
@@ -117,10 +118,12 @@
 4,1,0,0,Consell Local Agrari
 4,1,2,0,Pla Ecològic ramaderia i agricultura
 4,1,2,1,Millora Medi Natural
+4,1,4,0,Desenvolupament rural
 4,1,9,0,Vedat de caça
 4,3,0,0,Promoció Econòmica
 4,3,1,1,Fira Sant Sebastià
-4,3,1,2,Mercats, proveïments i llotges
+4,3,1,2,"Mercats, proveïments i llotges"
+4,3,2,0,Informació i promoció turística
 4,3,3,0,Promoció empresarial
 4,5,0,0,Projectes i direcció obres
 4,5,2,0,Recursos Hidràulics
