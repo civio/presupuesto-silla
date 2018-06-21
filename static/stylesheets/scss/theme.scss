@@ -43,13 +43,27 @@
   }
 }
 
-#payments-search .btn-primary{
-  border-color: $panel-default-heading-bg;
-  background-color: $panel-default-heading-bg;
+// Payments search form
+#payments-search{
+  .btn-primary{
+    border-color: $panel-default-heading-bg;
+    background-color: $panel-default-heading-bg;
 
-  &:hover{
-    border-color: $brand-primary;
-    background-color: $brand-primary;
+    &:hover{
+      border-color: $brand-primary;
+      background-color: $brand-primary;
+    }
+  }
+
+  #btn-reset-form{
+    border-color: $brand-secondary;
+    background: $brand-secondary;
+
+    &:hover{
+      color: #fff;
+      border-color: $brand-primary;
+      background-color: $brand-primary;
+    }
   }
 }
 
@@ -62,7 +76,7 @@
   line-height: 32px
 }
 
-
+// Income alerts on budget summary
 .alert-incomes{
   padding-top: 0;
   margin: 0;
