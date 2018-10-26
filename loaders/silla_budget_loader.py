@@ -5,12 +5,11 @@ from budget_app.loaders import SimpleBudgetLoader
 expenses_mapping = {
     'default': {'ic_code': None, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 7, 'actual_amount': 10},
     '2017': {'ic_code': None, 'fc_code': 1, 'full_ec_code': 2, 'description': 4, 'forecast_amount': 8, 'actual_amount': 11},
-    '2018': {'ic_code': None, 'fc_code': 2, 'full_ec_code': 4, 'description': 6, 'forecast_amount': 10, 'actual_amount': 13},
+    '2018': {'ic_code': None, 'fc_code': 2, 'full_ec_code': 4, 'description': 6, 'forecast_amount': 9, 'actual_amount': 12},
 }
 
 income_mapping = {
     'default': {'full_ec_code': 1, 'description': 3, 'forecast_amount': 4, 'actual_amount': 7},
-    '2018': {'full_ec_code': 3, 'description': 4, 'forecast_amount': 6, 'actual_amount': 9},
 }
 
 # Programme codes have changed in 2015, due to new laws. Since the application expects a code-programme
