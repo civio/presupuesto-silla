@@ -14,7 +14,7 @@ payments_mapping = {
     '2010': {'fc_code': 1, 'date': 7, 'payee': 10, 'description': 11, 'amount': 8},
     '2011': {'fc_code': 1, 'date': 7, 'payee': 10, 'description': 11, 'amount': 8},
     '2013': {'fc_code': 1, 'date': 5, 'payee': 9, 'description': 10, 'amount': 6},
-    '2018': {'fc_code': 1, 'date': 5, 'payee': 8, 'description': 9, 'amount': 6},
+    '2018': {'fc_code': 2, 'date': 5, 'payee': 8, 'description': 9, 'amount': 6},
 }
 
 
